@@ -1,0 +1,676 @@
+/* Scoped styles for the drag-and-drop Org Chart Editor. Every rule is nested
+   under .oce-root so nothing here leaks into the rest of the HRMS app. */
+
+.oce-root {
+  --oce-text: #1e293b;
+}
+
+.oce-root .oce-app {
+  display: flex;
+  flex-direction: column;
+  height: calc(100vh - 168px);
+  min-height: 560px;
+  background: #f1f5f9;
+  border: 1px solid #e2e8f0;
+  border-radius: 16px;
+  overflow: hidden;
+  color: var(--oce-text);
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+}
+
+/* ---------- Header ---------- */
+.oce-root .header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  padding: 14px 24px;
+  background: #ffffff;
+  border-bottom: 1px solid #e2e8f0;
+  flex-shrink: 0;
+  z-index: 10;
+}
+
+.oce-root .header-left {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.oce-root .logo {
+  width: 38px;
+  height: 38px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 11px;
+  background: linear-gradient(135deg, #0052CC, #003C99);
+  color: white;
+  font-size: 20px;
+}
+
+.oce-root .header h1 {
+  font-size: 18px;
+  margin: 0;
+  font-weight: 600;
+}
+
+.oce-root .header-center {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex: 1;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.oce-root .count-pill {
+  background: #f1f5f9;
+  border: 1px solid #e2e8f0;
+  border-radius: 999px;
+  padding: 4px 12px;
+  font-size: 12px;
+  color: #475569;
+  font-weight: 500;
+}
+
+.oce-root .connect-banner {
+  background: #eff6ff;
+  border: 1px solid #0052CC;
+  color: #003C99;
+  border-radius: 999px;
+  padding: 4px 14px;
+  font-size: 12px;
+}
+
+.oce-root .connect-banner--danger {
+  background: #fef2f2;
+  border-color: #dc2626;
+  color: #b91c1c;
+}
+
+.oce-root .btn {
+  border: none;
+  border-radius: 8px;
+  padding: 9px 16px;
+  font-size: 13px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: filter 0.15s ease;
+}
+
+.oce-root .btn:disabled {
+  cursor: default;
+  opacity: 0.5;
+}
+
+.oce-root .btn:hover:not(:disabled) {
+  filter: brightness(0.95);
+}
+
+.oce-root .btn-primary {
+  background: #0052CC;
+  color: white;
+}
+
+.oce-root .btn-secondary {
+  background: #f1f5f9;
+  color: #334155;
+}
+
+.oce-root .btn-save {
+  background: #f0fdf4;
+  color: #15803d;
+  border: 1px solid #bbf7d0;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.oce-root .btn-save:disabled {
+  cursor: default;
+  opacity: 0.7;
+}
+
+.oce-root .dirty-dot {
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: #dc2626;
+  flex-shrink: 0;
+}
+
+/* ---------- Modal ---------- */
+.oce-root .modal-backdrop {
+  position: fixed;
+  inset: 0;
+  background: rgba(15, 23, 42, 0.45);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 100;
+}
+
+.oce-root .modal {
+  background: white;
+  border-radius: 12px;
+  padding: 24px;
+  width: 360px;
+  box-shadow: 0 10px 30px rgba(15, 23, 42, 0.2);
+}
+
+.oce-root .modal h2 {
+  margin: 0 0 16px;
+  font-size: 16px;
+}
+
+.oce-root .modal label {
+  display: block;
+  font-size: 12.5px;
+  font-weight: 600;
+  color: #475569;
+  margin-bottom: 12px;
+}
+
+.oce-root .modal input,
+.oce-root .modal select {
+  display: block;
+  width: 100%;
+  margin-top: 6px;
+  padding: 8px 10px;
+  border: 1px solid #cbd5e1;
+  border-radius: 8px;
+  font-size: 13px;
+}
+
+.oce-root .modal-actions {
+  display: flex;
+  justify-content: flex-end;
+  gap: 10px;
+  margin-top: 6px;
+}
+
+/* ---------- Body layout ---------- */
+.oce-root .body {
+  flex: 1;
+  display: flex;
+  min-height: 0;
+}
+
+/* ---------- Side panel ---------- */
+.oce-root .side-panel {
+  width: 260px;
+  flex-shrink: 0;
+  background: #ffffff;
+  border-right: 1px solid #e2e8f0;
+  padding: 16px;
+  overflow-y: auto;
+}
+
+.oce-root .sidebar-counts {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 12px;
+}
+
+.oce-root .side-panel h2 {
+  font-size: 13px;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: #64748b;
+  margin: 0 0 12px;
+}
+
+.oce-root .header-search-wrap {
+  width: 240px;
+  flex-shrink: 0;
+}
+
+.oce-root .header-search-wrap .search-input {
+  font-size: 14px;
+  padding: 9px 14px;
+}
+
+.oce-root .search-input {
+  width: 100%;
+  padding: 8px 10px;
+  border: 1px solid #cbd5e1;
+  border-radius: 8px;
+  font-size: 13px;
+}
+
+.oce-root .search-input:focus {
+  outline: none;
+  border-color: #0052CC;
+  box-shadow: 0 0 0 3px rgba(0, 82, 204, 0.15);
+}
+
+.oce-root .search-result-card {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 10px;
+  cursor: pointer;
+  border-radius: 8px;
+}
+
+.oce-root .search-result-card:hover {
+  background: #f1f5f9;
+}
+
+.oce-root .search-result-info {
+  flex: 1;
+  min-width: 0;
+}
+
+.oce-root .search-result-name {
+  font-size: 12.5px;
+  font-weight: 600;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.oce-root .search-result-meta {
+  font-size: 11px;
+  color: #64748b;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.oce-root .search-result-status {
+  flex-shrink: 0;
+  font-size: 10px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+  color: #94a3b8;
+  background: #f1f5f9;
+  padding: 2px 6px;
+  border-radius: 999px;
+}
+
+.oce-root .search-result-status--placed {
+  color: #15803d;
+  background: #f0fdf4;
+}
+
+.oce-root .avatar--sm {
+  width: 26px;
+  height: 26px;
+  font-size: 10.5px;
+}
+
+.oce-root .panel-empty {
+  font-size: 13px;
+  color: #94a3b8;
+}
+
+.oce-root .card-list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.oce-root .employee-card {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  border: 1.5px solid;
+  border-radius: 10px;
+  padding: 10px;
+  cursor: grab;
+  user-select: none;
+}
+
+.oce-root .employee-card:active {
+  cursor: grabbing;
+}
+
+.oce-root .card-info {
+  min-width: 0;
+}
+
+.oce-root .card-name {
+  font-size: 13px;
+  font-weight: 600;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.oce-root .card-role {
+  font-size: 11.5px;
+  color: #64748b;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.oce-root .dept-badge {
+  font-size: 10.5px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  word-break: break-word;
+  display: block;
+  max-width: 100%;
+}
+
+/* ---------- Canvas ---------- */
+.oce-root .canvas {
+  position: relative;
+  flex: 1;
+  overflow: auto;
+  background-color: #f8fafc;
+  background-image: radial-gradient(circle, #cbd5e1 1px, transparent 1px);
+  background-size: 22px 22px;
+}
+
+.oce-root .level-band {
+  position: absolute;
+  left: 0;
+  background: transparent;
+  pointer-events: none;
+  z-index: 0;
+}
+
+.oce-root .level-band--alt {
+  background: rgba(148, 163, 184, 0.06);
+}
+
+.oce-root .level-divider {
+  position: absolute;
+  left: 0;
+  height: 0;
+  border-top: 1.5px dashed #cbd5e1;
+  pointer-events: none;
+  z-index: 0;
+}
+
+.oce-root .empty-canvas-hint {
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #94a3b8;
+  font-size: 14px;
+  text-align: center;
+  max-width: 320px;
+  pointer-events: none;
+}
+
+.oce-root .edge-layer {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  overflow: visible;
+  pointer-events: none;
+}
+
+.oce-root .edge-path {
+  fill: none;
+  stroke: #94a3b8;
+  stroke-width: 2;
+  pointer-events: none;
+}
+
+.oce-root .edge-path--selected {
+  stroke: #dc2626;
+  stroke-width: 2.5;
+}
+
+.oce-root .edge-hit-area {
+  fill: none;
+  stroke: transparent;
+  stroke-width: 14;
+  pointer-events: stroke;
+  cursor: pointer;
+}
+
+.oce-root .edge-preview {
+  fill: none;
+  stroke: #0052CC;
+  stroke-width: 2;
+  stroke-dasharray: 6 5;
+  animation: oce-dash-flow 0.6s linear infinite;
+}
+
+@keyframes oce-dash-flow {
+  to {
+    stroke-dashoffset: -22;
+  }
+}
+
+/* ---------- Org node ---------- */
+.oce-root .org-node {
+  position: absolute;
+  width: 230px;
+  border: 1.5px solid;
+  border-radius: 12px;
+  padding: 8px 10px 10px;
+  box-shadow: 0 1px 2px rgba(15, 23, 42, 0.06);
+  cursor: grab;
+  user-select: none;
+  box-sizing: border-box;
+}
+
+.oce-root .org-node:active {
+  cursor: grabbing;
+}
+
+.oce-root .org-node--source {
+  outline: 2px solid #0052CC;
+  outline-offset: 2px;
+}
+
+.oce-root .is-highlighted {
+  animation: oce-highlight-pulse 1.1s ease-in-out 2;
+  z-index: 5;
+}
+
+@keyframes oce-highlight-pulse {
+  0%,
+  100% {
+    box-shadow: 0 0 0 4px rgba(0, 82, 204, 0.45);
+  }
+  50% {
+    box-shadow: 0 0 0 10px rgba(0, 82, 204, 0.12);
+  }
+}
+
+.oce-root .org-node-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.oce-root .org-node-info {
+  min-width: 0;
+}
+
+.oce-root .org-node-name {
+  font-size: 13px;
+  font-weight: 600;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.oce-root .org-node-role {
+  font-size: 11.5px;
+  color: #64748b;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.oce-root .org-node .dept-badge {
+  display: block;
+  margin-top: 4px;
+  word-break: break-word;
+}
+
+.oce-root .avatar {
+  flex-shrink: 0;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  color: white;
+  font-size: 12px;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.oce-root .node-actions {
+  position: absolute;
+  top: -14px;
+  right: 6px;
+  display: none;
+  gap: 6px;
+}
+
+.oce-root .org-node:hover .node-actions {
+  display: flex;
+}
+
+.oce-root .node-action-btn {
+  width: 26px;
+  height: 26px;
+  border-radius: 50%;
+  border: 1px solid #e2e8f0;
+  background: white;
+  box-shadow: 0 1px 3px rgba(15, 23, 42, 0.15);
+  cursor: pointer;
+  font-size: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.oce-root .node-action-btn:hover {
+  background: #f1f5f9;
+}
+
+.oce-root .node-action-btn--danger:hover {
+  background: #fee2e2;
+  color: #b91c1c;
+}
+
+/* ---------- Toasts ---------- */
+.oce-root .toast-stack {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  z-index: 200;
+}
+
+.oce-root .toast {
+  padding: 10px 16px;
+  border-radius: 8px;
+  font-size: 13px;
+  font-weight: 500;
+  box-shadow: 0 6px 16px rgba(15, 23, 42, 0.18);
+  color: white;
+}
+
+.oce-root .toast--success {
+  background: #1e293b;
+}
+
+.oce-root .toast--error {
+  background: #dc2626;
+}
+
+/* ---------- Collapse toggle ---------- */
+.oce-root .collapse-toggle {
+  position: absolute;
+  bottom: -12px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+  border: 1.5px solid;
+  background: white;
+  box-shadow: 0 1px 4px rgba(15, 23, 42, 0.15);
+  cursor: pointer;
+  font-size: 9px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 3;
+  transition: background 0.12s;
+}
+
+.oce-root .collapse-toggle:hover {
+  background: #f1f5f9;
+}
+
+/* ---------- Loading / error states ---------- */
+.oce-root .state-screen {
+  height: 100%;
+  min-height: 400px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  color: #475569;
+}
+
+.oce-root .state-error-text {
+  font-weight: 600;
+  color: #b91c1c;
+}
+
+.oce-root .state-error-detail {
+  font-size: 13px;
+  color: #64748b;
+}
+
+.oce-root .spinner {
+  width: 32px;
+  height: 32px;
+  border: 3px solid #e2e8f0;
+  border-top-color: #003C99;
+  border-radius: 50%;
+  animation: oce-spin 0.8s linear infinite;
+}
+
+@keyframes oce-spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* ---------- Responsive: this is a drag-and-drop canvas tool, built for a
+   mouse + wide viewport. On phone/tablet we keep it usable (header wraps,
+   padding shrinks, canvas gets a sane minimum) rather than redesigning the
+   drag interactions themselves. ---------- */
+@media (max-width: 768px) {
+  .oce-root .oce-app {
+    height: auto;
+    min-height: 480px;
+  }
+
+  .oce-root .header {
+    flex-wrap: wrap;
+    gap: 10px;
+    padding: 12px 16px;
+  }
+
+  .oce-root .header-center {
+    order: 3;
+    width: 100%;
+    justify-content: flex-start;
+  }
+}

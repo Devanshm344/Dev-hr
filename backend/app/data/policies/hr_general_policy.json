@@ -1,0 +1,69 @@
+{
+  "title": "Cotelligent General HR Policy",
+  "effective_date": "2024-01-01",
+  "sections": [
+    {
+      "title": "Code of Conduct",
+      "paragraphs": [
+        "All Cotelligent employees are expected to maintain the highest standards of professional conduct, treat all colleagues, clients, and stakeholders with respect and dignity, and uphold the company's core values of integrity, innovation, collaboration, and excellence.",
+        "Harassment, discrimination, bullying, or any form of hostile behavior based on gender, race, religion, nationality, disability, age, or sexual orientation is strictly prohibited. Violations will result in immediate disciplinary action, up to and including termination of employment.",
+        "Employees must protect company confidential information and intellectual property. Sharing sensitive business information, client data, or trade secrets with unauthorized parties is a serious breach of conduct and may result in legal action.",
+        "All employees must comply with the company's IT usage policy, avoiding misuse of company systems, unauthorized software installation, or accessing inappropriate content on company networks."
+      ]
+    },
+    {
+      "title": "Performance Reviews",
+      "paragraphs": [
+        "Performance reviews are conducted on a quarterly basis (informal check-ins) and annually (formal review). The annual performance review directly influences salary increments, promotions, and performance bonuses for the following year.",
+        "Employees are evaluated on role-specific Key Performance Indicators (KPIs), which are set at the beginning of each year in consultation with the reporting manager. Core competency assessments include communication, teamwork, problem-solving, initiative, and adherence to company values.",
+        "Self-assessment is a mandatory component of the annual review. Employees must complete and submit their self-assessment through the HRMS portal before the scheduled review meeting. Peer feedback may also be incorporated as part of the 360-degree feedback process.",
+        "Performance Improvement Plans (PIPs) are issued to employees who consistently fail to meet performance expectations. A PIP includes specific improvement targets, a 90-day timeframe, and regular check-ins with the manager and HR."
+      ]
+    },
+    {
+      "title": "Employee Benefits",
+      "paragraphs": [
+        "All full-time employees are entitled to comprehensive health insurance coverage for themselves, their spouse, and up to 2 dependent children. The company covers 80% of the insurance premium. Term life insurance equal to 3x annual CTC is also provided.",
+        "Provident Fund (PF) contributions are made as per the Employees' Provident Fund and Miscellaneous Provisions Act. Both the employee and employer contribute 12% of the basic salary towards PF.",
+        "Employees who have completed 5 or more years of continuous service are eligible for gratuity payment as per the Payment of Gratuity Act. The gratuity amount is calculated as 15 days salary for each completed year of service.",
+        "The company provides an annual professional development budget for courses, certifications, and conferences relevant to the employee's role. Employees must obtain prior approval from their manager and HR before enrolling in any paid training program.",
+        "An Employee Stock Option Plan (ESOP) may be offered to eligible employees at the discretion of management, based on role, performance, and tenure."
+      ]
+    },
+    {
+      "title": "Grievance Redressal Policy",
+      "paragraphs": [
+        "Cotelligent is committed to providing a fair and transparent mechanism for resolving employee grievances. Employees who have a concern should first attempt to resolve it informally by discussing it with their direct manager.",
+        "If the issue is not resolved informally within 5 working days, the employee may submit a formal grievance by emailing hr@cotelligent.com or through the HRMS portal's grievance module.",
+        "HR will acknowledge receipt of the formal grievance within 2 working days and investigate the matter within 10 working days. The employee will receive a written response with the findings and resolution.",
+        "Employees have the right to appeal the decision within 5 working days of receiving the response. The appeal will be reviewed by senior HR management. Retaliation against any employee who raises a grievance in good faith is strictly prohibited."
+      ]
+    },
+    {
+      "title": "Resignation and Separation",
+      "paragraphs": [
+        "Employees wishing to resign must provide written notice as per their employment contract. The standard notice period is 30 days for staff-level employees and 60 days for managerial and senior positions.",
+        "The notice period can be waived or shortened at the mutual agreement of both parties. Employees are expected to complete thorough knowledge transfer to a designated colleague during the notice period.",
+        "The company reserves the right to buy out the notice period by paying the equivalent salary. Similarly, an employee may request notice buyout by paying the equivalent salary.",
+        "Full and final settlement, including all pending salary, earned leave encashment, expense reimbursements, and statutory deductions, will be processed within 45 days of the last working day.",
+        "Employees must return all company assets (laptops, access cards, mobile devices) on or before the last working day. Failure to do so may delay the full and final settlement."
+      ]
+    },
+    {
+      "title": "Anti-Harassment and POSH Policy",
+      "paragraphs": [
+        "Cotelligent has a zero-tolerance policy for sexual harassment in the workplace, in compliance with the Prevention of Sexual Harassment (POSH) Act. All employees must attend the mandatory POSH training.",
+        "An Internal Complaints Committee (ICC) has been constituted to receive and investigate complaints of sexual harassment. Employees can report complaints to the ICC at posh@cotelligent.com.",
+        "All complaints will be investigated confidentially within the timelines mandated by the POSH Act. The identities of the complainant and respondent will be kept confidential throughout the process."
+      ]
+    },
+    {
+      "title": "Dress Code",
+      "paragraphs": [
+        "Business casual dress is the standard for office days. Employees meeting clients, attending external events, or participating in official company functions are expected to wear formal business attire.",
+        "Casual Fridays allow employees to dress in smart casual attire. Clothing with offensive graphics, inappropriate language, or political messaging is not permitted at any time.",
+        "Employees working in technical roles who work in labs or server rooms may wear appropriate casual attire suited to their work environment."
+      ]
+    }
+  ]
+}

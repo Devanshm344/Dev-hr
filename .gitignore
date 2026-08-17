@@ -1,0 +1,77 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+dist/
+build/
+
+# Documentation
+docs/
+
+# Python
+venv/
+env/
+ENV/
+.venv/
+*.pyc
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.eggs/
+*.egg
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+pgdata/
+postgres_data/
+backend/app/data/chroma_db/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Environment variables
+.env.local
+.env.*.local
+backend/.env
+
+# Alumni Network sub-app secrets
+alumni-network/backend/.env
+alumni-network/frontend/.env
+
+# Logs
+*.log
+logs/
+
+# Testing
+.coverage
+htmlcov/
+.pytest_cache/
+.tox/
+
+# ML Models
+ml_models/*.pkl
+ml_models/*.joblib
+*.h5
+*.pb
+
+# Temporary files
+*.tmp
+*.bak
+*.cache
+.cache/
+
+# Runtime/uploaded data (PII, not source)
+backend/uploads/
+orgxlsx.json

@@ -1,0 +1,57 @@
+{
+  "title": "Cotelligent Attendance Policy",
+  "effective_date": "2024-01-01",
+  "sections": [
+    {
+      "title": "Standard Working Hours",
+      "paragraphs": [
+        "Standard working hours are 9:00 AM to 6:00 PM, Monday to Friday, with a 1-hour unpaid lunch break. The total required working hours are 8 hours per day and 40 hours per week. Saturday and Sunday are designated weekend days.",
+        "Employees must check in by 9:30 AM to be marked as present for the day. Arrivals between 9:30 AM and 10:00 AM will be recorded as 'Late Arrival'. More than 3 late arrivals in a calendar month will result in a half-day leave deduction.",
+        "Employees arriving after 10:00 AM without prior approval will be marked as half-day absent. Consistent late arrivals may result in disciplinary action."
+      ]
+    },
+    {
+      "title": "Check-In and Check-Out Procedure",
+      "paragraphs": [
+        "All employees must record their attendance by checking in and checking out using the HRMS portal or biometric system each working day. This is mandatory for all employees including managers and senior staff.",
+        "Failure to check in on any working day without prior notification to the manager and HR will be treated as an unauthorized absence and marked as Loss of Pay (LOP).",
+        "If an employee forgets to check out, they must notify their manager and HR via email or the HRMS portal on the same day. The attendance record will be corrected by HR upon receiving the email. Repeated instances (more than 2 per month) of missed check-out may result in a written warning.",
+        "Remote and work-from-home employees must follow the same check-in and check-out procedure through the HRMS portal. All attendance data is recorded in real-time and visible to managers."
+      ]
+    },
+    {
+      "title": "Overtime Policy",
+      "paragraphs": [
+        "Overtime is defined as work performed beyond 8 hours on a regular working day or any work done on weekends or public holidays at the request of the employer. All overtime must be pre-approved by the reporting manager.",
+        "For non-managerial employees, overtime is compensated at 1.5x the regular hourly rate. Alternatively, employees may opt for compensatory time off (Comp-off) at the rate of 1 day per day worked, to be taken within 30 days of accrual.",
+        "Managerial and senior-level employees may not be eligible for overtime pay as per their employment agreements. Their overtime hours may be recognized through compensatory off at management's discretion.",
+        "Overtime claims must be submitted through the HRMS system within 3 working days of the overtime event. The system automatically calculates overtime based on check-in and check-out times."
+      ]
+    },
+    {
+      "title": "Absence Reporting",
+      "paragraphs": [
+        "Any unplanned absence must be communicated to the direct manager and HR via phone call or message before 9:30 AM on the day of absence. Email notification alone is not sufficient for same-day absences.",
+        "Employees who fail to report their absence without a valid reason will have the day marked as unauthorized absence and Loss of Pay (LOP). Repeated unauthorized absences (3 or more in a month) may lead to disciplinary action.",
+        "For planned absences such as medical appointments or personal commitments, employees must apply for leave in advance through the HRMS portal and receive approval before being absent."
+      ]
+    },
+    {
+      "title": "Work From Home (WFH) Policy",
+      "paragraphs": [
+        "Employees may work from home with prior approval from their reporting manager. The number of WFH days permitted varies by department and role type, as communicated by HR.",
+        "Employees on WFH are expected to be fully available during standard working hours (9 AM to 6 PM), respond to calls and messages promptly, attend all scheduled meetings via video conferencing, and maintain the same level of productivity as in-office work.",
+        "WFH is not a substitute for leave. If an employee is ill or has personal commitments that prevent effective work, they must apply for leave instead of WFH. Working from home on a day declared as a public holiday is not permitted unless explicitly approved by management.",
+        "Employees must ensure a secure and professional work environment when working from home, particularly regarding confidential company data and client information."
+      ]
+    },
+    {
+      "title": "Attendance Regularization",
+      "paragraphs": [
+        "If an employee's attendance is incorrectly recorded due to system issues or other valid reasons, they may apply for attendance regularization through the HRMS portal within 3 working days.",
+        "Regularization requests must be approved by the reporting manager. HR will update attendance records once the request is approved. More than 2 regularization requests per month for the same type of issue may require HR review.",
+        "Retroactive attendance correction for periods older than 7 days requires HR manager approval in addition to the direct manager's approval."
+      ]
+    }
+  ]
+}

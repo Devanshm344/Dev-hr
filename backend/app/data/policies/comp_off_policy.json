@@ -1,0 +1,41 @@
+{
+  "title": "Cotelligent Compensatory Off (Comp-Off) Policy",
+  "sections": [
+    {
+      "title": "Objective and Scope",
+      "paragraphs": [
+        "The Compensatory Off (Comp-Off) Policy defines the entitlement and procedure for availing compensatory leave for associates who work on declared public holidays, weekly off days (weekends), or beyond standard working hours. This policy is applicable to all full-time permanent employees of Cotelligent."
+      ]
+    },
+    {
+      "title": "Eligibility for Comp-Off",
+      "paragraphs": [
+        "An associate is eligible for Comp-Off when they work on a declared public holiday or a weekly off day (Saturday or Sunday), provided the work is done at the request of the reporting manager and is documented.",
+        "The associate must work a minimum of 7 hours on the holiday or weekend day to be eligible for one full day of Comp-Off. If the associate works between 4 and 7 hours, half a day of Comp-Off is credited.",
+        "Comp-Off is not applicable for associates whose job profiles inherently include weekend or holiday work (e.g., on-call staff, operations staff on rotating shifts). Those associates are governed by separate on-call or shift allowance policies."
+      ]
+    },
+    {
+      "title": "Comp-Off Credit and Expiry",
+      "paragraphs": [
+        "Comp-Off days are credited to the associate's leave account upon manager approval. The associate must apply for Comp-Off through the ZOHO HR system within 3 working days of the day worked.",
+        "Comp-Off must be availed within 90 days of accrual. Any Comp-Off days not availed within 90 days will lapse and cannot be encashed or carried forward beyond this period.",
+        "Associates cannot accumulate more than 5 Comp-Off days at any given time. Once the maximum is reached, additional holiday working will not result in further Comp-Off credits until existing credits are used."
+      ]
+    },
+    {
+      "title": "How to Apply for Comp-Off",
+      "paragraphs": [
+        "To apply for Comp-Off accrual: submit a request in ZOHO within 3 working days of the holiday/weekend worked, mention the date worked, hours worked, and the nature of work, and obtain manager approval.",
+        "To avail Comp-Off leave: apply for leave in ZOHO selecting 'Comp-Off' as the leave type, choose the date(s) for which you wish to avail the leave, and obtain manager approval at least 24 hours in advance (or same day for emergencies)."
+      ]
+    },
+    {
+      "title": "Manager Responsibilities",
+      "paragraphs": [
+        "Reporting managers are responsible for: formally requesting associates to work on holidays/weekends in advance, approving Comp-Off credits promptly in ZOHO, and ensuring associates avail Comp-Off within the 90-day window to avoid lapse.",
+        "Managers should plan work allocation to minimize holiday/weekend working and should not expect associates to work on holidays without formal approval and Comp-Off compensation."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,274 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Color tokens below are Cotelligent HRMS's palette (frontend/src/theme/colors.js),
+   converted from hex to shadcn's "H S% L%" CSS-variable format. Variable NAMES stay
+   shadcn's own (--primary, --secondary, --accent, ...) so every existing component
+   keeps working unchanged — only the VALUES were replaced, mapped by what each slot
+   is actually used for rather than by name:
+     --primary   -> Cotelligent primary-600 (#0052CC), the brand action color
+     --primary-2 -> Cotelligent secondary-400 (#00B4FF), the gradient partner
+                    (this var already existed here for .td-gradient — updating its
+                    value alone turns that gradient into Cotelligent's exact
+                    BRAND_GRADIENT with no other code change)
+     --secondary -> kept as a NEUTRAL surface tint (shadcn's own meaning: muted
+                    backgrounds/hover states), retinted to Cotelligent's gray ramp —
+                    NOT set to cyan, which would turn every `bg-secondary`/
+                    `hover:bg-secondary` surface in the app bright cyan instead of a
+                    neutral hover tint. */
+@layer base {
+  :root {
+    --font-inter: 'Inter', system-ui, sans-serif;
+    --font-heading: 'Plus Jakarta Sans', 'Inter', system-ui, sans-serif;
+    --background: 210 40% 96%;      /* gray-100 #f1f5f9 — Cotelligent's page background */
+    --foreground: 222 47% 11%;      /* gray-900 #0f172a — body text */
+    --card: 0 0% 100%;              /* white */
+    --card-foreground: 222 47% 11%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 222 47% 11%;
+    --primary: 216 100% 40%;        /* primary-600 #0052CC */
+    --primary-foreground: 0 0% 100%;
+    --secondary: 214 32% 91%;       /* gray-200 #e2e8f0 — neutral surface, not brand cyan */
+    --secondary-foreground: 215 25% 27%; /* gray-700 */
+    --muted: 210 40% 96%;           /* gray-100 */
+    --muted-foreground: 215 16% 47%; /* gray-500 */
+    --accent: 214 100% 97%;         /* primary-50 — light brand tint for hover/highlight */
+    --accent-foreground: 216 100% 30%; /* primary-700 */
+    --destructive: 0 84% 60%;       /* error-500 #ef4444 */
+    --destructive-foreground: 0 0% 100%;
+    --border: 213 27% 84%;          /* gray-300 #cbd5e1 — Cotelligent's explicit card-border token */
+    --input: 214 32% 91%;           /* gray-200 */
+    --ring: 214 88% 52%;            /* primary-500 #1a75f0 */
+    --chart-1: 216 100% 40%;        /* primary-600 */
+    --chart-2: 198 100% 50%;        /* secondary-400 */
+    --chart-3: 160 84% 39%;         /* success-500 */
+    --chart-4: 38 92% 50%;          /* warning-500 */
+    --chart-5: 0 84% 60%;           /* error-500 */
+    --radius: 0.5rem;               /* 8px — Cotelligent's card radius (Card uses rounded-lg = this var directly) */
+    --sidebar-width: 256px;
+    --sidebar-collapsed: 64px;
+    --primary-2: 198 100% 50%;      /* secondary-400 #00B4FF — gradient partner, see note above */
+
+    /* TechDemocracy brand colors — predates this port and is no longer read by
+       any component (superseded by --primary above, which is now the same hue).
+       Left in place rather than deleted since nothing here references it either way. */
+    --td-blue-50: 213 100% 96%;
+    --td-blue-100: 213 96% 90%;
+    --td-blue-200: 213 92% 80%;
+    --td-blue-300: 213 90% 68%;
+    --td-blue-400: 213 88% 55%;
+    --td-blue-500: 213 94% 39%;
+    --td-blue-600: 213 94% 32%;
+    --td-blue-700: 213 94% 26%;
+    --td-blue-800: 213 94% 20%;
+    --td-blue-900: 213 94% 14%;
+
+    --success: 160 84% 39%;         /* success-500 #10b981 */
+    --success-foreground: 0 0% 100%;
+    --warning: 38 92% 50%;          /* warning-500 #f59e0b */
+    --warning-foreground: 0 0% 100%;
+    --info: 217 91% 60%;            /* info-500 #3b82f6 */
+    --info-foreground: 0 0% 100%;
+  }
+
+  /* Cotelligent's own audit documents no dark-mode palette at all — this app's
+     dark mode already exists and works (next-themes toggle in the navbar), so
+     rather than deleting a working feature to match an undocumented gap, these
+     values are derived from Cotelligent's same ramps using the same lighten-for-
+     dark-backgrounds approach the previous dark block already used. */
+  .dark {
+    --background: 222 47% 11%;      /* gray-900 */
+    --foreground: 210 40% 98%;      /* gray-50 */
+    --card: 217 33% 17%;            /* gray-800 */
+    --card-foreground: 210 40% 98%;
+    --popover: 217 33% 17%;
+    --popover-foreground: 210 40% 98%;
+    --primary: 213 100% 65%;        /* primary-400 — lightened for contrast on dark bg */
+    --primary-foreground: 0 0% 100%;
+    --secondary: 215 25% 27%;       /* gray-700 */
+    --secondary-foreground: 210 40% 96%; /* gray-100 */
+    --muted: 217 33% 17%;           /* gray-800 */
+    --muted-foreground: 215 20% 65%; /* gray-400 */
+    --accent: 217 95% 23%;          /* primary-800 */
+    --accent-foreground: 213 100% 87%; /* primary-200 */
+    --destructive: 0 72% 51%;       /* error-600 */
+    --destructive-foreground: 0 0% 98%;
+    --border: 215 25% 27%;          /* gray-700 */
+    --input: 215 25% 27%;
+    --ring: 213 100% 65%;           /* primary-400 */
+    --primary-2: 199 100% 42%;      /* secondary-500 — deepened cyan for dark-bg gradient legibility */
+    --chart-1: 213 100% 65%;
+    --chart-2: 196 100% 68%;        /* secondary-300 */
+    --chart-3: 160 84% 39%;
+    --chart-4: 38 92% 50%;
+    --chart-5: 0 84% 60%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground antialiased font-sans;
+    font-feature-settings: "rlig" 1, "calt" 1;
+  }
+}
+
+@layer utilities {
+  .td-gradient {
+    background: linear-gradient(135deg, hsl(var(--primary)) 0%, hsl(var(--primary-2)) 100%);
+  }
+  .td-gradient-dark {
+    background: linear-gradient(135deg, hsl(229, 76%, 38%) 0%, hsl(257, 70%, 46%) 100%);
+  }
+  .sidebar-transition {
+    transition: width 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  }
+  .fade-in {
+    animation: fadeIn 0.3s ease-in-out both;
+  }
+  .slide-up {
+    animation: slideUp 0.4s ease-out both;
+  }
+
+  /* Cotelligent motion vocabulary — added alongside the utilities above
+     rather than replacing them, since fade-in/slide-up/skeleton-shimmer/
+     sidebar-transition already cover the same ground under this app's own
+     names and existing call sites depend on them. */
+  .animate-fade-up {
+    animation: fadeUp 0.35s ease-out both;
+  }
+  .card-lift {
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  }
+  .card-lift:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 12px 28px -8px hsl(var(--foreground) / 0.18);
+  }
+  .live-dot {
+    position: relative;
+  }
+  .live-dot::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    border-radius: 9999px;
+    background: inherit;
+    animation: livePing 1.8s cubic-bezier(0, 0, 0.2, 1) infinite;
+  }
+  .stagger > * {
+    opacity: 0;
+    animation: fadeUp 0.35s ease-out both;
+  }
+  .stagger > *:nth-child(1) { animation-delay: 0ms; }
+  .stagger > *:nth-child(2) { animation-delay: 55ms; }
+  .stagger > *:nth-child(3) { animation-delay: 110ms; }
+  .stagger > *:nth-child(4) { animation-delay: 165ms; }
+  .stagger > *:nth-child(5) { animation-delay: 220ms; }
+  .stagger > *:nth-child(6) { animation-delay: 275ms; }
+  .stagger > *:nth-child(7) { animation-delay: 330ms; }
+  .stagger > *:nth-child(n+8) { animation-delay: 385ms; }
+  .glow-indigo {
+    box-shadow: 0 0 32px 4px hsl(var(--primary) / 0.35);
+  }
+  .glow-green {
+    box-shadow: 0 0 32px 4px hsl(var(--success) / 0.35);
+  }
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes slideUp {
+  from { opacity: 0; transform: translateY(12px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(12px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes livePing {
+  0% { transform: scale(1); opacity: 0.6; }
+  75%, 100% { transform: scale(2.2); opacity: 0; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .animate-fade-up, .stagger > *, .live-dot::after {
+    animation: none !important;
+  }
+  .card-lift:hover {
+    transform: none;
+  }
+}
+
+/* Hero banner ambient glow — two soft radial highlights, additive to .td-gradient */
+.hero-glow {
+  position: relative;
+  overflow: hidden;
+}
+.hero-glow::before,
+.hero-glow::after {
+  content: "";
+  position: absolute;
+  border-radius: 50%;
+  background: radial-gradient(circle, rgba(255,255,255,.32), transparent 70%);
+  pointer-events: none;
+}
+.hero-glow::before { width: 280px; height: 280px; top: -60%; right: -6%; }
+.hero-glow::after { width: 220px; height: 220px; bottom: -70%; left: 8%; background: radial-gradient(circle, rgba(255,255,255,.16), transparent 70%); }
+
+/* Shimmering loading skeleton */
+.skeleton-shimmer {
+  position: relative;
+  overflow: hidden;
+  background: hsl(var(--muted));
+}
+.skeleton-shimmer::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  transform: translateX(-100%);
+  background-image: linear-gradient(90deg, transparent, hsl(var(--card) / 0.55), transparent);
+  animation: shimmer 1.6s ease-in-out infinite;
+}
+@keyframes shimmer {
+  100% { transform: translateX(100%); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .fade-in, .slide-up, .skeleton-shimmer::after {
+    animation: none !important;
+  }
+}
+
+/* Scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: hsl(var(--muted));
+}
+::-webkit-scrollbar-thumb {
+  background: hsl(var(--border));
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: hsl(var(--muted-foreground));
+}
+
+/* Radix ScrollArea injects an internal content wrapper with
+   `display: table` so it can measure content size for scrollbars.
+   That makes table auto-sizing (not the visible column width) drive
+   truncate/ellipsis math on any child, letting long nowrap text push
+   the wrapper wider than the visible viewport. Force it back to a
+   normal block box so children truncate against the real width. */
+[data-radix-scroll-area-viewport] > div {
+  display: block !important;
+}

@@ -1,0 +1,73 @@
+{
+  "title": "Cotelligent Leave Policy",
+  "effective_date": "2024-01-01",
+  "sections": [
+    {
+      "title": "Casual Leave",
+      "paragraphs": [
+        "All full-time employees are entitled to 12 days of casual leave per calendar year. Casual leave is for personal emergencies, urgent personal work, or short-duration personal needs. Casual leave cannot be accumulated or carried forward to the next calendar year and will lapse if unused.",
+        "Casual leave requires prior approval from the reporting manager unless it is an emergency. For planned casual leave, employees must submit a request through the HRMS portal at least 24 hours in advance. In emergencies, the employee must inform the manager via phone or message immediately and submit the leave request as soon as possible.",
+        "Casual leave can be taken in half-day increments. Unused casual leave at the end of the year will lapse and cannot be encashed. Casual leave cannot be combined with earned leave for extended trips."
+      ]
+    },
+    {
+      "title": "Sick Leave",
+      "paragraphs": [
+        "All full-time employees are entitled to 10 days of sick leave per calendar year. Sick leave is specifically for health-related absences due to illness, injury, or medical appointments.",
+        "For sick leave exceeding 3 consecutive days, a medical certificate from a registered medical practitioner must be submitted to HR within 2 days of returning to work. Sick leave cannot be encashed but can be carried forward to the next year up to a maximum cumulative balance of 30 days.",
+        "Sick leave applications must be submitted through the HRMS portal on the same day or the next working day. If an employee is too ill to submit, a family member may submit on their behalf or it can be submitted upon return."
+      ]
+    },
+    {
+      "title": "Earned Leave (Annual Leave)",
+      "paragraphs": [
+        "Full-time employees accrue 1.75 days of earned leave per month, resulting in 21 days per year. Earned leave begins accruing from the first day of employment but can only be taken after completing 6 months of service.",
+        "Earned leave can be accumulated up to a maximum of 60 days. Any balance exceeding 60 days will automatically lapse at the end of the calendar year. Employees are encouraged to plan and take earned leave regularly.",
+        "Earned leave requests must be submitted at least 7 calendar days in advance for leaves up to 5 days, and at least 15 calendar days in advance for leaves longer than 5 days. Approval is subject to business requirements and manager discretion.",
+        "Earned leave can be encashed upon resignation, retirement, or end of employment contract at the rate of basic salary. A minimum of 5 days of earned leave must be taken in each calendar year to promote work-life balance.",
+        "Short leaves can also be taken from earned leave balance. Employees can take earned leave in half-day increments."
+      ]
+    },
+    {
+      "title": "Maternity Leave",
+      "paragraphs": [
+        "Female employees who have worked for at least 80 days in the 12 months preceding the expected delivery date are entitled to 182 days (26 weeks) of fully paid maternity leave. This is in compliance with the Maternity Benefit (Amendment) Act, 2017.",
+        "For a third child or subsequent children, the maternity leave entitlement is 12 weeks (84 days). Maternity leave can commence up to 8 weeks before the expected date of delivery.",
+        "The employee must provide a medical certificate confirming pregnancy and expected date of delivery when applying for maternity leave. During maternity leave, the employee receives full pay and all applicable allowances.",
+        "An additional 12 weeks of unpaid maternity leave may be granted upon request for medical reasons, subject to HR approval and medical documentation. Job security and same position/grade are guaranteed upon return from maternity leave.",
+        "For adoptive mothers adopting a child below the age of 3 months, 12 weeks of maternity leave is available."
+      ]
+    },
+    {
+      "title": "Paternity Leave",
+      "paragraphs": [
+        "Male employees are entitled to 15 days of paid paternity leave upon the birth of a child. Paternity leave should be taken within 3 months of the child's birth.",
+        "The employee must provide proof of the birth (birth certificate or hospital discharge summary) when submitting the leave request. Paternity leave can be taken in one continuous block or split into a maximum of 2 segments.",
+        "Paternity leave cannot be combined with other types of paid leave. Unused paternity leave for a birth event cannot be carried forward."
+      ]
+    },
+    {
+      "title": "Bereavement Leave",
+      "paragraphs": [
+        "Employees are entitled to 3 days of paid bereavement leave in case of the death of an immediate family member (spouse, child, parent, or sibling). For extended family (grandparent, in-laws), 1 day of bereavement leave is provided.",
+        "Additional leave beyond the bereavement entitlement can be taken from the casual leave or earned leave balance. Bereavement leave should be applied for as soon as possible."
+      ]
+    },
+    {
+      "title": "Leave Without Pay (LWP)",
+      "paragraphs": [
+        "In exceptional circumstances, employees may apply for leave without pay when all other applicable leave balances are exhausted. LWP requires prior approval from HR and senior management and is not a right but a special concession.",
+        "Leave without pay results in proportional salary deduction. Extended LWP of more than 30 consecutive days may affect the calculation of PF, gratuity, and other statutory benefits.",
+        "Employees on LWP must return on the agreed date. Failure to return without notice may be treated as abandonment of service."
+      ]
+    },
+    {
+      "title": "Public Holidays",
+      "paragraphs": [
+        "The company observes all national public holidays declared by the central government. Additionally, employees may choose up to 2 optional holidays (restricted holidays) per year from a pre-approved list of regional or religious festivals.",
+        "The annual holiday calendar is published at the beginning of each calendar year. Public holidays falling on weekends are not substituted with another day off unless communicated otherwise.",
+        "Employees required to work on a public holiday due to business necessity will receive compensatory leave equivalent to the time worked, to be taken within 30 days."
+      ]
+    }
+  ]
+}

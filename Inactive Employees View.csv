@@ -1,0 +1,839 @@
+ZOHO_LINK_ID,EmployeeID,"First Name","Last Name","Email ID",Department,Title,"Employee Status","Date of exit","Date of joining / Rehire Date"
+271501000039641019,622,Ravipalli,"Venkata Sowjanya",sowjanya.ravipalli@techdemocracy.com,"Cyber Risk Security & Governance","Senior Security Solutions Consultant",Resigned,15-May-2026,13-Apr-2026
+271501000038403199,616,Rounak,Muchhal,rounak.muchhal@techdemocracy.com,"Cyber Risk Security & Governance","Senior Security Solutions Consultant",Resigned,05-May-2026,16-Feb-2026
+271501000037543053,609,Neelmadhav,Panda,neel.madhav@techdemocracy.com,"Cyber Risk Security & Governance","Security Solutions Architect",Resigned,23-Apr-2026,29-Dec-2025
+271501000035968235,100328,Jarrod,Zvara,jarrod.zvara@techdemocracy.com,"Cyber Risk Security & Governance","Project Manager",Resigned,08-Oct-2025,24-Sep-2025
+271501000034968181,593,"Bhanu Prasad",K,bhanuprasad.k@techdemocracy.com,"Cyber Risk Security & Governance","Senior SIEM Administrator",Resigned,14-Oct-2025,21-Jul-2025
+271501000034204001,100327,Derek,Tannahill,derek.tannahill@techdemocracy.com,Sales,"Vice President of Strategic Account Development",Resigned,08-Aug-2025,27-May-2025
+271501000033766019,200031,Joe,Licini,joe.licini@techdemocracy.com,Sales,"Regional Director - Growth, East Canada",Resigned,16-Jan-2026,20-May-2025
+271501000033587402,100326,Sirisha,Maddikunta,sirisha.maddikunta@techdemocracy.com,"Cyber Risk Security & Governance","IT – Quality Reviewer",Resigned,06-Jan-2026,14-Apr-2025
+271501000033587047,100325,Jaleel,Hassan,jaleel.hassan@techdemocracy.com,"Cyber Risk Security & Governance","Senior DevOps Engineer",Resigned,13-Jun-2025,12-May-2025
+271501000033468064,200029,William,Wolff,william.wolff@techdemocracy.com,Sales,"Regional Manager, Growth - Western Canada",Resigned,16-Jan-2026,05-May-2025
+271501000033258183,200025,Ian,Singh,ian.singh@techdemocracy.com,Sales,"Regional Manager – Growth",Resigned,29-Apr-2025,21-Apr-2025
+271501000033189226,100323,Walter,Lewis,walter.lewis@techdemocracy.com,Sales,"Senior Advisor- Growth & Customer Success – TOLA Region",Terminated,15-Jul-2025,15-Apr-2025
+271501000033076174,100321,Jim,Taylor,jim.taylor@techdemocracy.com,Sales,"Advisor- Growth & Customer Success – North East",Resigned,22-May-2026,07-Apr-2025
+271501000032961253,583,Sweata,Saha,sweata.saha@techdemocracy.com,Marketing,Associate,Resigned,19-Jun-2026,01-Apr-2025
+271501000032859102,100324,Subhadeepa,Nallasamy,subhadeepa.nallasamy@techdemocracy.com,"Cyber Risk Security & Governance","IT Data Analyst",Resigned,31-May-2025,19-Mar-2025
+271501000032765019,100317,viresh,Garg,viresh.garg@techdemocracy.com,"Cyber Risk Security & Governance","Senior Vice President - Cyber Security, Innovation/products & emerging technologies",Resigned,21-Dec-2025,06-Jan-2025
+271501000032484137,100320,Andrew,Gray,andrew.gray@techdemocracy.com,Sales,"Senior Advisor- Growth & Customer Success – TOLA",Terminated,14-Jul-2025,24-Feb-2025
+271501000032292013,581,Shoaib,Shaik,shoaib.shaik@techdemocracy.com,"Cyber Risk Security & Governance","Trainee Consultant",Resigned,24-Jun-2025,10-Feb-2025
+271501000032072021,100319,Michael,Kreppein,michael.kreppein@techdemocracy.com,Sales,"Vice President, Sales -North America",Terminated,02-Sep-2025,27-Jan-2025
+271501000031989001,CT020,Mrutunjay,Shinde,m.shinde@techdemocracy.com,"Cyber Risk Security & Governance","Trainee Consultant",Resigned,15-Sep-2025,22-Jan-2025
+271501000031782841,CIPL0060,Manoj,Kumar,manoj.kumar@techdemocracy.com,"Cyber Risk Security & Governance","Senior Consultant",Terminated,28-Jan-2025,07-Jan-2025
+271501000031756402,CIPL0059,Nandhitha,Katragadda,nanditha.katragadda@techdemocracy.com,"Cyber Risk Security & Governance",Consultant,Resigned,16-Apr-2025,02-Jan-2025
+271501000031109925,CIPL0058,"Trinesh Kumar",Koduru,trinesh.koduru@techdemocracy.com,"Cyber Risk Security & Governance","Senior Consultant",Resigned,28-Feb-2025,02-Dec-2024
+271501000031035222,580,Gummadavelli,"Naveen Kumar",naveen.gummadavelli@techdemocracy.com,Marketing,"Trainee - Marketing",Resigned,14-Feb-2025,25-Nov-2024
+271501000030933536,578,Bollu,"Shyam Kumar",shyam.bollu@techdemocracy.com,"Cyber Risk Security & Governance","Advisory Manager - Managed Security Services",Resigned,04-Apr-2025,18-Nov-2024
+271501000030903053,200028,Sabina,Khan,sabina.khan@techdemocracy.com,Sales,"Sales Advisor – Growth & Customer Success, Western Canada",Resigned,20-Feb-2025,12-Nov-2024
+271501000030694228,576,Bomminedi,"Sai Tarun Kumar",tarun.bomminedi@techdemocracy.com,"Cyber Risk Security & Governance","Senior Security Consultant",Resigned,07-Feb-2025,22-Oct-2024
+271501000030609571,CIPL0057,"Chagam Lakshma",Reddy,lakshmachagam@techdemocracy.com,"Cyber Risk Security & Governance","Senior Consultant",Resigned,07-Mar-2025,14-Oct-2024
+271501000030584236,575,Prachee,Nathani,prachee.nathani@techdemocracy.com,"Cyber Risk Security & Governance","Senior Advisory Manager",Resigned,,07-Oct-2024
+271501000030337240,100316,Guy,Markus,guy.markus@techdemocracy.com,Sales,"Senior Sales Advisor – South East",Resigned,07-Mar-2025,23-Sep-2024
+271501000030263012,100315,"Manikanta Prasad",Boinapally,manikanta@techdemocracy.com,"Cyber Risk Security & Governance","Senior Advisory Consultant",Resigned,07-May-2025,13-Sep-2024
+271501000030167058,100314,Jay,Bromberek,jay.bromberek@techdemocracy.com,Sales,"Senior Advisor- Growth & Customer Success for North Central territory",Resigned,14-Nov-2025,09-Sep-2024
+271501000030126369,CIPL0056,"Venu Chandar Reddy",Bobbali,venu.bobbali@techdemocracy.com,"Cyber Risk Security & Governance",Consultant,Resigned,31-Oct-2024,06-Sep-2024
+271501000030061638,100313,Mark,Wilson,mark.wilson@techdemocracy.com,Sales,"Senior Advisor – Growth & Customer Success",Resigned,11-Dec-2024,03-Sep-2024
+271501000029670535,100312,Peter,Rodriguez,peter.rodriguez@techdemocracy.com,"Cyber Risk Security & Governance","VP –Channel & Alliances",Resigned,25-Jul-2025,07-Aug-2024
+271501000029679425,CIPL0055,Prachee,Nathani,pracheenathani@techdemocracy.com,"Cyber Risk Security & Governance",Contractor,Resigned,07-Oct-2024,23-Jul-2024
+271501000029679386,CIPL0054,Shubham,Rana,shubham.rana@techdemocracy.com,"Cyber Risk Security & Governance",Contractor,Resigned,24-Oct-2024,23-Jul-2024
+271501000029228358,CIPL0053,Amareswar,Reddy,amar.reddy@techdemocracy.com,"Cyber Risk Security & Governance","Senior Consultant",Resigned,05-Nov-2024,08-Jul-2024
+271501000029228099,573,Abhinetra,Nelakuditi,abhinetra.nelakuditi@techdemocracy.com,"Inside Sales","Associate - Inside Sales",Resigned,27-Mar-2026,08-Jul-2024
+271501000029228052,572,Dnyaneshwar,Patil,dnyaneshwar.patil@techdemocracy.com,"Growth Practices","Senior Manager - Growth",Resigned,30-Jun-2025,08-Jul-2024
+271501000028997414,TDC089,Suresh,Musireddy,sureshmusireddy@techdemocracy.com,"Cyber Risk Security & Governance","Technical Systems Architect",Resigned,,17-Jun-2024
+271501000028997029,100310,Neil,Nelson,neil.nelson@techdemocracy.com,Sales,"Regional Director – Growth (PNW & AZ/NV)",Resigned,14-Jun-2024,13-Jun-2024
+271501000028938188,CIPL0052,Venkateswarlu,Talapaneni,venkateswarlu.talapaneni@techdemocracy.com,"Cyber Risk Security & Governance","Senior Consultant",Resigned,21-Oct-2024,11-Jun-2024
+271501000028932075,CIPL0051,Rahul,Yadav,rahul.yadav@techdemocracy.com,"Cyber Risk Security & Governance","Senior Consultant",Resigned,22-Jul-2024,03-Jun-2024
+271501000028369544,100306,Todd,Sumpter,todd.sumpter@techdemocracy.com,"Cyber Risk Security & Governance","Director – Cloud Services",Resigned,23-Jun-2025,29-Apr-2024
+271501000028255154,100305,James,Carroll,james.carroll@techdemocracy.com,"Cyber Risk Security & Governance","Executive Director – Access Services",Resigned,15-Aug-2025,22-Apr-2024
+271501000028064013,566,"PALLAVI NAYAKAI",Lakavath,pallavi.lakavath@techdemocracy.com,"Cyber Risk Security & Governance","Senior Security Consultant",Resigned,16-Sep-2024,01-Apr-2024
+271501000027829063,100303,Todd,Rossin,todd.rossin@techdemocracy.com,"Cyber Risk Security & Governance","Co-CEO and Chief Strategy Officer",Resigned,28-Feb-2026,18-Mar-2024
+271501000027202005,CPIL0049,PavanKumar,Koppolu,pavan.koppolu@techdemocracy.com,"Cyber Risk Security & Governance","Security Systems Analyst",Resigned,31-Oct-2024,26-Feb-2024
+271501000027158355,TDC088,Nagavenka,Chamundika,nagavenka.chamundika@techdemocracy.com,"Cyber Risk Security & Governance",Contractor,Resigned,30-Apr-2024,06-Feb-2024
+271501000026607152,555,Giridhar,Dampetla,giridhar.dampetla@techdemocracy.com,TAG,"Senior Manager - Talent Acquisition Group",Terminated,24-Jun-2024,29-Jan-2024
+271501000026307102,100307,Sean,Daley,sean.daley@techdemocracy.com,Sales,"Senior Advisor – Growth – South East",Resigned,26-Jul-2024,01-May-2024
+271501000026307029,100302,Akilan,Rajendran,akilanrajendran@techdemocracy.com,"Cyber Risk Security & Governance","Software Engineer",Resigned,31-Mar-2025,02-Jan-2024
+271501000025787104,100301,Sean,Daley,daley@techdemocracy.com,Sales,"Senior Advisor – Growth – South East",Terminated,18-Dec-2023,28-Nov-2023
+271501000025571233,CIPL0047,Sarah,Manoharan,sarah@techdemocracy.com,"Cyber Risk Security & Governance","Security Solutions Consultant",Resigned,08-Jan-2024,13-Nov-2023
+271501000025571023,100300,Vinay,Polisetti,vinay.polisetti@techdemocracy.com,"Cyber Risk Security & Governance","Architect – ServiceNow",Resigned,10-Oct-2025,09-Nov-2023
+271501000025511007,549,Khamma,Rajamouli,rajamouli.khamma@techdemocracy.com,"Cyber Risk Security & Governance","Security Systems Analyst",Resigned,30-Nov-2024,06-Nov-2023
+271501000025392021,100299,"Mohammed Tausif","Ullah Khan",mohammed.tausif@techdemocracy.com,"Cyber Risk Security & Governance","Data Engineer",Resigned,31-Jan-2025,31-Oct-2023
+271501000025110697,545,Misba,Siddique,misba.siddique@techdemocracy.com,"Inside Sales","Associate Lead –Inside Sales",Resigned,01-Apr-2024,03-Oct-2023
+271501000025110568,546,"Gourish Nag",Choudhury,gourish.choudhury@techdemocracy.com,"Cyber Risk Security & Governance","Director-Customer Excellence-Global CRSG Services Delivery Head",Resigned,17-May-2024,03-Oct-2023
+271501000025088398,544,"Vijaya Sagar",Talasila,vijayasagar.talasila@techdemocracy.com,"Cyber Risk Security & Governance","Senior Advisory Manager",Resigned,18-Oct-2024,03-Oct-2023
+271501000025088001,100297,Sean,Rogers,sean.rogers@techdemocracy.com,Sales,"Senior Advisor - Growth",Resigned,24-Apr-2024,02-Oct-2023
+271501000024836001,542,Deepak,Thakur,deepakthakur@techdemocracy.com,"Cyber Risk Security & Governance","Security Solutions Consultant",Resigned,10-Jan-2025,04-Sep-2023
+271501000024569205,TDC086,Priyadarshini,CRA,priyadarshini@techdemocracy.com,"Cyber Risk Security & Governance","Advisory Manager - QA",Resigned,23-Sep-2025,01-Aug-2023
+271501000024537970,CT016,Subha,Chakraborty,subha.chakraborty@techdemocracy.com,"Cyber Risk Security & Governance",Trainee,Resigned,25-Sep-2023,16-Aug-2023
+271501000024537929,565,Avinash,Mulpuru,avinash.mulpuru@techdemocracy.com,"Cyber Risk Security & Governance",Associate,Resigned,14-Apr-2025,01-Mar-2024
+271501000024537847,563,Mamatha,Malloju,mamatha.malloju@techdemocracy.com,"Cyber Risk Security & Governance",Associate,Resigned,07-Feb-2025,01-Mar-2024
+271501000024537806,CT011,Tejaswi,Kandregula,tejaswi.kandregula@techdemocracy.com,"Cyber Risk Security & Governance",Trainee,Resigned,31-May-2024,16-Aug-2023
+271501000024537765,562,"Mohammad Mustafa","Siddiq Alikhan",siddiq.mohammad@techdemocracy.com,"Cyber Risk Security & Governance",Associate,Resigned,30-May-2025,01-Mar-2024
+271501000024537724,561,"Satya Subrahmanyam",Bhavaraju,subrahmanyam.bhavaraju@techdemocracy.com,"Cyber Risk Security & Governance","Associate Security Consultant",Resigned,30-Apr-2026,01-Mar-2024
+271501000024537683,569,Likitha,Thoram,likitha.thoram@techdemocracy.com,"SOC Operations",Associate,Resigned,15-May-2026,03-Jun-2024
+271501000024537514,CT005,Varun,Kassa,varun.kassa@techdemocracy.com,"Cyber Risk Security & Governance",Trainee,Resigned,19-Jan-2024,16-Aug-2023
+271501000024537475,558,Nithin,Janagama,nithin.janagama@techdemocracy.com,"Cyber Risk Security & Governance","Associate Security Consultant",Resigned,26-Dec-2025,01-Mar-2024
+271501000024537397,556,Manasa,Lokasani,manasa.lokasani@techdemocracy.com,"Cyber Risk Security & Governance",Associate,Resigned,15-Apr-2025,01-Mar-2024
+271501000024537358,567,Navya,Veludandi,navya.veludandi@techdemocracy.com,"Cyber Risk Security & Governance",Associate,Resigned,11-Jul-2025,01-Apr-2024
+271501000024537003,541,Preethi,Bhonsle,preethi.bhonsle@techdemocracy.com,HR,"Senior Associate –Human Resources",Resigned,03-Oct-2025,16-Aug-2023
+271501000024491443,200026,Anantha,Marikantipotha,anantha.marikantipotha@techdemocracy.com,"Cyber Risk Security & Governance",Trainee,Resigned,17-May-2024,14-Aug-2023
+271501000024491143,100296,Nitisha,Yerra,nitisha.yerra@techdemocracy.com,"Cyber Risk Security & Governance",Trainee,Resigned,12-Aug-2024,11-Aug-2023
+271501000024392180,540,"Koppolu Geetha Venkata","Pavan Kumar",pavankumar.koppolu@techdemocracy.com,"Cyber Risk Security & Governance","Security Systems Analyst",Resigned,23-Feb-2024,07-Aug-2023
+271501000024279560,TDC085,Thanigainathan,Anandan,thanigainathan.anandan@techdemocracy.com,"Cyber Risk Security & Governance","IAM Advisory",Resigned,,07-Jul-2023
+271501000024279295,100294,Srinivas,Katepally,srinivas.katepally@techdemocracy.com,"Cyber Risk Security & Governance","Senior Advisory Manager",Resigned,05-Jan-2024,01-Aug-2023
+271501000024265337,CIPL0046,Satyendra,"Chilaka Siva Sai Naga Venkata",satyendra.chilaka@techdemocracy.com,"Cyber Risk Security & Governance","Senior Security Solutions Consultant",Resigned,13-Nov-2023,31-Jul-2023
+271501000024265266,539,Jyoti,Seth,jyoti.seth@techdemocracy.com,"Inside Sales","Associate Inside Sales",Resigned,20-Oct-2023,31-Jul-2023
+271501000024198013,CIPL0045,Hepzi,Immanuel,hepzi.immanuel@techdemocracy.com,"Cyber Risk Security & Governance","Senior Security Consultant",Resigned,31-Oct-2023,24-Jul-2023
+271501000024132105,TDC084,Suresh,Sajlar,sureshsajlar@techdemocracy.com,"Growth Practices","Senior Software Engineer",Resigned,,21-Jul-2023
+271501000024097017,CIPL0044,"Deepak Suresh",Rewale,deepak.rewale@techdemocracy.com,"Cyber Risk Security & Governance","Senior Consultant",Resigned,29-Sep-2023,18-Jul-2023
+271501000024064323,CIPL0043,Pradipta,Muduli,pradipta.muduli@techdemocracy.com,"Cyber Risk Security & Governance","Senior Solutions Consultant",Resigned,10-Oct-2023,17-Jul-2023
+271501000024064282,CIPL0042,Ravindra,Nallabothu,ravindra.nallabothu@techdemocracy.com,"Cyber Risk Security & Governance","Senior Solutions Consultant",Resigned,30-Sep-2023,17-Jul-2023
+271501000023983086,537,Kumar,Gaurav,gaurav.kumar@techdemocracy.com,"Cyber Risk Security & Governance","Senior Security Solutions Consultant",Resigned,04-Apr-2025,11-Jul-2023
+271501000023983027,536,"Ravi Sankar",Shaw,ravi.shaw@techdemocracy.com,"Cyber Risk Security & Governance","Senior Advisory Consultant",Resigned,15-Nov-2024,11-Jul-2023
+271501000023968151,535,Rajeshwari,M,rajeshwari.m@techdemocracy.com,"Cyber Risk Security & Governance","Senior Security Solutions Consultant",Resigned,24-Apr-2024,10-Jul-2023
+271501000023920093,200027,Jeffery,Chow,jeffery.chow@techdemocracy.com,Sales,"Senior Advisor - Growth & Customer Success,  Pacific Northwest",Resigned,19-Apr-2024,05-Jan-2024
+271501000023893005,534,Papana,"Kiran Kumar",kiran.papana@techdemocracy.com,"Cyber Risk Security & Governance","Security Systems Analyst",Resigned,14-Apr-2025,04-Jul-2023
+271501000023779120,533,Manoj,Parashar,manojparashar@techdemocracy.com,"Cyber Risk Security & Governance","Senior Security Solutions Consultant",Resigned,20-Jun-2024,22-Jun-2023
+271501000023779033,532,Mohin,.,mohin@techdemocracy.com,"Cyber Risk Security & Governance","Security Systems Analyst",Resigned,30-Nov-2024,22-Jun-2023
+271501000023553234,100017,"Ravi Kumar",Kondle,ravi.kondle@techdemocracy.com,"Growth Practices","Senior Software Engineer",Resigned,30-Apr-2026,02-Oct-2008
+271501000023553080,531,chandana,changomula,chandana.changomula@techdemocracy.com,"Cyber Risk Security & Governance",Associate,Resigned,14-Dec-2023,14-Jun-2023
+271501000023486045,529,Ulka,Dalvi,ulka.dalvi@techdemocracy.com,Sales,"Senior Advisor - Growth",Resigned,03-Jan-2024,12-Jun-2023
+271501000023446117,527,"P S V",Vivekanandan,psv.vivekanandan@techdemocracy.com,"Cyber Risk Security & Governance","Senior Advisory Manager",Resigned,31-Jan-2026,08-Jun-2023
+271501000023392974,CIPL0041,"Deepak Kumar",Thakur,deepak.thakur@techdemocracy.com,"Cyber Risk Security & Governance","Security System Analyst",Resigned,01-Sep-2023,05-Jun-2023
+271501000023392178,100292,"Bhavika Danny",PUNJABI,bhavika.paunjabi@techdemocracy.com,Marketing,"Marketing Intern",Resigned,03-Aug-2023,02-Jun-2023
+271501000023357047,526,Pasunooru,"Sai Shashank",shashank.pasunooru@techdemocracy.com,TAG,"Senior Talent Acquisition Specialist",Resigned,06-Jul-2023,30-May-2023
+271501000023179135,CIPL0040,"MANOJ A",PARASHAR,manoj.parashar@techdemocracy.com,"Cyber Risk Security & Governance","Senior Consultant - Technology",Resigned,21-Jun-2023,22-May-2023
+271501000023067011,100291,Aneesha,Sharma,aneesha.sharma@techdemocracy.com,Sales,"Senior Executive - Marketing",Resigned,07-Jun-2024,15-May-2023
+271501000023045197,100290,Teresa,Andre-Hopper,teresa.hopper@techdemocracy.com,Sales,"Senior Advisor – Growth & Customer Success",Resigned,03-Feb-2025,15-May-2023
+271501000022995095,524,Rohit,Pande,rohit.pande@techdemocracy.com,"Cyber Risk Security & Governance","Senior Security Solutions Consultant",Resigned,17-Apr-2024,08-May-2023
+271501000022905248,523,"Madhusudana Reddy",Singana,madhusudana.singana@techdemocracy.com,"Cyber Risk Security & Governance","Senior Consultant - Technology",Resigned,05-Jul-2023,05-May-2023
+271501000022905193,200024,Parul,Madhukar,parul@techdemocracy.com,"Cyber Risk Security & Governance","Software Consultant",Resigned,,01-Jun-2022
+271501000022905154,200023,Sushil,Madhukar,sushil@techdemocracy.com,"Cyber Risk Security & Governance","Chief Principal - Customer Success",Resigned,,16-Mar-2022
+271501000022864134,TDC083,Harinadh,Thummepally,harinadh.thummepally@techdemocracy.com,"Cyber Risk Security & Governance","Architect -Sailpoint",Resigned,,01-May-2023
+271501000022806021,521,Akanksha,Kapruwan,akanksha.kapruwan@techdemocracy.com,"Cyber Risk Security & Governance","Advisory Manager",Resigned,31-May-2024,24-Apr-2023
+271501000022718037,519,"KHAJA MUNEER",SHAIK,shaik.muneer@techdemocracy.com,"Cyber Risk Security & Governance","Senior Advisory Consultant",Resigned,26-Apr-2024,17-Apr-2023
+271501000022716137,100288,Shyam,Gummala,shyamgummala@techdemocracy.com,"Cyber Risk Security & Governance","Technical Domain Specialist",Resigned,31-Mar-2025,14-Apr-2023
+271501000022627061,517,Deepak,Kumar,deepak.kumar@techdemocracy.com,"Cyber Risk Security & Governance","Senior Security Consultant",Resigned,12-Aug-2024,06-Apr-2023
+271501000022626110,515,"Jaspreet Singh",Arora,jaspreetarora@techdemocracy.com,"Cyber Risk Security & Governance","Senior Advisory Consultant",Resigned,06-Dec-2024,05-Apr-2023
+271501000022626043,516,A,Baswaraj,a.baswaraj@techdemocracy.com,"Cyber Risk Security & Governance",Consultant,Resigned,07-Jul-2023,05-Apr-2023
+271501000022578442,CIPL0039,Harish,Karimi,harishkarimi@techdemocracy.com,"Growth Practices","Consultant - Technology",Resigned,27-Mar-2023,27-Mar-2023
+271501000022578403,CIPL0038,Rohit,Pande,rohitpande@techdemocracy.com,"Cyber Risk Security & Governance","Senior Manager - Technology",Resigned,05-May-2023,16-Mar-2023
+271501000022578338,513,JayaKrishna,Pampana,jayakrishna.pampana@techdemocracy.com,"Cyber Risk Security & Governance",Consultant,Resigned,30-Apr-2025,20-Mar-2023
+271501000022578165,514,Jogendra,Singh,jogendra.singh@techdemocracy.com,"Cyber Risk Security & Governance",Consultant,Resigned,01-Apr-2024,03-Apr-2023
+271501000022399053,TDC082,Sahith,Kallakunta,sahithkallakunta@techdemocracy.com,"Growth Practices","Senior Manager - Technology",Resigned,,18-Jan-2023
+271501000022383009,CIPL0037,"Ram Reddy",Mettu,ramreddy.mettu@techdemocracy.com,"Cyber Risk Security & Governance","Senior Consultant - Technology",Resigned,30-Nov-2023,20-Mar-2023
+271501000022323323,100287,Thomas,Watt,thomas.watt@techdemocracy.com,Sales,"Senior Advisor – Growth & Customer Success",Resigned,30-Jan-2024,20-Mar-2023
+271501000021990165,CIPL0036,Jaspreet,Arora,jaspreet.arora@techdemocracy.com,"Cyber Risk Security & Governance","Senior Consultant - Technology",Resigned,04-Apr-2023,16-Mar-2023
+271501000021960463,512,"Uma Venkata Sarvana Praharsha",Cherukury,praharsha.cherukury@techdemocracy.com,"Cyber Risk Security & Governance","Security Consultant",Resigned,06-Nov-2024,14-Mar-2023
+271501000021909051,511,Karishma,Verekar,karishma.verekar@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,28-Apr-2023,07-Mar-2023
+271501000021877033,200022,Mario,Fernandes,mario.fernandes@techdemocracy.com,Sales,"Senior Advisor – Growth & Customer Success",Resigned,11-Oct-2024,03-Mar-2023
+271501000021849238,CIPL0035,"Nikhil Singh",Rathore,nikhil.rathore@techdemocracy.com,"Cyber Risk Security & Governance","Senior Consultant",Resigned,30-Sep-2023,02-Mar-2023
+271501000021643399,200021,Soudip,Sanyal,soudipsanyal@techdemocracy.com,"Cyber Risk Security & Governance","Senior Security Solutions Consultant",Resigned,06-Jun-2025,16-Feb-2023
+271501000021643111,CIPL0033,Chandrasekhar,TadiKonda,chandrasekhar.tadikonda@techdemocracy.com,"Cyber Risk Security & Governance","Technical Domain Specialist",Resigned,09-Jun-2023,10-Feb-2023
+271501000021643062,CIPL0034,"Rajesh Kumar",Sundaramurthy,rajesh.sundaramurthy@techdemocracy.com,"Cyber Risk Security & Governance","Senior Consultant",Resigned,28-Apr-2023,15-Feb-2023
+271501000021643015,100286,Ravi,Gudla,ravi.gudla@techdemocracy.com,"Cyber Risk Security & Governance","Technical Specialist",Resigned,06-Mar-2023,15-Feb-2023
+271501000021586067,509,Harika,Madabathula,harika.madabathula@techdemocracy.com,TAG,,Resigned,28-Apr-2023,10-Feb-2023
+271501000021572134,506,Rahul,Swami,rahul.swami@techdemocracy.com,"Cyber Risk Security & Governance",Consultant,Resigned,05-Oct-2023,06-Feb-2023
+271501000021572059,508,"Harsha Vardhan",Mekathoti,harsha.mekathoti@techdemocracy.com,TAG,,Resigned,01-Mar-2023,09-Feb-2023
+271501000021476145,482,Raghavendra,Hulikunta,raghavendra.h@techdemocracy.com,"Cyber Risk Security & Governance","Director – Center of Excellence","Joining TDC",23-May-2024,01-Aug-2022
+271501000021449457,504,Kalva,Venugopal,venugopal.kalva@techdemocracy.com,"Cyber Risk Security & Governance","Associate Director – Managed Cybersecurity Services",Resigned,30-Nov-2025,01-Feb-2023
+271501000021449394,505,Majid,Anwar,majid.anwar@techdemocracy.com,"Cyber Risk Security & Governance","Security Solutions Consultant",Resigned,28-Nov-2023,01-Feb-2023
+271501000021449120,CIPL0032,Amit,Aware,amit.aware@techdemocracy.com,"Cyber Risk Security & Governance","Senior Consultant",Resigned,06-Feb-2023,31-Jan-2023
+271501000021395004,503,Jyothi,Vallem,jyothivallem@techdemocracy.com,"Cyber Risk Security & Governance","Senior Advisory Consultant - QA",Resigned,02-Feb-2024,23-Jan-2023
+271501000021375959,CIPL0031,"Nimesh Devendra",Bhanushali,nimesh.bhanushali@techdemocracy.com,"Cyber Risk Security & Governance","Manager Technology",Resigned,14-Apr-2023,23-Jan-2023
+271501000021375914,CIPL0030,Ankit,Sharma,ankit.sharma@techdemocracy.com,"Cyber Risk Security & Governance","Technical Domain Specialist",Resigned,15-Sep-2023,23-Jan-2023
+271501000021375851,502,Nandigama,Abhijith,abhijith.nandigama@techdemocracy.com,"Cyber Risk Security & Governance","Security Consultant",Resigned,11-Jul-2025,23-Jan-2023
+271501000021311359,100284,"David R.",Elkins,david.elkins@techdemocracy.com,Sales,"Senior Advisor – Growth & Customer Success",Resigned,22-Feb-2023,17-Jan-2023
+271501000021247330,CIPL0029,"Rahul Mahesh",Sharm,rahul.sharma@techdemocracy.com,"Cyber Risk Security & Governance","Senior Consultant - Technology",Resigned,31-Mar-2023,11-Jan-2023
+271501000021247285,TDC081,"Prasad Kundalagura",Sadananda,prasad.sadananda@techdemocracy.com,"Cyber Risk Security & Governance","Architect -Sailpoint",Resigned,28-Apr-2023,11-Jan-2023
+271501000021231126,TDC080,Shyam,Gummala,shyam.gummala@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,,09-Jan-2023
+271501000021168117,200020,Kimberly,Donald,kimberly.donald@techdemocracy.com,Sales,"Senior Manager - Partner Sales",Resigned,14-Sep-2023,04-Jan-2023
+271501000021171228,500,Asrar,"Ahmed Khan",asrarkhan@techdemocracy.com,"Cyber Risk Security & Governance","Security Solutions Consultant",Resigned,14-Jun-2024,03-Jan-2023
+271501000021171165,501,Charitha,Sahu,charitha.sahu@techdemocracy.com,HR,"Senior Manager-HR",Resigned,08-Aug-2024,04-Jan-2023
+271501000021009582,CIPL0028,Prathap,Reddy,prathap.reddy@techdemocracy.com,"Cyber Risk Security & Governance","Senior Consultant - Technology",Resigned,17-Mar-2023,27-Dec-2022
+271501000020917045,499,"P V",Lokesh,pv.lokesh@techdemocracy.com,"Cyber Risk Security & Governance","Senior Consultant - Technology",Terminated,08-Feb-2023,19-Dec-2022
+271501000020840648,CIPL0026,"Asrar Ahmed",Khan,asrar.khan@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,02-Jan-2023,12-Dec-2022
+271501000020840449,498,Nandyala,"Lakshmi Prasada Reddy",lakshmiprasada.nandyala@techdemocracy.com,"Cyber Risk Security & Governance","Senior Security Solutions Consultant",Resigned,27-Feb-2024,12-Dec-2022
+271501000020840254,497,"Patharlagadda Jagannadha","Manoj Ravi Kumar",manoj.patharlagadda@techdemocracy.com,"Cyber Risk Security & Governance","Senior Consultant - Technology",Resigned,09-Jan-2023,12-Dec-2022
+271501000020840195,496,"Shashi Kanth",Pandurangi,shashipandurangi@techdemocracy.com,"Cyber Risk Security & Governance","Senior Advisory Manager",Resigned,14-Nov-2025,12-Dec-2022
+271501000020748938,CIPL0025,Shubham,Gohane,shubham.gohane@techdemocracy.com,"Cyber Risk Security & Governance","Senior Consultant - Technology",Resigned,31-Jan-2023,05-Dec-2022
+271501000020748881,495,Lalit,Choudhary,lalit.choudhary@techdemocracy.com,"Cyber Risk Security & Governance",Consultant,Resigned,16-Sep-2025,01-Dec-2022
+271501000020748646,494,"Venkata Ramana",Boddu,venkata.boddu@techdemocracy.com,"Cyber Risk Security & Governance","Associate Director",Resigned,02-Aug-2023,02-Dec-2022
+271501000020748603,493,Satish,Bhand,satish.bhand@techdemocracy.com,"Cyber Risk Security & Governance","Senior Security Consultant",Resigned,04-Jan-2024,28-Nov-2022
+271501000020671501,492,Pawan,Kumar,pawan.kumar@techdemocracy.com,"Cyber Risk Security & Governance",Consultant,Resigned,06-Nov-2024,28-Nov-2022
+271501000020671466,491,SaiManojReddy,Chereddy,saimanoj.chereddy@techdemocracy.com,"Cyber Risk Security & Governance",Consultant,Resigned,06-Dec-2022,28-Nov-2022
+271501000020671419,200019,"Tina Gracia",Money,tinagracia.money@techdemocracy.com,"Cyber Risk Security & Governance","Lead Security Consultant",Resigned,01-Dec-2023,28-Nov-2022
+271501000020602558,490,Gundabathula,"Adi Narayana Murthy",adi.gundabathula@techdemocracy.com,TAG,,Resigned,04-Apr-2023,21-Nov-2022
+271501000020568001,489,Saksham,Pal,sakshamvirendra@techdemocracy.com,"Cyber Risk Security & Governance","Senior Security Consultant",Resigned,13-Oct-2023,14-Nov-2022
+271501000020507143,487,Mamidisetti,Srikar,srikar.mamidisetti@techdemocracy.com,"Cyber Risk Security & Governance",Consultant,Resigned,30-Nov-2024,09-Nov-2022
+271501000020507114,488,Dhivya,P,dhivya.p@techdemocracy.com,"Cyber Risk Security & Governance",Consultant,Resigned,14-Apr-2023,09-Nov-2022
+271501000020423094,200018,Yash,Singhal,yash.singhal@techdemocracy.com,"Cyber Risk Security & Governance","Senior Consultant - Technology",Resigned,29-Nov-2022,03-Nov-2022
+271501000020423041,TDC079,Maninder,Gautam,maninder.gautam@techdemocracy.com,"Cyber Risk Security & Governance","Scrum Master",Resigned,,02-Nov-2022
+271501000020413253,100283,Morris,Abell,morris.abell@techdemocracy.com,Sales,"Senior Advisor – Growth & Customer Success",Resigned,12-May-2023,01-Nov-2022
+271501000020413068,CIPL0024,Saksham,Virendra,saksham.virendra@techdemocracy.com,"Cyber Risk Security & Governance","Consultant - Technology",Resigned,14-Nov-2022,01-Nov-2022
+271501000020335333,CIPL0023,Satish,"Babanrao Bhand",satishbhand@techdemocracy.com,"Cyber Risk Security & Governance","Senior Consultant - Technology",Resigned,01-Dec-2022,27-Oct-2022
+271501000020335264,485,Harsh,.,harsh@techdemocracy.com,"Cyber Risk Security & Governance","Security Consultant",Resigned,21-Apr-2025,27-Oct-2022
+271501000020313285,100282,Sruthi,Dugyala,sruthi.dugyala@techdemocracy.com,"Cyber Risk Security & Governance","Senior Consultant - Technology",Resigned,24-Jan-2023,24-Oct-2022
+271501000020270406,TDC078,Surendra,Kuttuboyina,surendrakuttuboyina@techdemocracy.com,"Cyber Risk Security & Governance","CyberArk Engineer",Resigned,,19-Oct-2022
+271501000020270336,CIPL0022,Jyothi,Vallem,jyothi.vallem@techdemocracy.com,"Cyber Risk Security & Governance","Senior Consultant - Technology",Resigned,,19-Oct-2022
+271501000020243195,484,Nagarjuna,Chittajallu,nagarjuna.chittajallu@techdemocracy.com,"Cyber Risk Security & Governance","Associate Security Systems Analyst",Resigned,04-Aug-2025,14-Oct-2022
+271501000020243151,200017,Sam,Sondhi,sam.sondhi@techdemocracy.com,"Cyber Risk Security & Governance","Senior Advisory Manager",Resigned,04-Oct-2024,17-Oct-2022
+271501000020114114,483,Aligineni,"Tirumala Venkat",venkat.aligineni@techdemocracy.com,"Cyber Risk Security & Governance","Senior Consultant - Technology",Resigned,13-Jan-2023,03-Oct-2022
+271501000020114045,100281,"Hari Prasad",Pulijala,hari.pulijala@techdemocracy.com,"Cyber Risk Security & Governance","Manager Technology",Resigned,13-Oct-2022,03-Oct-2022
+271501000020114001,CIPL0021,"Chandrababu  Kalluri",Naidu,chandrababu.kalluri@techdemocracy.com,"Cyber Risk Security & Governance","Trainee Consultant",Resigned,,03-Oct-2022
+271501000020066211,CIPL0020,Jagadeesh,Koya,jagadeesh.koya@techdemocracy.com,"Cyber Risk Security & Governance","Senior Consultant - Technology",Resigned,30-Nov-2022,29-Sep-2022
+271501000019988668,CIPL0019,Venkata,Mannem,venkata.mannem@techdemocracy.com,"Cyber Risk Security & Governance","Senior Consultant - Technology",Resigned,10-Apr-2023,26-Sep-2022
+271501000019952807,TDC077,"Nagarjuna Reddy",Yarava,nagarjuna.yarava@techdemocracy.com,"Cyber Risk Security & Governance","Senior Sailpoint Developer",Resigned,,19-Sep-2022
+271501000019914333,CIPL0018,"SaiCharan Kumar",Koona,saicharan.koona@techdemocracy.com,"Cyber Risk Security & Governance","Consultant - Technology",Resigned,30-Jan-2023,15-Sep-2022
+271501000019914291,481,Tejashree,Patil,tejashree.patil@techdemocracy.com,"Cyber Risk Security & Governance","Senior Security Solutions Consultant",Resigned,12-Jun-2026,29-Aug-2022
+271501000019872397,477,"Satish Kumar",Kollipara,satish.kollipara@techdemocracy.com,"Cyber Risk Security & Governance","Consultant - Technology",Resigned,12-May-2023,03-Aug-2022
+271501000019854013,480,Sanath,Batthula,sanath.batthula@techdemocracy.com,"Cyber Risk Security & Governance","Senior Consultant - Technology",Resigned,30-Oct-2024,24-Aug-2022
+271501000019600703,200015,Piyush,Agrawal,piyush.agrawal@techdemocracy.com,"Cyber Risk Security & Governance","Senior Consultant - Technology",Resigned,30-Sep-2022,24-Aug-2022
+271501000019606137,478,Pravalika,Taniparthy,pravallika.t@techdemocracy.com,"Cyber Risk Security & Governance",Consultant,Resigned,31-Jan-2023,03-Aug-2022
+271501000019496035,TDCL002,Amit,Sharma,amit.sharma@techdemocracy.com,"Cyber Risk Security & Governance",Contractor,Resigned,,21-Jul-2022
+271501000019394156,200014,Hyma,Pandyaram,hymavathi.pandyaram@techdemocracy.com,"Cyber Risk Security & Governance","Senior Advisory Manager",Resigned,08-Aug-2024,02-Aug-2022
+271501000019284337,200013,Stanley,Shang,stanley.shang@techdemocracy.com,Sales,"Senior  Advisor – Growth & Customer Success",Resigned,30-Apr-2024,25-Jul-2022
+271501000019094015,100279,Xavier,Devadhasan,xavier.devadhasan@techdemocracy.com,"Growth Practices","Senior Programmer Analyst",Resigned,30-Sep-2023,06-Jul-2022
+271501000019066615,100278,Sriram,Chellapilla,sriram.chellapilla@techdemocracy.com,"Cyber Risk Security & Governance","Software Engineer",Resigned,16-Jun-2023,07-Jul-2022
+271501000019052039,475,Benarji,M,benarji.m@techdemocracy.com,TAG,,Resigned,23-Sep-2022,05-Jul-2022
+271501000019045253,100277,"Aparna Yadav",Vijayaraghavan,aparna.vijayaraghavan@techdemocracy.com,"Cyber Risk Security & Governance","Manager Technology",Resigned,20-Dec-2022,05-Jul-2022
+271501000019045063,CIPL0017,Shilpa,KK,shilpa.kalasapura@techdemocracy.com,"Cyber Risk Security & Governance","Senior Consultant - Technology",Resigned,17-Jul-2022,05-Jul-2022
+271501000019034003,474,VenkateswaraReddy,Yeruva,venkateswara.yeruva@techdemocracy.com,"Cyber Risk Security & Governance","Lead Security Consultant",Resigned,06-Dec-2024,04-Jul-2022
+271501000019013429,473,"Ramachandra babu",Gudla,ramachandra.gudla@techdemocracy.com,"Cyber Risk Security & Governance",Consultant,Resigned,30-Nov-2024,01-Jul-2022
+271501000018848530,200011,Dharshini,Ravichandran,dharshini.ravichandran@techdemocracy.com,"Cyber Risk Security & Governance","Security Consultant",Resigned,19-Sep-2025,20-Jun-2022
+271501000018848486,200012,Bhumil,Lakhtariya,bhumil.lakhtariya@techdemocracy.com,"Cyber Risk Security & Governance","Trainee Consultant",Resigned,28-Aug-2023,20-Jun-2022
+271501000018850459,472,"Vishnu Bhakthula","Sahithi Chaitanya",sahithi.bhakthula@techdemocracy.com,"Cyber Risk Security & Governance","Trainee Consultant",Resigned,04-Jan-2023,15-Jun-2022
+271501000018850379,471,"Surender Vaibhav",Ingale,vaibhav.ingale@techdemocracy.com,"Cyber Risk Security & Governance","Trainee Consultant",Resigned,04-Jan-2023,15-Jun-2022
+271501000018850325,467,Avusetty,Saisree,saisree.avusetty@techdemocracy.com,"Cyber Risk Security & Governance","Trainee Consultant",Resigned,04-Jan-2023,15-Jun-2022
+271501000018772245,465,Gnaneshwar,Baswaraju,gnaneshwar.baswaraju@techdemocracy.com,"Cyber Risk Security & Governance","Trainee Consultant",Resigned,04-Jan-2023,06-Jun-2022
+271501000018772217,464,Amulya,Nalla,amulya.nalla@techdemocracy.com,"Cyber Risk Security & Governance","Trainee Consultant",Resigned,04-Jan-2023,06-Jun-2022
+271501000018772163,462,Ashritha,Pasunoori,ashritha.pasunoori@techdemocracy.com,"Cyber Risk Security & Governance","Associate Security Consultant",Resigned,16-Oct-2024,06-Jun-2022
+271501000018729001,200010,"Krishna Chaitanya",Gannapaneni,krishna.gannapaneni@techdemocracy.com,"Cyber Risk Security & Governance","Senior Consultant - Technology",Resigned,18-Nov-2022,07-Jun-2022
+271501000018680062,457,Priyadarshini,CRA,priyadarshini.cra@techdemocracy.com,"Cyber Risk Security & Governance","Advisory Manager - QA",Resigned,25-Jul-2023,01-Jun-2022
+271501000018582527,455,Shaik,"Shajahan  Shama",shamashaik@techdemocracy.com,"CEO's Office","Executive Assistant",Resigned,05-May-2022,05-May-2022
+271501000018562055,100276,Suresh,Musireddy,suresh.musireddy@techdemocracy.com,"Cyber Risk Security & Governance","Technical Systems Architect",Resigned,30-Aug-2024,18-May-2022
+271501000018208825,453,Prashanth,Kengerla,prashanth.kengerla@techdemocracy.com,"Cyber Risk Security & Governance","Associate Security Systems Analyst",Resigned,24-Mar-2025,22-Apr-2022
+271501000018187508,451,TALLURI,MANESH,manesh.talluri@techdemocracy.com,"Cyber Risk Security & Governance","Security Solutions Consultant",Resigned,07-Jul-2025,20-Apr-2022
+271501000018174099,449,"Vamsi Chakravarthy",Perikala,vamsi.perikala@techdemocracy.com,"Cyber Risk Security & Governance",Consultant,Resigned,26-Jul-2023,18-Apr-2022
+271501000018174045,447,Prasanth,Kothapalli,prasanth.kothapalli@techdemocracy.com,"Cyber Risk Security & Governance","Consultant - Technology",Resigned,09-Jun-2023,18-Apr-2022
+271501000018104027,TDC076,Geetha,Doddapaneni,geetha.doddapaneni@techdemocracy.com,"Growth Practices",Contractor,Resigned,,14-Apr-2022
+271501000018105053,445,Hruthick,Nalla,hruthick.nalla@techdemocracy.com,"Cyber Risk Security & Governance",Consultant,Resigned,22-Sep-2023,13-Apr-2022
+271501000017981384,TDC075,"Karma Chopang",Gurung,karma.gurung@techdemocracy.com,"Cyber Risk Security & Governance",Contractor,Resigned,,04-Apr-2022
+271501000017947067,100273,"Rajesh Ranganathan",ARANI,rajesh.arani@techdemocracy.com,"Cyber Risk Security & Governance","Manager - Technology",Resigned,31-Mar-2024,21-Mar-2022
+271501000017821256,442,Rajesh,Kanta,rajesh.kanta@techdemocracy.com,"Cyber Risk Security & Governance",Consultant,Resigned,16-Apr-2025,21-Mar-2022
+271501000017809420,200008,Kirandeep,Josan,kirandeep.josan@techdemocracy.com,"Cyber Risk Security & Governance","Advisory Manager",Resigned,26-Apr-2024,18-Mar-2022
+271501000017787126,200007,Deepan,Udaiyar,deepan.udaiyar@techdemocracy.com,"Cyber Risk Security & Governance","Senior Security Solutions Consultant",Resigned,30-Apr-2024,15-Mar-2022
+271501000017721156,441,"Abhiram Krishna",Manyam,abhiramkrishna.manyam@techdemocracy.com,Sales,,Resigned,15-Jul-2025,07-Mar-2022
+271501000017656043,440,"Viswas Varma",Mudunuru,viswasvarma.mudunuru@techdemocracy.com,"Inside Sales","Senior Inside Sales Executive",Resigned,28-Feb-2023,01-Mar-2022
+271501000017656013,439,Bixam,Boda,bixam.boda@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,23-Jun-2023,01-Mar-2022
+271501000017631023,200006,Robert,Webb,robert.webb@techdemocracy.com,"Cyber Risk Security & Governance","Senior Sales Advisor",Resigned,07-Nov-2022,28-Feb-2022
+271501000017580207,CIPL0016,Siva,Chalavad,siva.chalavad@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,31-Mar-2022,22-Feb-2022
+271501000017553067,200005,Aaron,Rapelje,aaron.rapelje@techdemocracy.com,"Cyber Risk Security & Governance","Senior Sales Advisor",Resigned,01-Apr-2022,22-Feb-2022
+271501000017524251,438,Muhammed,"Shafeek S",muhammed.shafeek@techdemocracy.com,"Cyber Risk Security & Governance",Consultant,Resigned,21-Nov-2022,21-Feb-2022
+271501000017481011,200004,Saipraveen,Boddupalli,saipraveen.boddupalli@techdemocracy.com,"Cyber Risk Security & Governance","Security Solutions Consultant",Resigned,15-Apr-2024,15-Feb-2022
+271501000017421001,CIPL0015,"Siva Sankara Rao",Pamarthi,siva@techdemocracy.com,"System Admin",Contractor,Resigned,16-Sep-2023,01-Feb-2022
+271501000017122085,436,"Mujibuddin Ahmad",Shaik,shaik.ahmed@techdemocracy.com,"Inside Sales","Senior Inside Sales Executive",Resigned,28-Feb-2022,19-Jan-2022
+271501000017070001,100272,Johnson,Henryravikumar,johnson.henryravikumar@techdemocracy.com,"Cyber Risk Security & Governance","Software Engineer",Resigned,04-Mar-2022,10-Jan-2022
+271501000017032730,CIPL0014,Viswanadha,NallaBathini,viswanadha.nallabathini@techdemocracy.com,"Cyber Risk Security & Governance","Senior Consultant",Resigned,14-Mar-2022,07-Jan-2022
+271501000017035095,435,Santhosha,Pillarisetty,santhosha.pillarisetty@techdemocracy.com,"Inside Sales","Senior Inside Sales Executive",Resigned,28-Jun-2023,10-Jan-2022
+271501000016834147,434,Sravani,Cheepurupalli,sravani.cheepurupalli@techdemocracy.com,"Cyber Risk Security & Governance","Consultant - Technology Level 2",Resigned,13-Oct-2023,27-Dec-2021
+271501000016744247,433,SaiKrishna,"Prathivadi Bayankaram",saikrishna.bayankaram@techdemocracy.com,"Cyber Risk Security & Governance","Consultant - Technology Level 2",Resigned,02-May-2022,20-Dec-2021
+271501000016727049,432,"Rashmitha Reddy",Chilukuri,rashmitha.chilukuri@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,30-Jun-2022,07-Dec-2021
+271501000016727001,CIPL00012,"Rudra Prasad",Basu,rudra.basu@techdemocracy.com,"Cyber Risk Security & Governance","Manager - Technology",Resigned,21-Apr-2022,11-Dec-2021
+271501000016579045,200003,Chaitanya,Mannem,chaitanya.mannem@techdemocracy.com,"Cyber Risk Security & Governance","Senior Manager - Solution Engineering",Resigned,19-Jan-2024,07-Dec-2021
+271501000016476035,430,Venkatesh,Garipally,venkatesh.garipally@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,05-Sep-2022,01-Dec-2021
+271501000016476005,429,Rajnikanth,Dusari,rajnikanth.dusari@techdemocracy.com,"Inside Sales",,Resigned,23-Feb-2022,01-Dec-2021
+271501000016424048,CIPL00011,Srinivas,Darugula,srinivas.darugula@techdemocracy.com,"Cyber Risk Security & Governance","Senior Consultant",Resigned,07-Feb-2022,27-Nov-2021
+271501000016396015,CIPL00010,"Rashmitha Reddy",Chilukuri,rashmithachilukuri@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,06-Dec-2021,25-Nov-2021
+271501000016204798,CIPL0009,Ramya,Krishna,ramyakrishna@techdemocracy.com,"Cyber Risk Security & Governance","Senior Consultant - Technology",Resigned,13-Feb-2022,22-Nov-2021
+271501000016204760,CIPL0008,Rajeev,Kumar,rajeev.kumar@techdemocracy.com,"Cyber Risk Security & Governance","Manager - Technology",Resigned,28-Feb-2022,22-Nov-2021
+271501000016180055,428,Ashok,Kumar,ashok.kumar@techdemocracy.com,"Cyber Risk Security & Governance","Senior Consultant Level 3",Resigned,11-May-2022,18-Nov-2021
+271501000016136103,200002,Anushka,Sharma,anushka.sharma@techdemocracy.com,"Cyber Risk Security & Governance","Manager Level 1",Resigned,06-May-2022,15-Nov-2021
+271501000016136047,100270,Brian,Giannini,brian.giannini@techdemocracy.com,"Cyber Risk Security & Governance","Senior Advisor – Growth & Customer Success; Supervisor",Resigned,17-Nov-2023,15-Nov-2021
+271501000016107252,427,Manoj,Arisetti,manoj.arisetti@techdemocracy.com,"Cyber Risk Security & Governance","Consultant - Technology Level 3",Resigned,16-Sep-2022,12-Nov-2021
+271501000016074041,426,"Ankit Kumar",Sahoo,ankit.sahoo@techdemocracy.com,"Cyber Risk Security & Governance","Trainee Consultant TSDC",Resigned,10-Aug-2023,10-Nov-2021
+271501000016049003,425,lokesh,madduri,lokeshmadduri@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,02-Dec-2022,08-Nov-2021
+271501000016046336,200001,"Michael J",Enos,michael.enos@techdemocracy.com,Sales,"Regional Sales Director - Eastern Canada",Resigned,04-Jan-2022,08-Nov-2021
+271501000016021593,CIPL0007,Lokesh,Madduri,lokesh.madduri@techdemocracy.com,"Cyber Risk Security & Governance",Consultant,Resigned,07-Dec-2021,25-Oct-2021
+271501000015941431,100269,Christopher,York,chris.york@techdemocracy.com,"Cyber Risk Security & Governance","Sales Executive",Resigned,24-May-2022,28-Oct-2021
+271501000015941051,TDC073,"Nikhil Adithya",Chennuru,nikhil.chennuru@techdemocracy.com,"Cyber Risk Security & Governance",Contractor,Resigned,30-Jun-2022,27-Sep-2021
+271501000015902075,CIPL0006,Prasad,Uplenchwar,prasad.uplenchwar@techdemocracy.com,"Cyber Risk Security & Governance",Contractor,Resigned,14-Jan-2022,01-Oct-2021
+271501000015659102,100268,Helton,"Do Val",helton.doval@techdemocracy.com,"Cyber Risk Security & Governance","Senior Consultant - Technology Level 1",Resigned,21-Jan-2022,27-Sep-2021
+271501000015588013,423,Shaik,"Abdul Ghani",shaik.abdulghani@techdemocracy.com,"Cyber Risk Security & Governance",,Terminated,17-Nov-2021,22-Sep-2021
+271501000015563003,422,Shaik,Moiz,shaik.moiz@techdemocracy.com,"Cyber Risk Security & Governance","Consultant - Technology Helpdesk Support Level 1 TSDC",Resigned,30-Nov-2024,21-Sep-2021
+271501000015535047,100267,Thomasina,Ramey,thomasina.ramey@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,22-Oct-2021,20-Sep-2021
+271501000015535001,100266,Peter,Green,peter.green@techdemocracy.com,"Cyber Risk Security & Governance","Senior Consultant - Technology Level 1",Resigned,01-Feb-2022,20-Sep-2021
+271501000015456323,100265,"Ashok Kumar",Dara,ashokdara@techdemocracy.com,"Growth Practices","Software Engineer",Resigned,15-Apr-2022,13-Sep-2021
+271501000015457805,421,Suwarna,Pesala,suwarna.pesala@techdemocracy.com,TAG,,Resigned,02-Nov-2021,07-Sep-2021
+271501000015457767,420,Sunki,Saikumar,saikumarsunki@techdemocracy.com,"Cyber Risk Security & Governance","Senior Security Solutions Consultant",Resigned,31-May-2024,06-Sep-2021
+271501000015457715,419,"Prasanth Reddy",Putta,prasanthreddy.putta@techdemocracy.com,"Cyber Risk Security & Governance",,Terminated,01-Oct-2021,06-Sep-2021
+271501000015363166,418,"Rajendra Prasad",Karanam,rajendraprasad.karanam@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,11-Nov-2022,03-Sep-2021
+271501000015363122,417,SatishKumar,M,satish.m@techdemocracy.com,"Cyber Risk Security & Governance","Consultant - Technology Site Engineer Level 1 TSDC",Resigned,30-Nov-2024,03-Sep-2021
+271501000015326203,416,Jitesh,"Venkat Raman",jitesh.raman@techdemocracy.com,"Cyber Risk Security & Governance","Consultant - Technology Helpdesk Support Level 1 TSDC",Resigned,15-Jul-2022,31-Aug-2021
+271501000015325637,100264,Scott,Holcomb,scott.holcomb@techdemocracy.com,"Cyber Risk Security & Governance","Sales Executive",Resigned,15-Jul-2022,01-Sep-2021
+271501000015277031,415,Ravi,Kakarla,ravi.kakarla@techdemocracy.com,"Cyber Risk Security & Governance","Consultant - Technology NOC engineer Level 1 TSDC",Resigned,10-Apr-2026,27-Aug-2021
+271501000015206229,100263,"Johnny Jr.",Orozco,johnny.orozco@techdemocracy.com,"Cyber Risk Security & Governance","Senior Consultant - Technology",Resigned,07-Mar-2022,23-Aug-2021
+271501000015117129,414,Dolly,Shaw,dolly.shaw@techdemocracy.com,"Cyber Risk Security & Governance","Senior Consultant",Resigned,02-Mar-2023,13-Aug-2021
+271501000015102593,413,"Rudra Prasad",Basu,rudrabasu@techdemocracy.com,"Cyber Risk Security & Governance","Manager - Technology",Resigned,10-Dec-2021,12-Aug-2021
+271501000015081061,100262,Earl,Ellsworth,earl.ellsworth@techdemocracy.com,"Cyber Risk Security & Governance","Senior Consultant - Technology",Resigned,30-Jun-2022,09-Aug-2021
+271501000015064033,412,Thallapalli,"Kalyan Kumar",kalyanthallapalli@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,08-Dec-2021,04-Aug-2021
+271501000015064003,411,Navinkumar,"Vasudeva Ramachandiran",navinkumar.ramachandiran@techdemocracy.com,"Cyber Risk Security & Governance","Advisory Manager",Resigned,06-Feb-2024,04-Aug-2021
+271501000015048112,410,"Venkata Naga Dhanunjaya Rao",Atmuri,dhanunjayarao.atmuri@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,05-Aug-2022,04-Aug-2021
+271501000015031317,CIPL0005,Kalyan,Thallapalli,kalyan.thallapalli@techdemocracy.com,"Cyber Risk Security & Governance",Contractor,Resigned,03-Aug-2021,06-Jul-2021
+271501000015031279,TDC072,Manjunath,Mudigonda,manjunath.mudigonda@techdemocracy.com,"Growth Practices",Contractor,Resigned,,02-Aug-2021
+271501000015031241,TDC071,Ragul,Yogasundaram,ragul.yogasundaram@techdemocracy.com,"Growth Practices",Contractor,Resigned,,26-Jul-2021
+271501000015020954,409,"Narendra Kumar Reddy",Rachakada,narendra.reddy@techdemocracy.com,BD,,Resigned,26-May-2023,02-Aug-2021
+271501000014991141,100261,Ian,McAteer,ian.mcateer@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,31-Jul-2024,27-Jul-2021
+271501000014958027,100260,"Meghana Reddy",DEVIREDDY,meghana.devireddy@techdemocracy.com,"Cyber Risk Security & Governance","Trainee Consultant",Resigned,29-Apr-2022,21-Jul-2021
+271501000014854081,408,"Arun Kumar",Patro,arunkumar.patro@techdemocracy.com,"Cyber Risk Security & Governance","Consultant - Technology NOC engineer Level 1 TSDC",Resigned,05-Dec-2022,12-Jul-2021
+271501000014854051,407,Ravalika,Reddy,ravalika.reddy@techdemocracy.com,Sales,"Technical Recruiter",Resigned,29-Nov-2023,12-Jul-2021
+271501000014842013,CIPL0004,SaiKumar,Sunki,saikumar.sunki@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,05-Sep-2021,28-Jun-2021
+271501000014823001,406,Priyanka,Mekala,priyankamekala@techdemocracy.com,"Cyber Risk Security & Governance","Manager - Delivery",Resigned,14-Jan-2023,05-Jul-2021
+271501000014790003,405,HariBabu,Gudi,haribabu.gudi@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,06-Aug-2021,05-Jul-2021
+271501000014726001,100259,"Narendra Kumar",Sanka,narendra.sanka@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,27-Sep-2021,28-Jun-2021
+271501000014587097,CIPL0003,"Venkata Manoj Kumar",Naupada,venkatamanoj.naupada@techdemocracy.com,"Cyber Risk Security & Governance",Contractor,Resigned,30-Jun-2022,07-Jun-2021
+271501000014531001,TDC70,"Venkata Pradeep",Madhira,venkatapradeep.madhira@techdemocracy.com,"Cyber Risk Security & Governance",Contractor,Resigned,,07-Jun-2021
+271501000014415828,404,"Subhash Kumar",Choudhary,subhash.choudhary@techdemocracy.com,Finance,"Director - Finance",Resigned,02-Dec-2025,26-May-2021
+271501000014366342,403,"Rama Krishna",Bandreddi,ram.bandreddi@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,31-Mar-2022,21-May-2021
+271501000014288137,100258,Ajay,Vijaywargiya,ajay.vijaywargiya@techdemocracy.com,"Cyber Risk Security & Governance","Manager - Technology",Resigned,30-Nov-2021,13-May-2021
+271501000014263031,401,Nilmani,Ghimire,nilmanighimire@techdemocracy.com,"Cyber Risk Security & Governance","Technical Domain Specialist",Resigned,29-Dec-2021,10-May-2021
+271501000014263005,400,"Jai Ram Reddy",Lankala,jairamlankala@techdemocracy.com,"Cyber Risk Security & Governance","Technical Domain Specialist",Resigned,23-May-2022,10-May-2021
+271501000014143065,TDC069,Akshay,Pothuganti,akshay.pothuganti@techdemocracy.com,"Cyber Risk Security & Governance",Contractor,Resigned,,29-Apr-2021
+271501000014084717,TDC068,"Sumanth Chandra",Buddineni,sumanth.buddineni@techdemocracy.com,"Cyber Risk Security & Governance",Contractor,Resigned,,01-Mar-2021
+271501000014076003,399,"Goyala Naga Prathap",Pilli,nagaprathap.pilligoyala@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,31-Jul-2021,22-Apr-2021
+271501000014030123,398,"Goutham Reddy",Ragipindi,goutham.ragipindi@techdemocracy.com,"Cyber Risk Security & Governance","Security Consultant",Resigned,18-Apr-2024,19-Apr-2021
+271501000014030097,397,Arifzama,Mohammed,mohammed.arifzama@techdemocracy.com,"Cyber Risk Security & Governance","Manager - Delivery",Resigned,09-Feb-2023,19-Apr-2021
+271501000013989333,396,Krishna,Yeram,krishna.yeram@techdemocracy.com,BD,,Resigned,05-Jul-2023,15-Apr-2021
+271501000013991001,100256,Rajesh,Saka,rajesh.saka@techdemocracy.com,"Cyber Risk Security & Governance","Manager - Delivery",Resigned,12-Sep-2022,14-Apr-2021
+271501000013932175,100255,"Srinivasa Bhargava Reddy",Meka,srinivasa.m@techdemocracy.com,"Cyber Risk Security & Governance","Senior Advisory Manager",Resigned,31-Mar-2024,08-Apr-2021
+271501000013929007,395,Chandrakanth,Bhima,chandrakanth.bhima@techdemocracy.com,"Cyber Risk Security & Governance","Consultant - Technology Level 2",Resigned,23-Sep-2022,08-Apr-2021
+271501000013906057,CIPL00013,Nilmani,Ghimire,nilmani.ghimire@techdemocracy.com,"Cyber Risk Security & Governance",Contractor,Resigned,21-Apr-2022,30-Dec-2021
+271501000013906019,CIPL0001,"Jai Ram Reddy",Lankala,jairam.lankala@techdemocracy.com,"Cyber Risk Security & Governance",Contractor,Resigned,09-May-2021,05-Mar-2021
+271501000013860165,402,Mahesh,Jangidi,mahesh.jangidi@techdemocracy.com,"Cyber Risk Security & Governance","Senior Consultant - Technology",Resigned,11-Jun-2021,17-May-2021
+271501000013856001,100254,"Kapil Chakravarthy",SANUBALA,kapil.sanubala@techdemocracy.com,"Cyber Risk Security & Governance","Advisory Manager",Resigned,31-May-2024,01-Apr-2021
+271501000013796031,391,"Dilip Reddy",Nandyala,dilipreddy.nandyala@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,29-Nov-2021,29-Mar-2021
+271501000013796005,392,RAVIKUMAR,PENDLI,ravikumar.pendli@techdemocracy.com,"Cyber Risk Security & Governance","Consultant - Technology Level 2",Resigned,31-Aug-2023,29-Mar-2021
+271501000013710205,100253,"Gopi Krishna",VANGARA,gopi.vangara@techdemocracy.com,"Growth Practices","Software Engineer",Resigned,16-Mar-2023,22-Mar-2021
+271501000013714091,390,JayaKumar,Rajadurai,jayakumar.rajadurai@techdemocracy.com,"Cyber Risk Security & Governance","Senior Security Solutions Consultant",Resigned,08-May-2026,22-Mar-2021
+271501000013714067,389,Maheswari,Macharla,maheswari.macharla@techdemocracy.com,"Cyber Risk Security & Governance","Consultant - Technology Level 2",Resigned,15-Jul-2022,22-Mar-2021
+271501000013714043,388,Mahesh,Gedepudi,mahesh.gedepudi@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,15-Jun-2021,22-Mar-2021
+271501000013714017,387,Naresh,Uputholla,naresh.uputholla@techdemocracy.com,"Cyber Risk Security & Governance","Consultant - Technology Level 2",Resigned,22-Jun-2023,22-Mar-2021
+271501000013558355,386,Prakash,Geetha,prakash.geetha@techdemocracy.com,"Cyber Risk Security & Governance","Consultant - Technology Level 2",Resigned,08-Apr-2022,08-Mar-2021
+271501000013558329,385,Meghana,Laxmidas,meghana.laxmidas@techdemocracy.com,"Cyber Risk Security & Governance","Trainee Consultant",Resigned,13-Jan-2023,08-Mar-2021
+271501000013562706,TDC067,Rashed,Noman,rashed.noman@techdemocracy.com,"Cyber Risk Security & Governance",Contractor,Resigned,23-Mar-2021,09-Mar-2021
+271501000013497001,100252,Sreeveena,PALADI,sreeveena.paladi@techdemocracy.com,"Cyber Risk Security & Governance","Senior Consultant - Delivery",Resigned,28-Apr-2022,01-Mar-2021
+271501000013494003,384,Harsh,Singh,harsh.singh@techdemocracy.com,"Cyber Risk Security & Governance","Security Solutions Consultant",Resigned,16-Jan-2026,01-Mar-2021
+271501000013428029,383,Supriya,Mandlipalli,supriya.mandlipalli@techdemocracy.com,"Cyber Risk Security & Governance","Consultant - Technology NMS/EMS Specialist Level 1 TSDC",Resigned,11-Dec-2023,19-Feb-2021
+271501000013407071,382,Surendra,Vitla,surendravitla@techdemocracy.com,"Cyber Risk Security & Governance","Lead Security Consultant",Resigned,16-Oct-2023,19-Feb-2021
+271501000013338440,381,Kanika,Anand,kanika.anand@techdemocracy.com,"Cyber Risk Security & Governance","Trainee Consultant",Resigned,13-May-2022,15-Feb-2021
+271501000013317015,100251,Alex,Lam,alex.lam@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,05-Oct-2022,09-Feb-2021
+271501000013248170,100249,"Mohan Ramakrishna",MANUKONDA,mohan.manukonda@techdemocracy.com,"Cyber Risk Security & Governance","Manager - Delivery",Resigned,30-Sep-2024,29-Jan-2021
+271501000013248078,380,India,Ashok,india.ashok@techdemocracy.com,Marketing,,Resigned,24-Dec-2021,01-Feb-2021
+271501000013236043,100248,John,Mettam,john.mettam@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,19-Mar-2021,01-Feb-2021
+271501000013159047,379,"Ruzuma begum",Shaik,ruzumabegum.shaik@techdemocracy.com,"Cyber Risk Security & Governance","Consultant Technology Band A",Resigned,13-Aug-2021,20-Jan-2021
+271501000013085129,378,Naresh,Dasari,naresh.dasari@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,16-Dec-2021,08-Jan-2021
+271501000013057578,377,"Shahbaz khan",Mohammed,shahbaz.mohammed@techdemocracy.com,"Cyber Risk Security & Governance","Consultant - Technology Site Engineer Level 1 TSDC",Resigned,22-Jun-2023,06-Jan-2021
+271501000013014749,376,Naresh,Janne,naresh.janne@techdemocracy.com,"Cyber Risk Security & Governance","Consultant - Technology Server Engineer Level 1 TSDC",Resigned,30-Nov-2024,04-Jan-2021
+271501000013014723,375,"Narendar Reddy",Eluri,narendarreddy.eluri@techdemocracy.com,"Cyber Risk Security & Governance","Consultant Technology Band A",Resigned,01-Nov-2021,04-Jan-2021
+271501000013014697,374,Nagesh,V,nagesh.v@techdemocracy.com,"Cyber Risk Security & Governance","Consultant - Technology Site Engineer Level 1 TSDC",Resigned,01-Nov-2024,04-Jan-2021
+271501000013014523,373,"Ashok Kumar",Nayak,ashokkumar.nayak@techdemocracy.com,"Cyber Risk Security & Governance","Consultant Technology Band A",Resigned,01-Dec-2021,04-Jan-2021
+271501000012972165,372,"Syed Raza",Hussaini,syed.hussaini@techdemocracy.com,"Cyber Risk Security & Governance","Consultant Technology Band A",Resigned,12-Nov-2021,28-Dec-2020
+271501000012972141,371,"Seela Rajiv",Chakravarthy,seelarajiv.chakravarthy@techdemocracy.com,"Cyber Risk Security & Governance","Consultant - Technology Helpdesk Support Level 1 TSDC",Resigned,02-May-2022,28-Dec-2020
+271501000012972117,370,Ashok,Nellutla,ashok.nellutla@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,03-Nov-2022,28-Dec-2020
+271501000012972091,369,Sagar,Gate,sagar.gate@techdemocracy.com,"Cyber Risk Security & Governance","Consultant Technology Band A",Resigned,01-Sep-2021,24-Dec-2020
+271501000012897439,367,"Veera Venkata Vinod",Nimmana,vinod.nimmana@techdemocracy.com,"Cyber Risk Security & Governance","Consultant - Technology NOC engineer Level 1 TSDC",Resigned,15-Feb-2022,21-Dec-2020
+271501000012897171,368,Babasaheb,Janipalli,babasaheb.janipalli@techdemocracy.com,"Cyber Risk Security & Governance","Consultant - Technology Helpdesk Support Level 1 TSDC",Resigned,30-Nov-2024,23-Dec-2020
+271501000012897125,366,"Srinivas Babu",Punukollu,srinivas.punukollu@techdemocracy.com,"Cyber Risk Security & Governance","Consultant - Technology Server Engineer Level 1 TSDC",Resigned,08-Apr-2023,21-Dec-2020
+271501000012897101,365,Ramkrishna,Dogga,ramkrishna.dogga@techdemocracy.com,"Cyber Risk Security & Governance","Consultant Technology Band A",Resigned,22-Dec-2020,21-Dec-2020
+271501000012897075,364,"Shiva Kumar",medipally,shivakumar.medipally@techdemocracy.com,"Cyber Risk Security & Governance","Consultant Technology Band A",Terminated,09-Feb-2021,21-Dec-2020
+271501000012897005,363,Madhav,Deevi,madhav.deevi@techdemocracy.com,"Cyber Risk Security & Governance","Consultant Technology Band A",Resigned,03-Nov-2021,21-Dec-2020
+271501000012797397,362,"Bhavani Sai",Bojja,bhavanisai.bojja@techdemocracy.com,"Cyber Risk Security & Governance","Consultant Technology Band A",Resigned,23-Apr-2021,16-Dec-2020
+271501000012797189,361,Chandana,Alampudi,chandana.alampudi@techdemocracy.com,"Cyber Risk Security & Governance","Consultant Technology Band A",Resigned,31-Aug-2021,16-Dec-2020
+271501000012752109,359,Mohammad,"Muktar Hussain",mohamma.hussain@techdemocracy.com,"Cyber Risk Security & Governance","Lead Consultant - SDC, SOC",Resigned,30-Jan-2026,14-Dec-2020
+271501000012752065,360,Shamshanker,Rodda,shamshanker.rodda@techdemocracy.com,"Cyber Risk Security & Governance","Consultant Technology Band A",Resigned,23-Oct-2021,14-Dec-2020
+271501000012496218,TDC066,"Rajesh Ranganathan",ARANI,rajesharani@techdemocracy.com,"Growth Practices",Contractor,Resigned,18-Mar-2022,16-Nov-2020
+271501000012276124,100247,Anurag,Nayak,anurag.nayak@techdemocracy.com,"Cyber Risk Security & Governance","Manager - Technology",Resigned,19-Mar-2021,26-Oct-2020
+271501000012272077,100238,Jahnavi,Chintamakula,jahnavi.chintamakula@techdemocracy.com,"Cyber Risk Security & Governance","Associate Consultant",Resigned,04-Jun-2021,11-Aug-2020
+271501000012049791,100245,"Anil Kumar",Garg,anil.garg@techdemocracy.com,"Cyber Risk Security & Governance","Senior Manager - Technology",Resigned,02-Feb-2021,05-Oct-2020
+271501000012024155,TDC065,Venugopal,Jupalli,venugopal.jupalli@techdemocracy.com,"Cyber Risk Security & Governance",Contractor,Resigned,26-Apr-2021,14-Sep-2020
+271501000012008019,100244,"Madhukar Babu",MALLADI,madhukar@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,15-Sep-2022,29-Sep-2020
+271501000011989041,358,Harish,Karimi,harish.karimi@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,24-Mar-2023,28-Sep-2020
+271501000011989001,TDC064,"Kalyan Babu",Murari,kalyan.murari@techdemocracy.com,"Growth Practices",Contractor,Resigned,,28-Sep-2020
+271501000011787377,357,"Madhava Rao",Sandoori,madhava.sandoori@techdemocracy.com,TAG,,Resigned,30-Jul-2021,14-Sep-2020
+271501000011731186,100243,Priyanka,Mekala,priyanka.mekala@techdemocracy.com,"Cyber Risk Security & Governance","Manager - Delivery",Resigned,01-Jul-2021,09-Sep-2020
+271501000011731136,TDC063,Manideep,Miriyala,manideep.miriyala@techdemocracy.com,"Growth Practices",Contractor,Resigned,,09-Sep-2020
+271501000011731096,100242,Sowmya,Narayanagari,sowmya.narayanagari@techdemocracy.com,"Cyber Risk Security & Governance","Associate Consultant",Resigned,05-Aug-2021,04-Sep-2020
+271501000011713120,356,"Sri Vamsi Raj Siddhartha",Balepalli,siddhartha.balepalli@techdemocracy.com,Marketing,"Senior Graphic Designer",Resigned,23-Feb-2026,03-Sep-2020
+271501000011713080,355,"ARUN KUMAR",AJAY,arun.kumar@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,02-Mar-2021,03-Sep-2020
+271501000011583314,353,"Mohammed Maaz",Shaikh,mohammed.shaikh@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,29-Jun-2021,25-Aug-2020
+271501000011481015,352,"VENKATESHWAR RAO",CHEKKA,venkateshwar.chekka@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,27-Nov-2020,14-Aug-2020
+271501000011421297,100240,Sevanti,NAG,sevanti.nag@techdemocracy.com,"Cyber Risk Security & Governance","Associate Consultant",Resigned,09-Aug-2021,11-Aug-2020
+271501000011421257,100239,"Bala Vignan Reddy",KANDULA,vignan.kandula@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,25-Dec-2020,11-Aug-2020
+271501000011421177,100237,"Dheeraj Reddy",MADDI,dheeraj.maddi@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,31-Dec-2020,11-Aug-2020
+271501000011421137,100236,"Sathvika Reddy",ANUGU,sathvika.anugu@techdemocracy.com,"Cyber Risk Security & Governance","Associate Consultant",Resigned,03-Aug-2021,11-Aug-2020
+271501000011421097,100235,Rahul,DHAMERLA,rahul.dhamerla@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,26-Oct-2020,11-Aug-2020
+271501000011421057,100241,Venkatesh,YARLAGADDA,venkatesh.yarlagadda@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,28-Feb-2021,10-Sep-2020
+271501000011421017,100234,Sahithi,KATAKAM,sahithi.katakam@techdemocracy.com,"Cyber Risk Security & Governance","Associate Consultant",Resigned,20-Aug-2021,12-Aug-2020
+271501000011357117,350,"Glaisy Jose",Menachery,glaisyjose.menachery@techdemocracy.com,HR,"Senior Associate - HR Operations",Resigned,20-Sep-2023,03-Aug-2020
+271501000011357063,351,"Pradeep Kumar",Chaparthi,pradeepkumar.chaparthi@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,12-Nov-2021,03-Aug-2020
+271501000011357023,100233,"William Tucker",Frazier,tucker.frazier@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,09-Sep-2022,03-Aug-2020
+271501000011219015,349,Amit,Kumar,amit.kumar@techdemocracy.com,"Cyber Risk Security & Governance","Senior Security Solutions Consultant",Resigned,31-Jan-2024,20-Jul-2020
+271501000011151131,348,Obulesu,Chintaginjala,obulesu.chintaginjala@techdemocracy.com,"Cyber Risk Security & Governance","Consultant - Technology",Resigned,08-Feb-2023,15-Jul-2020
+271501000011078069,346,Sushruth,Laishetty,sushruth.laishetty@techdemocracy.com,Marketing,,Terminated,05-Nov-2020,06-Jul-2020
+271501000011078001,347,Arunkumar,Adepu,arunkumar.adepu@techdemocracy.com,"Cyber Risk Security & Governance","Senior Security Consultant",Resigned,12-Sep-2023,06-Jul-2020
+271501000011076015,345,Sanjana,Thandra,sanjana.thandra@techdemocracy.com,"Cyber Risk Security & Governance","Consultant - Technology",Resigned,18-Jun-2021,03-Jul-2020
+271501000011021001,354,"Ananth Kumar",Vasupilli,ananth.vasupilli@techdemocracy.com,"Cyber Risk Security & Governance","Senior Consultant - Technology",Resigned,13-Jun-2023,01-Sep-2020
+271501000010947672,344,Sudhakar,Irri,sudhakar.irri@techdemocracy.com,TAG,"Technical Recruiter",Resigned,25-Mar-2022,24-Jun-2020
+271501000010880041,100232,Pramod,Vishwasrao,pramod.vishwasrao@techdemocracy.com,"Cyber Risk Security & Governance","Senior Consultant - Delivery",Resigned,26-Feb-2021,11-Jun-2020
+271501000010880001,343,Suresh,Rayanki,suresh.rayanki@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,24-Feb-2023,17-Jun-2020
+271501000010783041,342,Sneha,Adumalli,sneha.adumalli@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,11-Oct-2021,04-Jun-2020
+271501000010783001,341,Anjibabu,Rudra,anjibabu.rudra@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,03-Sep-2021,03-Jun-2020
+271501000010691935,340,Ketan,Batra,ketan.batra@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,13-Nov-2020,18-May-2020
+271501000010648001,100231,Amit,Jagtiani,amit.jagtiani@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,14-Dec-2021,15-May-2020
+271501000010615049,100230,Bharath,"Shimoga Shivaswamy",bharath.shivaswamy@techdemocracy.com,"Cyber Risk Security & Governance","Advisory Manager - QA",Resigned,26-Apr-2024,11-May-2020
+271501000010508015,100229,Parul,Madhukar,parul.madhukar@techdemocracy.com,"Cyber Risk Security & Governance","Software Consultant",Resigned,31-May-2022,30-Apr-2020
+271501000010439001,100227,"Manoj Kumar",Gauda,manoj.gauda@techdemocracy.com,"Cyber Risk Security & Governance","Manager - Technology",Resigned,31-Jan-2023,23-Apr-2020
+271501000010428669,100228,Vighnesh,Krishnan,vighnesh.krishnan@techdemocracy.com,"Cyber Risk Security & Governance","Trainee Consultant",Resigned,07-Oct-2020,17-Apr-2020
+271501000010413676,100226,"Hima Bindu",Surapaneni,himabindu.surapaneni@techdemocracy.com,Finance,,Resigned,07-Aug-2020,17-Apr-2020
+271501000010401025,313,"Siva Sankar",Lankapalli,sivasankarlankapalli@techdemocracy.com,"Cyber Risk Security & Governance","Manager Delivery (IN)",Resigned,27-Jan-2023,02-Dec-2019
+271501000010284001,338,Latha,Siddappaji,latha.siddappaji@techdemocracy.com,"Cyber Risk Security & Governance","Consultant - Technology",Terminated,28-Apr-2020,06-Apr-2020
+271501000010169229,336,SandeepReddy,Cholleti,sandeepreddy.cholleti@techdemocracy.com,"Cyber Risk Security & Governance","Consultant - Delivery Level 1",Resigned,05-Jan-2022,26-Mar-2020
+271501000010169179,335,SaiCharan,Donthram,saicharan.donthram@techdemocracy.com,"Cyber Risk Security & Governance","Trainee Consultant",Resigned,18-May-2021,26-Mar-2020
+271501000010169139,334,Harish,Yara,harish.yara@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,24-Nov-2021,26-Mar-2020
+271501000010169099,333,"Ashish Yadav",Jala,ashish.yadav@techdemocracy.com,"Cyber Risk Security & Governance","Consultant - Delivery Level 1",Resigned,06-May-2022,26-Mar-2020
+271501000010169059,337,PraveenKumar,Codavali,praveen.codavali@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,28-Feb-2022,30-Mar-2020
+271501000010122169,332,Ravali,Bhoothpuram,ravali.bhoothpuram@techdemocracy.com,"Cyber Risk Security & Governance","Consultant - Delivery Level 1",Resigned,13-May-2022,24-Mar-2020
+271501000010122129,331,Mukambika,Medarametla,mukambika.medarametla@techdemocracy.com,"Cyber Risk Security & Governance","Consultant - Delivery Level 1",Resigned,25-Mar-2022,24-Mar-2020
+271501000010122089,330,Srinath,Mandla,srinath.mandla@techdemocracy.com,"Cyber Risk Security & Governance","Security Consultant",Resigned,19-Jul-2024,24-Mar-2020
+271501000010122049,329,Pavankalyan,Dosa,pavankalyan.dosa@techdemocracy.com,"Cyber Risk Security & Governance","Consultant - Delivery Level 1",Resigned,22-Dec-2021,24-Mar-2020
+271501000010122009,328,Srikanth,Gundu,srikanth.gundu@techdemocracy.com,TAG,,Resigned,19-Feb-2021,24-Mar-2020
+271501000010099119,326,Koushik,Katta,koushik.katta@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,05-Apr-2021,23-Mar-2020
+271501000010099065,327,SaiPrasad,Gaddala,saiprasad.gaddala@techdemocracy.com,"Cyber Risk Security & Governance","Senior Consultant - Technology Level 1",Resigned,15-Jun-2022,23-Mar-2020
+271501000010099001,325,"Laxman Reddy",Rallabandi,laxman.rallabandi@techdemocracy.com,TAG,,Resigned,31-Mar-2023,23-Mar-2020
+271501000010089015,TDC062,Gowtham,KUKKADAPU,gowtham.kukkadapu@techdemocracy.com,"Growth Practices",Contractor,Resigned,06-Feb-2023,23-Mar-2020
+271501000010084055,100225,"Vamsy Priya",ANNE,vamsypriya.anne@techdemocracy.com,"Cyber Risk Security & Governance","Security Consultant",Resigned,29-Mar-2024,12-Mar-2020
+271501000010084015,100224,Sampath,TALLURI,sampath.talluri@techdemocracy.com,"Cyber Risk Security & Governance","Consultant - Delivery Level 1",Resigned,09-Nov-2022,12-Mar-2020
+271501000010039021,324,Ashwini,Merugumalli,ashwini.merugumalli@techdemocracy.com,HR,,Resigned,31-Aug-2021,18-Mar-2020
+271501000009958045,100223,"Thulasi Krishna",Bheema,thulasikrishnabheema@techdemocracy.com,"Cyber Risk Security & Governance","Senior Consultant - Technology",Resigned,28-Jan-2022,09-Mar-2020
+271501000009888135,322,Venkatesan,Periyasamy,venkatesan.periyasamy@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,10-Aug-2020,05-Mar-2020
+271501000009757017,321,Jaganmohan,Chinnapareddy,jaganmohan.bathala@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,19-Feb-2021,24-Feb-2020
+271501000009542073,320,Soudip,Sanyal,soudip.sanyal@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,15-Feb-2023,03-Feb-2020
+271501000009542015,319,Yasowanth,Chilakapati,yasowanth.chilakapati@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,23-Feb-2021,29-Jan-2020
+271501000009504069,TDC061,Karthik,Polisetty,karthik.polisetty@techdemocracy.com,"Growth Practices","Consultant Level 1",Resigned,,30-Jan-2020
+271501000009504033,TDC060,Rakesh,Chouhan,rakesh.chouhan@techdemocracy.com,"Growth Practices","Consultant Level 1",Resigned,,27-Jan-2020
+271501000009356005,318,VamsiKrishna,Patro,vamsikrishna.patro@techdemocracy.com,"System Admin","Technical Lead – IT Infra",Resigned,31-Oct-2025,21-Jan-2020
+271501000009258049,100222,"Ananth Narayanan",Lakshmanan,ananthnarayanan@techdemocracy.com,"Cyber Risk Security & Governance","Senior Manager - Technology",Resigned,23-Oct-2020,03-Jan-2020
+271501000009059031,100221,Emad,Alkul,emad.alkul@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,07-Jul-2020,23-Dec-2019
+271501000008961051,316,Goutham,Jonnalagadda,goutham.jonnalagadda@techdemocracy.com,"Cyber Risk Security & Governance","Technical Domain Specialist",Resigned,17-Dec-2021,16-Dec-2019
+271501000008937099,315,Lakshma,Chagam,lakshma.chagam@techdemocracy.com,"Cyber Risk Security & Governance","Senior Solutions Consultant - BI",Resigned,29-Jan-2024,13-Dec-2019
+271501000008937063,314,Prakash,Pulluri,prakash.pulluri@techdemocracy.com,BD,"Senior Manager Sales (Government)",Resigned,15-Sep-2025,13-Dec-2019
+271501000008890180,100220,Surender,SHANMUGAM,surender.shanmugam@techdemocracy.com,"Cyber Risk Security & Governance","Manager - Delivery",Resigned,28-Dec-2021,09-Dec-2019
+271501000008890142,100219,"Bhaskara Reddy","APPEGOWDANAHALLI VENKATAREDDY",bhaskara.reddy@techdemocracy.com,"Cyber Risk Security & Governance","Senior Consultant - Delivery",Resigned,03-Jul-2020,09-Dec-2019
+271501000008879027,100218,Naveena,"TUMKUR NAGARAJU",naveena.tumkur@techdemocracy.com,"Cyber Risk Security & Governance","Senior Consultant - Delivery",Resigned,28-Jan-2022,04-Dec-2019
+271501000008863058,312,"Vinay Kumar",Injam,vinay.injam@techdemocracy.com,"Cyber Risk Security & Governance","Senior Consultant - Delivery",Resigned,18-Jul-2023,02-Dec-2019
+271501000008849958,306,"Giridhara Venkata RamRaj",Mulasa,ramraj.mulasa@techdemocracy.com,"Cyber Risk Security & Governance","Senior Manager - Technology",Resigned,30-Nov-2020,04-Nov-2019
+271501000008810227,310,"Abhinav Rao",Paruvelli,abhinav.paruvelli@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,16-Jun-2023,26-Nov-2019
+271501000008810153,309,Rahul,Karkande,rahul.karkande@techdemocracy.com,"Cyber Risk Security & Governance","Technical Domain Specialist",Resigned,16-Nov-2021,25-Nov-2019
+271501000008810101,100217,"Sravani Priyanka",Ravula,priyankaravula@techdemocracy.com,"Cyber Risk Security & Governance","Consultant - Delivery Level 1",Resigned,31-Mar-2023,25-Nov-2019
+271501000008769011,TDC059,Rajesh,Kumawat,rajesh.kumawat@techdemocracy.com,"Cyber Risk Security & Governance",Consultant,Resigned,,19-Nov-2019
+271501000008738094,100216,"Madhu Sudhan Babu",Deva,madhudeva@techdemocracy.com,"Growth Practices","Software Engineer",Resigned,31-Aug-2022,18-Nov-2019
+271501000008670299,307,"Kavitha Vani",Amara,kavitha.amara@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,03-Aug-2022,07-Nov-2019
+271501000008671111,100215,Christopher,Hull,christopherhull@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,01-Jun-2020,04-Nov-2019
+271501000008671049,100214,Vishal,Thedlapally,vishalthedlapally@techdemocracy.com,"Cyber Risk Security & Governance","Manager - Delivery",Resigned,21-May-2021,04-Nov-2019
+271501000008665037,TDC058,Dhanush,Reddy,dhanush.reddy@techdemocracy.com,"Cyber Risk Security & Governance",Consultant,Resigned,,13-Nov-2019
+271501000008665001,TDC057,Jagadeesh,Potukanuma,jagadeesh.potukanuma@techdemocracy.com,"Cyber Risk Security & Governance","Consultant Level 1",Resigned,,06-Nov-2019
+271501000008650686,TDC056,Ajay,Morampudi,ajay.morampudi@techdemocracy.com,"Cyber Risk Security & Governance",Consultant,Resigned,,11-Nov-2019
+271501000008623161,TDC055,Rachid,Bourass,rachid.bourass@techdemocracy.com,"Cyber Risk Security & Governance",Consultant,Resigned,23-Jun-2020,04-Nov-2019
+271501000008607001,305,Srikanth,Nelluri,srikanth.nelluri@techdemocracy.com,"Cyber Risk Security & Governance","Senior Security Consultant",Resigned,13-Nov-2023,31-Oct-2019
+271501000008581143,100208,Rick,Rius,rick.rius@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,05-Feb-2021,01-Oct-2019
+271501000008581091,TDC054,Chandrasekaran,Govindan,chandrasekaran.govindan@techdemocracy.com,"Growth Practices","Consultant Level 1",Resigned,,28-Oct-2019
+271501000008543093,TDC053,Mozammel,Khan,mozammel.khan@techdemocracy.com,"Growth Practices","Consultant Level 1",Resigned,,21-Oct-2019
+271501000008543057,TDC052,"Sridhar Reddy Gudampati Venkata",Venkata,sridhar.gudampati@techdemocracy.com,"Cyber Risk Security & Governance",Consultant,Resigned,,15-Oct-2019
+271501000008535065,100213,Rajesh,Avula,rajeshavula@techdemocracy.com,"Cyber Risk Security & Governance","Consultant - Delivery Level 1",Resigned,26-May-2023,21-Oct-2019
+271501000008538276,304,Lavanya,Parepally,lavanya.parepally@techdemocracy.com,"Cyber Risk Security & Governance","Senior Consultant - Delivery",Resigned,14-Mar-2022,21-Oct-2019
+271501000008482021,303,"Naresh Kumar Reddy",Mukkamalla,naresh.mukkamalla@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,31-Oct-2019,14-Oct-2019
+271501000008462045,100211,"Ravindra Babu",Karanam,ravindra.karanam@techdemocracy.com,"Cyber Risk Security & Governance","Senior Consultant - Technology",Resigned,20-Jan-2023,10-Oct-2019
+271501000008392869,301,Madhu,Devasetty,madhu.devasetty@techdemocracy.com,"Cyber Risk Security & Governance",,Terminated,01-Dec-2019,30-Sep-2019
+271501000008392785,300,Kiran,Palakeeti,kiran.palakeeti@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,07-Oct-2020,26-Sep-2019
+271501000008231227,299,Arif,Ali,arif.ali@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,08-Jul-2020,24-Sep-2019
+271501000008231189,298,Tirupathiraju,Ottukulla,tirupathi.ottukulla@techdemocracy.com,"Cyber Risk Security & Governance","Senior Solutions Consultant - BI",Resigned,05-Feb-2025,19-Sep-2019
+271501000008199279,TDC051,Praveen,Gajjala,praveen.gajjala@techdemocracy.com,"Cyber Risk Security & Governance",Consultant,Resigned,09-Oct-2019,16-Sep-2019
+271501000008180151,100210,Manikandaprabu,Sekar,manikandaprabu.sekar@techdemocracy.com,"Cyber Risk Security & Governance","Manager - Delivery",Resigned,18-Jun-2021,09-Sep-2019
+271501000008180113,100209,Eddie,Cason,eddie.cason@techdemocracy.com,"Cyber Risk Security & Governance","Senior Manager - Technology",Resigned,08-May-2020,09-Sep-2019
+271501000008150097,297,Shirini,Mandala,shirini.mandala@techdemocracy.com,HR,,Resigned,25-May-2023,09-Sep-2019
+271501000007997161,296,"Vijay Kumar",Gowni,vijay.gowni@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,25-Sep-2020,16-Aug-2019
+271501000007987236,100207,"Madhu Sudhan Rao",Tharigopula,madhu.tharigopula@techdemocracy.com,"Cyber Risk Security & Governance","Manager - Delivery",Resigned,03-Dec-2021,07-Aug-2019
+271501000007975037,TDC050,Rakesh,Koppurapu,rakesh.koppurapu@techdemocracy.com,"Cyber Risk Security & Governance",Consultant,Resigned,,07-Aug-2019
+271501000007979005,TDC049,Vijay,Srinivasan,vijay.srinivasan@techdemocracy.com,"Cyber Risk Security & Governance",Consultant,Resigned,,13-Aug-2019
+271501000007912083,100206,Peter,Redford,peter.redford@techdemocracy.com,"Cyber Risk Security & Governance",,Terminated,21-Feb-2020,05-Aug-2019
+271501000007912045,100205,Pramod,Samal,pramod.samal@techdemocracy.com,"Cyber Risk Security & Governance","Senior Manager - Technology",Resigned,30-Sep-2020,05-Aug-2019
+271501000007846590,100204,Aditya,Paruchuri,aditya.paruchuri@techdemocracy.com,"Cyber Risk Security & Governance","Manager - Technology",Resigned,02-Aug-2019,29-Jul-2019
+271501000007846267,TDC048,Anuradha,Sriram,anuradha.sriram@techdemocracy.com,"Cyber Risk Security & Governance",Consultant,Resigned,08-Nov-2019,29-Jul-2019
+271501000007806183,TDC047,Subbaraya,Kavuluri,subbaraya.kavuluri@techdemocracy.com,"Cyber Risk Security & Governance",Consultant,Resigned,,24-Jul-2019
+271501000007794063,TDC046,Mohan,Balachandar,mohan.balachandar@techdemocracy.com,"Cyber Risk Security & Governance",Consultant,Resigned,23-Aug-2019,22-Jul-2019
+271501000007762101,TDC044,Bhageerath,Nagaraju,Bhageerath.Nagaraju@techdemocracy.com,"Cyber Risk Security & Governance",Consultant,Resigned,,15-Jul-2019
+271501000007711323,295,KeerthiKiran,Brungi,keerthi.brungi@techdemocracy.com,"Inside Sales","Senior Associate - Inside Sales",Resigned,31-Dec-2025,09-Jul-2019
+271501000007711217,100202,Gregory,Perkins,gregory.perkins@techdemocracy.com,"Cyber Risk Security & Governance","Senior Consultant - Technology",Resigned,12-Sep-2019,08-Jul-2019
+271501000007709095,100201,Anand,Khanadale,anand.khanadale@techdemocracy.com,"Cyber Risk Security & Governance","Senior Manager - Technology",Resigned,08-Nov-2019,08-Jul-2019
+271501000007689029,293,"Nithin Goud",Panjala,nithin.panjala@techdemocracy.com,Sales,"Senior Advisory Manager",Resigned,02-May-2025,01-Jul-2019
+271501000007606661,100200,Sandeep,Singh,sandeep.singh@techdemocracy.com,"Cyber Risk Security & Governance","Manager - Delivery",Resigned,07-Jul-2023,26-Jun-2019
+271501000007566117,292,"Uday Chandrakant",Murali,murali.uday@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,10-Mar-2021,13-Jun-2019
+271501000007540033,TDC043,Christopher,Hull,Christopher.Hull@techdemocracy.com,"Cyber Risk Security & Governance",Consultant,Resigned,03-Nov-2019,17-Jun-2019
+271501000007493593,100212,Sahith,Kallakunta,Sahith.Kallakunta@techdemocracy.com,"Cyber Risk Security & Governance","Senior Manager - Technology",Resigned,17-Jan-2023,21-Oct-2019
+271501000007493581,TDC042,Venkata,Muguda,venkata.muguda@techdemocracy.com,,,Resigned,25-Jul-2019,
+271501000007493363,TDC041,Jeevan,Kotha,Jeevan.Kotha@techdemocracy.com,"Cyber Risk Security & Governance",Consultant,Resigned,,28-May-2019
+271501000007468033,TDC040,Purnachander,Koripelly,purnachander.koripelly@techdemocracy.com,"Cyber Risk Security & Governance",Consultant,Resigned,,03-Jun-2019
+271501000007468001,100246,"Pragnya sagar",guttala,pragnya.sagar@techdemocracy.com,"Cyber Risk Security & Governance","Senior Security Solutions Consultant",Resigned,31-Mar-2024,16-Oct-2020
+271501000007392759,TDC038,Karthik,Rajagopal,karthik.rajagopal@techdemocracy.com,"Cyber Risk Security & Governance",Consultant,Resigned,30-Aug-2019,22-May-2019
+271501000007392747,TDC037,Adam,Jaber,adam.jaber@techdemocracy.com,"Cyber Risk Security & Governance",Consultant,Resigned,,09-May-2019
+271501000007390203,TDC036,Charly,Setbon,Charly.Setbon@techdemocracy.com,"Growth Practices",Contractor,Resigned,,05-Apr-2018
+271501000007390175,TDC035,Mustapha,Benmahbous,Mustapha.Benmahbous@techdemocracy.com,"Growth Practices",Contractor,Resigned,,05-Apr-2018
+271501000007390115,TDC033,Srikanth,Kotapati,Srikanth.Kotapati@techdemocracy.com,"Cyber Risk Security & Governance","Software Engineer",Resigned,16-Sep-2020,20-May-2019
+271501000007390103,TDC032,Sneha,Hardi,Sneha.Hardi@techdemocracy.com,"Cyber Risk Security & Governance",Consultant,Resigned,21-Jun-2019,01-May-2019
+271501000007390039,291,Ali,Sheikh,ali.sheikh@techdemocracy.com,TAG,,Resigned,11-Nov-2019,20-May-2019
+271501000007390001,290,Ipsita,Mohapatra,Ipsita.Mohapatra@techdemocracy.com,TAG,,Terminated,31-May-2019,20-May-2019
+271501000007381251,288,Pramila,Ommi,pramila.ommi@techdemocracy.com,TAG,,Resigned,29-May-2020,20-May-2019
+271501000007381205,287,Kote,Garlapati,kote.garlapati@techdemocracy.com,TAG,,Resigned,03-Jan-2020,20-May-2019
+271501000007386035,100199,Chandrashekhar,Lagad,chandrashekhar.lagad@techdemocracy.com,"Cyber Risk Security & Governance","Senior Consultant - Technology",Resigned,28-Jun-2019,20-May-2019
+271501000007329167,286,Lakshman,Kotipalli,lakshman.kotipalli@techdemocracy.com,"Cyber Risk Security & Governance","Senior Solutions Consultant",Resigned,30-Jun-2025,13-May-2019
+271501000007329129,285,Abhilash,Vasam,Vasam.Abhilash@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,19-Aug-2022,13-May-2019
+271501000007316876,284,Vijayakumar,Adepu,vijay.adepu@techdemocracy.com,TAG,Manager-TAG&Org.Dev,Resigned,17-Apr-2026,08-May-2019
+271501000007312413,TDC031,Madhusudhan,Reddy,madhusudhan.reddy@techdemocracy.com,"Cyber Risk Security & Governance",Consultant,Resigned,10-May-2019,07-May-2019
+271501000007272578,283,Annaji,"Ravi Sankar",Ravisankar.Raniannaji@techdemocracy.com,"Cyber Risk Security & Governance","Manager - Delivery",Resigned,12-Jul-2019,17-Apr-2019
+271501000007228105,TDC030,Satish,Nagireddy,satish.nagireddy@techdemocracy.com,"Cyber Risk Security & Governance",Consultant,Resigned,09-May-2019,22-Apr-2019
+271501000007204333,TDC029,Fahad,Khayyam,Fahad.Khayyam@techdemocracy.com,"Cyber Risk Security & Governance",Consultant,Resigned,09-Apr-2019,08-Apr-2019
+271501000007147153,TDC028,Raju,Daravath,Raju.Daravath@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,18-Oct-2019,08-Apr-2019
+271501000007147121,TDC027,Priyanka,Ravula,Priyanka.Ravula@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,22-Nov-2019,08-Apr-2019
+271501000007110241,TDC026,Abhishek,Devulapalli,Abhishek.Devulapalli@techdemocracy.com,"Cyber Risk Security & Governance",Consultant,Resigned,23-Aug-2019,03-Apr-2019
+271501000007075365,281,Pavan,Mallela,pavan.mallela@techdemocracy.com,TAG,,Resigned,26-Feb-2021,01-Apr-2019
+271501000007019063,100198,Sandeep,Tamang,sandeep.tamang@techdemocracy.com,"Cyber Risk Security & Governance","Senior Advisory Lead",Resigned,13-Sep-2023,18-Mar-2019
+271501000007019027,100197,"Murali Mohan",Jonnalagadda,Murali.Jonnalagadda@techdemocracy.com,"Growth Practices","Software Engineer",Resigned,31-Jul-2019,15-Oct-2018
+271501000007001073,280,Sivamuralikrishna,Kotha,sivamuralikrishna.kotha@techdemocracy.com,"Cyber Risk Security & Governance","Senior Consultant - Delivery",Resigned,15-Apr-2020,18-Mar-2019
+271501000006979027,279,Govind,Verma,Govinda.Verma@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,27-Mar-2020,14-Mar-2019
+271501000006963275,278,"Shiva Kumar",Ponna,shiva.ponna@techdemocracy.com,"Cyber Risk Security & Governance","Senior Security Consultant",Resigned,13-Mar-2024,07-Mar-2019
+271501000006957311,100196,Kamini,Gopalakrishnan,kamini.g@techdemocracy.com,"Cyber Risk Security & Governance","Senior Consultant - Technology",Resigned,15-Oct-2021,11-Mar-2019
+271501000006926227,100194,Kushagra,Panchal,kushagra.panchal@techdemocracy.com,"Cyber Risk Security & Governance","Associate Consultant",Resigned,18-Dec-2020,04-Mar-2019
+271501000006921181,100193,Pravallika,Taniparthy,pravallika.taniparthy@techdemocracy.com,"Cyber Risk Security & Governance","Associate Consultant",Resigned,31-Jul-2022,27-Feb-2019
+271501000006883309,100192,Murali,Nandurka,murali.nandurka@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,05-Jun-2020,25-Feb-2019
+271501000006872031,100191,Wosenu,Gezahagn,Wesen.Gezu@techdemocracy.com,"Cyber Risk Security & Governance","Senior Consultant - Technology",Resigned,30-Aug-2019,19-Feb-2019
+271501000006861432,TDC022,Diya,Nayak,diya.nayak@techdemocracy.com,"Cyber Risk Security & Governance",Consultant,Resigned,04-Oct-2019,02-Sep-2019
+271501000006861047,277,Pandu,Sayoji,pandu.sayoji@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,29-Oct-2021,18-Feb-2019
+271501000006861005,275,Nivedita,Gajanan,nivedita.gajanan@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,21-Apr-2023,12-Feb-2019
+271501000006829011,276,Jagadeshwar,Godapalli,Jagadeshwar.Godapalli@Techdemocracy.com,"Cyber Risk Security & Governance","Senior Consultant - Delivery",Resigned,27-Feb-2019,15-Feb-2019
+271501000006820507,100190,Santosh,Puppala,santosh.puppala@techdemocracy.com,"Cyber Risk Security & Governance","Trainee- Associate Consultant",Resigned,25-Feb-2019,13-Feb-2019
+271501000006820147,100189,Nishant,Kadu,nishant.kadu@techdemocracy.com,,,Resigned,10-May-2019,08-Feb-2019
+271501000006820091,TDC025,Nataraja,Krishnan,nataraja.krishnan@techdemocracy.com,"Cyber Risk Security & Governance",Consultant,Resigned,09-Jan-2020,04-Feb-2019
+271501000006820033,TDC024,"Vishal Kumar",Thedlapally,vishal.thedlapally@techdemocracy.com,"Cyber Risk Security & Governance",Consultant,Resigned,01-Nov-2019,11-Feb-2019
+271501000006820023,TDC023,Jaideep,Krishnan,jaideep.krishnan@techdemocracy.com,"Cyber Risk Security & Governance",Consultant,Resigned,28-Jun-2019,04-Feb-2019
+271501000006777560,100188,"Krishna V",Paruchuri,krishna.paruchuri@techdemocracy.com,"Cyber Risk Security & Governance","Senior Manager - Technology",Resigned,05-Jul-2019,04-Feb-2019
+271501000006777550,100187,Rajesh,Arani,rajesh@techdemocracy.com,"Cyber Risk Security & Governance","Consultant - Technology",Resigned,07-Nov-2020,04-Feb-2019
+271501000006777540,100186,Kanat,Bay,kanat.bay@techdemocracy.com,"Cyber Risk Security & Governance","Senior Consultant - Delivery",Resigned,15-Feb-2019,06-Feb-2019
+271501000006777494,100185,Sanjay,Akarapu,sanjay.akarapu@techdemocracy.com,"Cyber Risk Security & Governance","Associate Consultant",Resigned,09-Feb-2023,04-Feb-2019
+271501000006777484,100184,Sindhura,Karnati,sindhura.karnati@techdemocracy.com,"Cyber Risk Security & Governance","Associate Consultant",Resigned,31-Dec-2020,04-Feb-2019
+271501000006777474,270,Balaji,Sangeetham,balaji.sangeetham@techdemocracy.com,"Cyber Risk Security & Governance","Senior Consultant - Delivery",Resigned,14-Jul-2023,01-Feb-2019
+271501000006777464,100183,Priyanka,Sharma,priyanka.sharma@techdemocracy.com,"Cyber Risk Security & Governance","Trainee- Associate Consultant",Resigned,10-May-2019,29-Jan-2019
+271501000006777454,100182,"Kamal Kumar",Avva,kamal.avva@techdemocracy.com,"Cyber Risk Security & Governance","Trainee- Associate Consultant",Terminated,10-May-2019,28-Jan-2019
+271501000006777444,100181,Sreenivasulu,JADAPALLI,Sreenivasulu.jadapalli@techdemocracy.com,"Growth Practices","Senior Software Engineer",Resigned,26-Apr-2024,11-Jan-2019
+271501000006777434,274,"Teja Vardhan",Reddy,teja.vardhan@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,19-Aug-2020,07-Feb-2019
+271501000006777424,273,Srisailam,Pallapu,srisailam.pallapu@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,25-Jan-2021,06-Feb-2019
+271501000006777404,271,"Vinod Kumar",Reddy,vinod.reddy@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,27-Aug-2019,01-Feb-2019
+271501000006581053,100179,Madhu,Nagarajan,Madhu.Nagarajan@techdemocracy.com,"Cyber Risk Security & Governance","Senior Consultant - Technology",Resigned,18-Sep-2020,24-Dec-2018
+271501000006505361,100180,Asmitha,Bendre,asmitha.bendre@techdemocracy.com,"Growth Practices","Software Engineer",Resigned,11-Jul-2025,02-Jan-2019
+271501000006169230,269,"Sai Kumar M N",Peddireddy,sai.peddireddy@techdemocracy.com,TAG,"Technical Recruiter- US Staffing",Resigned,29-Apr-2022,10-Dec-2018
+271501000006103643,100178,Mamta,Midha,mamta.midha@techdemocracy.com,"Cyber Risk Security & Governance","Senior Manager - Delivery",Resigned,31-Mar-2021,03-Dec-2018
+271501000006100074,268,Ramprasad,Vaddepalli,ramprasad.vaddepalli@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,16-Nov-2021,03-Dec-2018
+271501000005885268,100034,Amit,Salunkhe,amit.salunkhe@techdemocracy.com,"Growth Practices","Senior Software Engineer",Resigned,17-Mar-2023,26-Jul-2010
+271501000005853105,267,Sudhakar,Sanipilli,sudhakar.sanipilli@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,04-Mar-2019,12-Nov-2018
+271501000005823091,100069,Sowjanya,Aligala,sowjanya.aligala@techdemocracy.com,"Growth Practices","Software Engineer",Resigned,31-Jan-2023,01-Jul-2012
+271501000005799315,266,Sudheer,Gopalakrishnan,Sudheer.Krishanan@techdemocracy.com,"Cyber Risk Security & Governance","Senior Consultant - Delivery",Resigned,17-Dec-2019,05-Nov-2018
+271501000005799277,265,Gayathri,Pacharla,gayathri.pacharla@techdemocracy.com,"Cyber Risk Security & Governance","Senior Security Consultant",Resigned,17-Apr-2024,09-Nov-2018
+271501000005799239,100176,Norman,Dass,norman.dass@techdemocracy.com,"Cyber Risk Security & Governance","Senior Manager - Technology",Resigned,31-May-2019,05-Nov-2018
+271501000005583079,100175,Pratik,Gupta,Pratik.Gupta@techdemocracy.com,"Cyber Risk Security & Governance","Senior Consultant - Delivery",Resigned,15-Apr-2022,08-Oct-2018
+271501000005583041,100174,"Suneel Kumar",Rawat,Suneel.Rawat@techdemocracy.com,"Cyber Risk Security & Governance","Senior Consultant - Delivery",Resigned,29-Jan-2021,08-Oct-2018
+271501000005567075,264,Ajeesha,Shaik,shaik.ajeesha@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,03-Jan-2019,01-Oct-2018
+271501000005515009,100173,Peter,King,peter.king@techdemocracy.com,"Cyber Risk Security & Governance","Senior Consultant - Technology",Resigned,21-Jan-2019,24-Sep-2018
+271501000005440199,100172,Ananth,Narayanan,ananth.narayanan@techdemocracy.com,"Cyber Risk Security & Governance","Senior Manager - Technology",Resigned,29-Mar-2019,12-Sep-2018
+271501000005432307,100171,Priyanka,Anne,priyanka.anne@techdemocracy.com,"Growth Practices","Associate Consultant",Resigned,31-Aug-2023,04-Sep-2018
+271501000005398241,100170,Ravi,Dave,ravi.dave@techdemocracy.com,"Cyber Risk Security & Governance","Manager - Delivery",Resigned,17-Jul-2020,04-Sep-2018
+271501000005270059,263,"Sandeep Kumar",Erukala,Sandeep.Erukala@techdemocracy.com,"Cyber Risk Security & Governance","Advisory Manager",Resigned,15-Dec-2023,17-Aug-2018
+271501000005270023,262,Sathish,Parlapelly,Sathish.Parlapelly@techdemocracy.com,TAG,"Technical Recruiter- US Staffing",Resigned,29-Apr-2019,13-Aug-2018
+271501000005157281,261,Sayooj,U,sayooj.uppanthodi@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,30-Jun-2023,01-Aug-2018
+271501000004991146,260,Indrasen,Poluri,indrasen.poluri@techdemocracy.com,"Cyber Risk Security & Governance","Senior Consultant - Delivery",Resigned,07-Nov-2018,16-Jul-2018
+271501000004648515,259,Ramadevi,Chinthada,ramadevi.chinthada@techdemocracy.com,TAG,"Team lead - Talent Acquisition Group",Resigned,04-Mar-2022,04-Jun-2018
+271501000004567009,258,Unnati,Singh,Unnati.Singh@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,07-Mar-2019,17-May-2018
+271501000004524001,100169,Sachin,Saxena,sachin.saxena@techdemocracy.com,"Cyber Risk Security & Governance","Senior Manager - Technology",Resigned,11-Sep-2019,14-May-2018
+271501000004447063,256,"Leela Sivarama Krishna",Ankireddy,siva.ankireddy@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,14-May-2020,07-May-2018
+271501000004447027,255,Swathi,Gurugundi,swathi.gurugundi@techdemocracy.com,"Cyber Risk Security & Governance","Senior Consultant - Technology",Terminated,10-Dec-2018,07-May-2018
+271501000004326231,253,"Lava Kumar",Boyapati,lava.boyapati@techdemocracy.com,TAG,,Resigned,10-Jan-2019,12-Apr-2018
+271501000004328065,TDC021,"Dikshit Reddy",Apala,dikshit.apala@techdemocracy.com,"Cyber Risk Security & Governance",Consultant,Resigned,,18-Apr-2018
+271501000004286267,TDC020,Mohammad,Yunus,Mohammad.Yunus@techdemocracy.com,"Cyber Risk Security & Governance",Consultant,Resigned,,26-Feb-2018
+271501000004286207,TDC019,"Akhil Vamsi",Pagidipala,AkhilVamsi.Pagidipala@techdemocracy.com,"Cyber Risk Security & Governance","Consultant Level 1",Resigned,,19-Mar-2018
+271501000004286173,TDC018,Manoj,Saireddy,manoj.saireddy@techdemocracy.com,"Cyber Risk Security & Governance",Consultant,Resigned,,26-Mar-2018
+271501000004279025,100168,"Barinder Pal",Singh,barinder.singh@techdemocracy.com,"Cyber Risk Security & Governance","Manager - Technology",Resigned,14-Jun-2019,09-Apr-2018
+271501000004242109,100166,Kiran,Jonnalagadda,kiran.jonnalagadda@techdemocracy.com,"Growth Practices","Technical System Architect",Resigned,30-Jan-2023,28-Mar-2018
+271501000004232045,252,"Venkata Ramana",Palusa,venkata.palusa@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,31-Oct-2019,02-Apr-2018
+271501000004232009,251,Bheemesh,Kotha,bheemesh.kotha@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,17-Sep-2021,02-Apr-2018
+271501000004220347,TDC017,Manish,Manglik,manish.manglik@techdemocracy.com,"Cyber Risk Security & Governance",Consultant,Resigned,,27-Nov-2017
+271501000004220313,TDC016,Rishal,Dhingan,rishal.dhingan@techdemocracy.com,"Cyber Risk Security & Governance",Consultant,Resigned,,20-Nov-2017
+271501000004220279,TDC015,Chaithanya.,Kotla,chaithanya.kotla@techdemocracy.com,"Cyber Risk Security & Governance",Consultant,Resigned,,08-Nov-2017
+271501000004220245,TDC014,"Pavan Kumar",Gudipati,pavan.gudipati@techdemocracy.com,"Growth Practices","Consultant Level 1",Resigned,,07-Nov-2017
+271501000004220211,TDC013,Eli,Houghton,Eli.Houghton@techdemocracy.com,"Growth Practices","Consultant Level 1",Resigned,,06-Dec-2017
+271501000004220177,TDC012,Himavanth,Ganta,Himavanth.Ganta@techdemocracy.com,"Growth Practices","Consultant Level 1",Resigned,,20-Nov-2017
+271501000004220143,TDC011,Chandrasekhara,Chanamolu,Chandrasekhara.Chanamolu@techdemocracy.com,"Cyber Risk Security & Governance","Consultant Level 1",Resigned,,30-Oct-2017
+271501000004220109,TDC010,Surendra,Kuttuboyina,surendra.kuttuboyina@techdemocracy.com,"Cyber Risk Security & Governance",Consultant,Resigned,,19-Oct-2017
+271501000004220075,TDC009,Geet,Sheth,Geet.Sheth@techdemocracy.co,"Growth Practices","Consultant Level 1",Resigned,,04-Oct-2017
+271501000004220043,TDC008,Harshavardhan,Devagiri,Harshavardhan.Devagiri@techdemocracy.com,"Cyber Risk Security & Governance","Consultant Level 1",Resigned,,25-Sep-2017
+271501000004220009,TDC007,Tarun,Goud,Tarun.Goud@techdemocracy.com,"Cyber Risk Security & Governance","Consultant Level 1",Resigned,,25-Sep-2017
+271501000004177001,100165,Jaymin,Unadkat,jaymin.unadkat@techdemocracy.com,"Cyber Risk Security & Governance","Lead Securty Consultant",Resigned,14-Jun-2024,26-Mar-2018
+271501000004160941,100163,"Ganesh Babu","Ondivillu Mothilal",ganesh.babu@techdemocracy.com,"Cyber Risk Security & Governance","Advisory Manager",Resigned,13-Dec-2024,26-Mar-2018
+271501000004149001,100164,"Madhuvaran Reddy",Kanmanthareddy,madhuvaran.kanmanthareddy@techdemocracy.com,"Cyber Risk Security & Governance","Manager - Technology",Resigned,18-Dec-2020,21-Mar-2018
+271501000003940077,100160,Nikhil,Makker,nikhil.makker@techdemocracy.com,"Cyber Risk Security & Governance","Manager - Technology",Resigned,28-May-2021,02-Feb-2018
+271501000003918017,250,Karthik,Kukkadapu,karthik.kukkadapu@techdemocracy.com,"Cyber Risk Security & Governance",,Terminated,16-Apr-2018,29-Jan-2018
+271501000003910139,100159,"Suresh kumar Eddlakadi",Yadu,suresh.yadu@techdemocracy.com,"Cyber Risk Security & Governance","Trainee- Associate Consultant",Resigned,31-May-2019,16-Nov-2017
+271501000003910105,100158,Rajesh,Avula,rajesh.avula@techdemocracy.com,"Cyber Risk Security & Governance","Trainee- Associate Consultant",Resigned,26-Jul-2019,16-Nov-2017
+271501000003910071,100157,"Manoj Kumar",Potlapalii,manoj.potlapalli@techdemocracy.com,"Cyber Risk Security & Governance","Associate Consultant",Resigned,30-Apr-2021,16-Nov-2017
+271501000003885021,249,Chandrakanth,Kongari,chandrakanth.kongari@techdemocracy.com,TAG,,Terminated,01-Mar-2018,22-Jan-2018
+271501000003793021,100156,"Anil Kumar",Chandolu,Anil.chandolu@techdemocracy.com,"Cyber Risk Security & Governance","Senior Consultant - Technology",Resigned,05-Jun-2020,29-Jan-2018
+271501000003732119,248,RajaShekar,Eega,RajaShekar.eega@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,10-Jan-2020,21-Dec-2017
+271501000003708141,TDC005,Riyas,Ahmed,Riyas.Ahmed@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,,13-Nov-2017
+271501000003649081,247,Saravanan,B,saravanan.b@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,07-May-2020,27-Nov-2017
+271501000003587001,100153,Bhumika,Hariramani,bhumika.hariramani@techdemocracy.com,"Cyber Risk Security & Governance","Consultant - Technology",Resigned,11-Sep-2018,30-Oct-2017
+271501000003563007,100155,Harpeeth,Singh,harpreeth.singh@techdemocracy.com,"Cyber Risk Security & Governance","Consultant - Technology",Resigned,14-Nov-2017,08-Nov-2017
+271501000003552023,100154,Anil,Maamillapalli,anil.maamillapalli@techdemocracy.com,"Cyber Risk Security & Governance","Senior Consultant - Technology",Resigned,04-Nov-2020,31-Oct-2017
+271501000003542001,246,Rajkumar,Kadiyam,rajkumar.kadiyam@techdemocracy.com,"System Admin","System Adminstrator",Resigned,20-Dec-2019,30-Oct-2017
+271501000003539001,100151,Prashanth,Kodurupati,prashanth.kodurupati@techdemocracy.com,"Cyber Risk Security & Governance","Associate Consultant",Resigned,31-May-2019,10-Oct-2017
+271501000003410623,245,Sushanth,Chandrashekar,sushanth.c@techdemocracy.com,HR,,Resigned,17-Nov-2017,03-Oct-2017
+271501000003299102,100080,Archana,Gupta,Archana.Gupta@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,19-Jun-2018,15-Apr-2013
+271501000003298416,100150,"Abhijeet  Vilas",Lokhande,abhijeet.lokhande@techdemocracy.com,"Cyber Risk Security & Governance","Manager - Delivery",Resigned,08-Jan-2018,11-Sep-2017
+271501000003212035,100149,Nandakumar,"Kollukkattuvalasu Vadivel",nandakumar.vadivel@techdemocracy.com,"Cyber Risk Security & Governance","Senior Manager - Delivery",Resigned,16-Oct-2017,28-Aug-2017
+271501000003165071,243,Chandrashekar,Sane,chandra@techdemocracy.com,TAG,,Terminated,01-Nov-2017,16-Aug-2017
+271501000003165051,244,Prudvi,Kanth,prudvi.kanth@techdemocracy.com,TAG,,Resigned,30-Nov-2017,16-Aug-2017
+271501000003117045,100148,Bobby,Breeze,bobby.breeze@techdemocracy.com,"Cyber Risk Security & Governance","Senior Consultant - Delivery",Resigned,06-Oct-2017,01-Aug-2017
+271501000003117027,242,Dixit,Vemuganti,dixit.vemuganti@techdemocracy.com,"Cyber Risk Security & Governance","Senior Consultant - Delivery",Terminated,23-Mar-2018,04-Aug-2017
+271501000003064249,100147,Naveen,Kumar,naveen.kumar@techdemocracy.com,"Cyber Risk Security & Governance","Senior Manager - Technology",Resigned,23-Feb-2018,26-Jul-2017
+271501000003064231,241,"Sravan kumar",Ujjina,sravan.ujjina@techdemocracy.com,TAG,,Resigned,28-Mar-2023,24-Jul-2017
+271501000003064213,240,"Sai Charan",Krishnagiri,saicharan.krishnagiri@techdemocracy.com,"Cyber Risk Security & Governance","Trainee Consultant",Resigned,16-Apr-2018,19-Jul-2017
+271501000003064195,239,Priya,Rudra,priya.rudra@techdemocracy.com,"Cyber Risk Security & Governance",,Terminated,30-Aug-2019,17-Jul-2017
+271501000003064141,236,Chandramouli,Bachchu,chandramouli.bachchu@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,31-Aug-2020,14-Sep-2017
+271501000003064123,235,Manasa,P,manasa.p@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,12-Oct-2021,14-Jul-2017
+271501000003064105,234,"Poorna Chander",Reddy,poorna.chander@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,30-Jun-2021,14-Jul-2017
+271501000003064087,233,"Sai Kiran",Gundu,saikiran.gundu@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,24-Nov-2021,14-Jul-2017
+271501000003064069,232,Manikanta,Veeramalla,manikanta.veeramalla@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,22-Nov-2019,14-Jul-2017
+271501000003064051,231,Harsha,Valeti,harsha.valeti@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,31-May-2019,14-Jul-2017
+271501000003064033,230,Harini,Kousika,kousika.harini@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,25-Oct-2019,14-Jul-2017
+271501000003064015,229,Madhumitha,Mittapally,madhumitha.mittapally@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,29-Oct-2021,14-Jul-2017
+271501000003058099,228,Jyoti,Sharma,jyoti.sharma@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,26-May-2021,14-Jul-2017
+271501000003050153,TDC004,Sarat,Chalamalasetty,sarat.chalamalasetty@techdemocracy.com,,,Resigned,,23-Jun-2017
+271501000003006001,100043,Subrahmanyam,Maddali,subrahmanyam.maddali@techdemocracy.com,"Growth Practices","Senior Software Engineer",Resigned,30-May-2023,09-Nov-2010
+271501000002979357,100005,"Satish Chandra",Malladi,satish.malladi@techdemocracy.com,"Growth Practices",,Resigned,31-May-2019,01-Aug-2005
+271501000002979337,100002,Govind,Madugula,govind.madugula@techdemocracy.com,"Growth Practices","Senior Software Engineer",Resigned,28-Feb-2021,01-Sep-2003
+271501000002979317,100014,Srikanth,Vishnuvajhala,srikanth.vishnuvajhala@techdemocracy.com,"Growth Practices",,Resigned,30-Apr-2021,01-Jul-2008
+271501000002979297,100075,Ramalingeshwar,Sirigade,Ramalingeshwar.Sirigade@techdemocracy.com,"Growth Practices","Software Engineer",Resigned,06-Jul-2018,06-Dec-2012
+271501000002979277,100133,Praveen,Munagapaty,Praveen.Munagapaty@TechDemocracy.com,"Growth Practices","Software Engineer",Resigned,13-Jul-2018,18-Jul-2016
+271501000002979257,100032,Bommudurai,Vairamuthu,Bommudurai.Vairamuthu@techdemocracy.com,"Growth Practices",,Resigned,17-Apr-2020,01-Jul-2010
+271501000002979217,100103,Sudheer,Tekkalakota,Sudheer.Tekkalakota@techdemocracy.com,"Growth Practices","Technical System Architect",Resigned,31-Dec-2021,23-Jul-2014
+271501000002979197,100094,Mandar,Bandwalkar,Mandar.Bandwalkar@techdemocracy.com,"Growth Practices","Technical System Architect",Resigned,24-May-2019,17-Oct-2013
+271501000002979177,100040,"Sriram Rama Moorthi",Iyer,Sriram.Iyer@techdemocracy.com,"Growth Practices",,Resigned,17-Nov-2017,20-Oct-2010
+271501000002979137,100019,Suresh,Sajlar,Suresh.Sajlar@techdemocracy.com,"Growth Practices","Senior Software Engineer",Resigned,31-May-2023,27-Apr-2009
+271501000002979097,100065,"Sridhar Reddy",Guda,sridhar.guda@techdemocracy.com,"Growth Practices","Software Engineer",Resigned,31-Dec-2019,20-Feb-2012
+271501000002979077,100054,Suhel,Siddiqui,Suhel.Siddiqui@techdemocracy.com,"Growth Practices",,Resigned,23-Jul-2021,06-Sep-2011
+271501000002980061,100136,Nagaraju,Konkimalla,Nagaraju.Konkimalla@techdemocracy.com,"Growth Practices","Senior Software Engineer",Resigned,21-Feb-2022,03-Oct-2016
+271501000002980041,100053,Devaraj,Rajagopalan,Devaraj.Rajagopalan@techdemocracy.com,"Growth Practices","Software Engineer",Resigned,02-Nov-2018,06-Sep-2011
+271501000002980021,100009,"Jahir Ahmad",Shaik,Jahir.Ahamad@techdemocracy.com,"Growth Practices","Senior Software Engineer",Resigned,23-Feb-2024,11-Feb-2008
+271501000002980001,100036,"Harish Kumar",Aitha,harishkumar.aitha@techdemocracy.com,"Growth Practices","Senior Software Engineer",Resigned,21-Jul-2023,24-Sep-2010
+271501000002974351,100051,"Madhu Sudhan Babu",Deva,madhu.deva@techdemocracy.com,"Growth Practices",,Resigned,16-Aug-2019,01-Aug-2011
+271501000002974311,100030,"Ashok Kumar",Dara,ashok.dara@techdemocracy.com,"Growth Practices",,Resigned,29-Sep-2017,20-Apr-2011
+271501000002974291,100057,"Suresh Kumar Reddy",Nandyala,SureshKumar.Nandyala@TechDemocracy.com,"Growth Practices","Senior Software Engineer",Resigned,31-Jan-2023,09-Sep-2011
+271501000002974271,100077,"Raja Sekhar Reddy",Obili,Raja.Obili@techdemocracy.com,"Growth Practices","Software Engineer",Resigned,25-Feb-2022,13-Feb-2013
+271501000002974251,100064,Soujanya,Polisetty,soujanya.polisetty@techdemocracy.com,"Growth Practices","Senior Software Engineer",Resigned,31-Dec-2022,19-Dec-2011
+271501000002974231,100022,Hiren,Vithalani,hiren.vithalani@techdemocracy.com,"Growth Practices",,Resigned,05-Oct-2021,01-Oct-2009
+271501000002974211,100018,Sandeep,Kancharla,sandeep.kancharla@techdemocracy.com,"Growth Practices","Senior Software Engineer",Resigned,,30-Oct-2008
+271501000002974171,100078,Karthikeyan,Gopaluni,Karthikeyan.Gopaluni@techdemocracy.com,"Growth Practices",,Resigned,22-Sep-2017,04-Mar-2013
+271501000002974041,100027,Ashok,Sundararajan,Ashok.Sundararajan@techdemocracy.com,"Growth Practices",,Resigned,25-Mar-2022,15-Mar-2010
+271501000002965313,100026,"Venkata Krishna Reddy",Kakumani,Venkata.Kakuma@techdemocracy.com,"Growth Practices","Senior Software Engineer",Resigned,10-Apr-2022,21-Dec-2009
+271501000002965293,100010,"Krishna Ramachandra Raju",Kalidindi,Krishna.Raju@techdemocracy.com,"Growth Practices",,Resigned,29-Jan-2021,11-Feb-2008
+271501000002965273,100081,Priya,Srinivasan,Priya.Srinivasan@techdemocracy.com,"Growth Practices","Software Engineer",Resigned,02-Aug-2017,01-May-2013
+271501000002959355,100037,"Krishna Sumanth",Kakarala,sumanth.kakarala@techdemocracy.com,"Growth Practices",,Resigned,13-Aug-2021,28-Sep-2010
+271501000002959279,100028,Palanisamy,Ramamoorthy,palanisamy.ramamoorthy@techdemocracy.com,"Growth Practices","Senior Software Engineer",Resigned,09-Dec-2022,29-Mar-2010
+271501000002959259,100025,Sharath,Rapolu,Sharath.Rapolu@techdemocracy.com,"Growth Practices","Senior Software Engineer",Resigned,31-Dec-2021,01-Dec-2009
+271501000002959239,100092,Anitha,Kallanagoudar,anitha.kallanagoudar@techdemocracy.com,"Growth Practices","Software Engineer",Resigned,07-Aug-2021,11-Sep-2013
+271501000002959107,100050,"Santosh Kumar",Kodumuri,Santosh.Kodumuri@techdemocracy.com,"Growth Practices","Software Engineer",Resigned,31-Aug-2017,15-Jul-2011
+271501000002959073,100008,Mazaharulla,Mohammed,Mazaharulla.Mohammed@techdemocracy.com,"Growth Practices","Senior Software Engineer",Resigned,01-Jan-2022,01-Sep-2007
+271501000002943465,100055,Rajendra,Dubagunta,Rajendra.Dubagunta@techdemocracy.com,"Growth Practices","Software Engineer",Resigned,30-Dec-2019,08-Sep-2011
+271501000002915045,100098,"Anvesh Raju",Mudunuri,anvesh.mudunuri@techdemocracy.com,,"Senior Consultant - Delivery",Resigned,12-Feb-2018,10-Mar-2014
+271501000002915025,100090,"Vishwanatha Reddy",Gaddam,Vishwanatha.Gaddam@techdemocracy.com,,"Senior Consultant - Delivery",Resigned,28-Jun-2019,12-Aug-2013
+271501000002887011,100146,Shawn,Bowman,shawn.bowman@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,29-Jun-2018,26-Jun-2017
+271501000002795081,226,Rakshith,Gundety,rakshith.gundety@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,14-Sep-2022,05-Jun-2017
+271501000002750131,100144,Yang,LIU,Yang.Liu@techdemocracy.com,,,Resigned,23-Feb-2018,28-Mar-2017
+271501000002750103,100145,Tuhin,Banerjee,tuhin.banerjee@techdemocracy.com,"Cyber Risk Security & Governance","Senior Manager - Technology",Resigned,13-Sep-2019,01-Jun-2017
+271501000002661185,225,"Siddhesh Sanjay",Nagaonkar,siddhesh.nagaonkar@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,20-Jul-2017,15-May-2017
+271501000002558187,223,Balaji,Vuppalapati,balaji.vuppalapati@techdemocracy.com,TAG,,Resigned,21-Nov-2017,02-May-2017
+271501000002555007,TDC003,Akilan,Rajendran,Akilan.Rajendran@techdemocracy.com,"Cyber Risk Security & Governance",Consultant,Resigned,,02-Dec-2014
+271501000002488317,100143,"Siva Charan",Bangi,sivacharan.bangi@techdemocracy.com,"Cyber Risk Security & Governance","Senior Consultant - Delivery",Resigned,18-May-2018,17-Apr-2017
+271501000002460181,TDC002,"Vishnu Vardhan",Singreddy,vishnuvardhan.singreddy@target.com,"Cyber Risk Security & Governance",Consultant,Resigned,,27-Feb-2017
+271501000002459164,222,Sirajuddin,Syed,syed@techdemocracy.com,TAG,,Terminated,,11-Apr-2017
+271501000002459142,221,"Lakshmi Satya Sai Kumar",Gangula,sai.kumar@techdemocracy.com,TAG,"Director – Talent Acquisition Group",Resigned,18-Jul-2023,11-Apr-2017
+271501000002437011,220,Chandrika,Chirumamilla,Chandrika.Chirumamilla@techdemocracy.com,"Cyber Risk Security & Governance","Consultant - Delivery Level 1",Resigned,24-Dec-2021,03-Apr-2017
+271501000002392001,T00001,Test,User,test321@techdemocracy.com,"System Admin","Senior Consultant - Technology",Resigned,,01-Jan-2020
+271501000002316025,100142,Bobby,Singh,Bobby.Singh@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,13-Nov-2020,01-Mar-2017
+271501000002316001,100140,Amit,Vishwakarma,amit.vishwakarma@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,19-Feb-2021,03-Jan-2017
+271501000002283192,100015,Vijayashree,Rao,vijaya.rao@techdemocracy.com,HR,,Resigned,20-Sep-2024,16-Jun-2008
+271501000002141001,219,"Manikanta Prasad",Boinapally,manikanta.boinapally@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,16-Nov-2018,15-Feb-2017
+271501000002104103,218,Sunil,Panyam,sunil.panyam@techdemocracy.com,,"Manager - Delivery",Terminated,25-Apr-2017,07-Feb-2017
+271501000002104095,217,"Sadab Mohammed",Akram,sadab.akram@techdemocracy.com,,,Resigned,03-Nov-2017,03-Feb-2017
+271501000002034293,254,Gopal,Saripella,gopal.saripella@techdemocracy.com,Finance,"Associate Manager - Finance",Resigned,31-Oct-2019,23-Apr-2018
+271501000001981081,TDC001,Hanuman,Thota,hanuman.thota@techdemocracy.com,"Cyber Risk Security & Governance",Consultant,Resigned,,01-Nov-2016
+271501000001976009,215,"Nutan Prasad",Sanapala,sanapala.prasad@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,12-Oct-2017,02-Jan-2017
+271501000001960193,100138,"Kenneth M",Pfeil,kenneth.pfeil@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,05-Mar-2021,01-Nov-2016
+271501000001960121,100135,Anup,Pandey,anup.panday@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,07-Jun-2017,12-Sep-2016
+271501000001960085,100125,Vinay,Vasanth,vinay.vasanth@techdemocracy.com,"Cyber Risk Security & Governance","Consultant - Technology",Resigned,10-Sep-2017,05-Jan-2016
+271501000001960053,100117,Jithendra,Marrapu,jithendra.marrapu@techdemocracy.com,"Cyber Risk Security & Governance","Manager - Technology",Resigned,20-Aug-2019,15-Jun-2015
+271501000001960023,100116,"Sandeep Kumar",Suggam,sandeepkumar.suggam@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,30-Jun-2017,27-Apr-2015
+271501000001960003,100112,"Vasavi Kumar Reddy",Kurukunda,vasavikumarreddy.kurukunda@techdemocracy.com,"Cyber Risk Security & Governance","Manager - Technology",Resigned,14-Oct-2019,17-Oct-2012
+271501000001959923,1001001,"Siva Rama Krishna Reddy",Muchintala,siva.muchintala@techdemocracy.com,"Cyber Risk Security & Governance","Senior Consultant - Delivery",Resigned,21-Mar-2019,27-May-2014
+271501000001959903,100100,Sidharath,Pankaj,sidharath.pankaj@techdemocracy.com,"Cyber Risk Security & Governance","Manager - Technology",Resigned,17-Feb-2017,17-Mar-2014
+271501000001959883,100097,Pankaj,Jaiswal,pankaj.jaiswal@techdemocracy.com,"Cyber Risk Security & Governance","Senior Consultant - Technology",Resigned,20-Sep-2020,04-Mar-2014
+271501000001959863,100089,Jaydeep,Thakkar,jaydeep.thakkar@techdemocracy.com,"Cyber Risk Security & Governance","Manager - Delivery",Resigned,18-May-2018,12-Aug-2013
+271501000001959843,100088,"Yuva Praveen",Kammula,yuvapraveen.kammula@techdemocracy.com,"Cyber Risk Security & Governance","Senior Consultant - Delivery",Resigned,30-Jun-2017,11-Jul-2013
+271501000001959823,100087,Nagaraju,Gorrepati,nagaraj.gorrepati@techdemocracy.com,"Cyber Risk Security & Governance","Senior Consultant - Delivery",Resigned,31-Jan-2018,08-Jul-2013
+271501000001959775,100079,Chinni,Ravitheja,chinni.ravitheja@techdemocracy.com,"Cyber Risk Security & Governance","Manager - Technology",Resigned,16-Mar-2017,05-Apr-2013
+271501000001959755,100076,"Anand Rao",Kondapally,anand.kondapally@techdemocracy.com,"Cyber Risk Security & Governance","Senior Consultant - Delivery",Resigned,01-Oct-2019,02-Jan-2013
+271501000001959735,100073,Naveen,Guddati,naveen.guddati@techdemocracy.com,"Cyber Risk Security & Governance","Manager - Technology",Resigned,14-Dec-2017,17-Oct-2012
+271501000001959715,100072,"Mahendra Singh",Doodi,mahendrasingh.doodi@techdemocracy.com,"Cyber Risk Security & Governance","Senior Manager - Technology",Resigned,11-Jul-2025,27-Sep-2012
+271501000001959695,100071,"Goutham V",Alluri,goutham.alluri@techdemocracy.com,"Cyber Risk Security & Governance","Manager - Technology",Resigned,10-Oct-2022,20-Aug-2012
+271501000001959675,100070,Aravind,Annamaneni,aravind.annamaneni@techdemocracy.com,"Cyber Risk Security & Governance","Senior Consultant - Technology",Resigned,11-Aug-2017,16-Aug-2012
+271501000001959657,100068,"Venkat Kumar Varma",Nadimpalli,venkat.varma@techdemocracy.com,"Cyber Risk Security & Governance","Senior Manager - Technology",Resigned,27-Mar-2018,08-Jun-2012
+271501000001959637,100066,"Srinivasa Bhargava Reddy",Meka,srinivasa.meka@techdemocracy.com,"Cyber Risk Security & Governance","Manager - Technology",Resigned,17-Jan-2020,01-Mar-2012
+271501000001959499,100059,"Raja Joseph",Ambati,rajajoseph.ambati@techdemocracy.com,"Cyber Risk Security & Governance","Manager - Technology",Resigned,03-Jan-2020,03-Oct-2011
+271501000001959479,100049,Lalitha,Jadapalli,lalitha.jadapalli@techdemocracy.com,"Growth Practices","Senior Manager - Delivery",Resigned,31-May-2024,05-Jul-2011
+271501000001959445,100047,Subhash,Saripella,subhash.saripella@techdemocracy.com,"Cyber Risk Security & Governance","Senior Consultant - Technology",Resigned,18-Sep-2017,28-Mar-2011
+271501000001959405,100045,"Ashok Kumar",Bashamulla,ashok.bashamulla@techdemocracy.com,"Cyber Risk Security & Governance","Manager - Technology",Resigned,09-Apr-2018,22-Dec-2010
+271501000001959385,100041,"Ramalingeswara Kashyap",Pallapothu,kashyap.ram@techdemocracy.com,"Cyber Risk Security & Governance","Manager - Technology",Resigned,11-Aug-2017,01-Nov-2010
+271501000001959351,100038,"Veerendra Kumar",Yedlapalli,veerendrakumar.yedlapalli@techdemocracy.com,"Cyber Risk Security & Governance","Manager - Technology",Resigned,07-Mar-2017,01-Oct-2010
+271501000001959323,100035,"Rajesh Kumar","Eddlakadi Yadu",rajesh.yadu@techdemocracy.com,"Cyber Risk Security & Governance","Manager - Technology",Resigned,24-Jan-2020,08-Sep-2010
+271501000001959303,100029,"Srinivas Reddy",Antham,srinivas.antham@techdemocracy.com,"Cyber Risk Security & Governance","Senior Manager - Technology",Resigned,30-Nov-2022,12-Apr-2010
+271501000001959267,100024,"Parameshwar Goud",Rachamalla,parameshwar.rachamalla@techdemocracy.com,"Cyber Risk Security & Governance","Senior Manager - Technology",Resigned,10-Mar-2017,01-Oct-2009
+271501000001959247,100020,Akshay,Dhanuka,akshay.dhanuka@techdemocracy.com,"Cyber Risk Security & Governance","Senior Manager - Technology",Resigned,01-Jun-2018,01-May-2009
+271501000001959227,100016,Karthik,Alluri,karthik.alluri@techdemocracy.com,"Cyber Risk Security & Governance","Senior Advisory Manager",Resigned,29-Mar-2024,01-Oct-2008
+271501000001959207,100007,Madhukar,Malladi,madhukar.malladi@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,14-Mar-2017,26-Jun-2007
+271501000001778043,100134,Gautam,Dev,dev@techdemocracy.com,"Cyber Risk Security & Governance","Manager - Technology",Resigned,19-Oct-2018,11-Aug-2016
+271501000001693013,224,"Varaprasad Rao",Balina,Varaprasadrao.balina@techdemocracy.com,"Cyber Risk Security & Governance","Advisory Manager - QA",Resigned,17-Apr-2024,02-May-2017
+271501000001658104,212,Sathyajeeth,Prasad,Sathyajeeth.prasad@techdemocracy.com,"Cyber Risk Security & Governance","Advisory Manager - BI",Resigned,04-Nov-2024,04-Aug-2016
+271501000001611127,211,Rupankitha,Dolakala,rupankitha.dolakala@techdemocracy.com,TAG,,Resigned,10-May-2017,18-Jul-2016
+271501000001558001,210,Prasad,KSVN,prasad.kota@techdemocracy.com,,,Terminated,03-Feb-2017,27-Jun-2016
+271501000001537013,207,Mounika,Kasam,mounika.kasam@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,25-Mar-2022,13-Jun-2016
+271501000001537007,208,Manasa,Thadisetti,manasa.thadisetti@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,10-Dec-2021,13-Jun-2016
+271501000001537001,206,"Sayali Vilas",Borole,sayali.borole@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,13-Apr-2018,13-Jun-2016
+271501000001522001,205,Shashinath,Munnangi,shashinath.munnangi@techdemocracy.com,TAG,,Resigned,12-May-2017,01-Jun-2016
+271501000001486013,200,"Pooja Teja",Vundinti,poojateja.vundinti@techdemocracy.com,"Cyber Risk Security & Governance","Senior Consultant - QA",Resigned,07-Sep-2023,20-Jan-2016
+271501000001466025,204,"Subba Raghava Raju",Guntumadugu,raghava.guntu@techdemocracy.com,Finance,,Resigned,30-Jun-2021,16-May-2016
+271501000001369157,202,"Gouri Shankar",Bandham,gourishankar.bandham@techdemocracy.com,,,Resigned,07-Jun-2016,06-Apr-2016
+271501000001231001,201,Anand,Subramanyam,anand.subramanyam@techdemocracy.com,TAG,,Resigned,19-Oct-2016,25-Jan-2016
+271501000001218001,199,Rajababu,Gottumukkala,Rajababu.Gottumukkala@techdemocracy.com,,,Resigned,17-Oct-2016,18-Jan-2016
+271501000001137173,203,Varun,Nuthakki,Varun.Nuthakki@techdemocracy.com,,,Terminated,01-Jun-2016,
+271501000001137001,198,Srinivas,Chilamanthula,srinivas.chilamanthula@techdemocracy.com,,"Consultant - Technology",Terminated,16-Jun-2017,30-Nov-2015
+271501000001095286,197,Gopinadh,Madhiraju,Gopinadh.Madhiraju@cotelligent.com,BD,"Sales Executive",Resigned,04-Dec-2019,01-Oct-2015
+271501000001095282,196,"Mohammed Asif",Sohail,Mohammed.sohail@techdemocracy.com,TAG,,Terminated,04-Dec-2015,
+271501000000982084,195,"Naga Venkata Siva Prasad",Gubbala,siva.prasad@Techdemocracy.com,BD,,Resigned,14-Nov-2016,01-Sep-2015
+271501000000982080,193,"Suresh Kumar",Tandle,Suresh.Tandle@techdemocracy.com,BD,,Resigned,21-Dec-2018,31-Aug-2015
+271501000000900102,192,Lakshman,Goli,Lakshman.Goli@techdemocracy.com,TAG,,Resigned,30-Sep-2016,03-Aug-2015
+271501000000900098,191,"Durga Prasad",Akula,DurgaPrasad.Akula@techdemocracy.com,,,Resigned,31-Aug-2022,03-Aug-2015
+271501000000891003,100048,Pankaj,Sharma,pankaj.sharma@techdemocracy.com,"Cyber Risk Security & Governance","Manager - Technology",Resigned,28-Jul-2017,02-Jun-2011
+271501000000878083,190,Sunil,Munagala,sunil.munagala@techdemocracy.com,TAG,,Terminated,15-Feb-2017,21-Jul-2015
+271501000000878079,189,"Madhu Sudhan",Muktipati,Madhusudhan.Mukthipati@techdemocracy.com,,,Resigned,11-Nov-2016,06-Jul-2015
+271501000000847005,188,Prema,Basetti,prema.basetti@Techdemocracy.com,BD,,Resigned,31-Aug-2015,06-Jul-2015
+271501000000839001,187,Rahul,Singh,rahul.singh@techdemocracy.com,"System Admin","System Adminstrator",Resigned,23-May-2017,01-Jul-2015
+271501000000794029,U00059,Chandra,Tondepu,Chandra.Tondepu@techdemocracy.com,,,Resigned,,
+271501000000766192,185,Krishna,Kattakindi,krishna.kattakindi@techdemocracy.com,,,Resigned,13-Mar-2017,01-Jun-2015
+271501000000718007,028,"Veera Venkat Satyanaraya",Pappu,satya.pappu@techdemocracy.com,,,Resigned,31-Jul-2017,13-Apr-2004
+271501000000688084,U00055,Jitendra,"Maheshwari K",Jitendra.Maheshwari@techdemocracy.com,,,Resigned,07-Oct-2016,22-Sep-2014
+271501000000688070,100101,"Siva Rama Krishna Reddy",Muchinthala,siva.muchinthala@techdemocracy.com,"Cyber Risk Security & Governance","Senior Consultant - Delivery",Resigned,21-Mar-2019,27-May-2014
+271501000000688056,U00053,Jeanne,Belin,Jeanne.Belin@techdemocracy.com,,"Project Manager",Resigned,10-Feb-2017,
+271501000000664147,182,Bhaskar,Kancherla,Bhaskar.Kancherla@techdemocracy.com,,,Resigned,15-Jul-2016,27-Apr-2015
+271501000000660019,180,Srinivasu,Kakarlamudi,Srinivasu.Kakarlamudi@techdemocracy.com,BD,,Resigned,14-May-2021,14-Apr-2015
+271501000000648109,181,Manibabu,Karanam,manibabu.karanam@techdemocracy.com,,,Resigned,31-Aug-2017,15-Apr-2015
+271501000000638026,173,Vinay,Tummalapalli,vinay.tummalapalli@techdemocracy.com,HR,,Terminated,07-Oct-2016,23-Feb-2015
+271501000000630108,179,Ravinder,Aalla,Ravinder.Aalla@techdemocracy.com,,,Resigned,14-Oct-2016,06-Apr-2015
+271501000000628062,178,GopalaKrishna,Avirineni,GopalaKrishna.avirineni@techdemocracy.com,,"Senior Consultant - Delivery",Resigned,31-Jul-2017,06-Apr-2015
+271501000000628058,177,Kanchan,Tripathi,kanchan.tripathi@techdemocracy.com,BD,,Resigned,29-May-2015,06-Apr-2015
+271501000000625040,176,"Mohan Murari",Sahoo,Mohan.Murari@TechDemocracy.com,,,Resigned,31-Aug-2015,16-Mar-2015
+271501000000597080,175,Ria,Chatterjee,ria.chatterjee@techdemocracy.com,BD,,Terminated,01-Apr-2015,16-Mar-2015
+271501000000597076,174,"Ramachandra Murthy",Bijumalla,Ramachandra.Bijumalla@techdemocracy.com,Finance,,Resigned,30-Nov-2016,02-Mar-2015
+271501000000565063,007PN,Praveen,Nori,Praveen.Nori@techdemocracy.com,,,Resigned,,
+271501000000565057,006AM,Amit,Bansal,Amit.Bansal@techdemocracy.com,,,Resigned,,
+271501000000565049,005MN,Maryellen,Noad,Maryellen.Noad@techdemocracy.com,,,Resigned,,
+271501000000496073,100167,"Amit Kumar",Rawat,AmitKumar.Rawat@techdemocracy.com,"Cyber Risk Security & Governance","Senior Manager - Technology",Resigned,27-Aug-2021,04-Apr-2018
+271501000000492088,100060,Vipin,Pingle,Vipin.Pingle@techdemocracy.com,"Cyber Risk Security & Governance","Senior Consultant - Delivery",Resigned,08-Nov-2017,14-Oct-2011
+271501000000492084,100110,Abhay,Mishra,abhay.mishra@techdemocracy.com,"Cyber Risk Security & Governance","Senior Advisory Manager",Resigned,12-Jan-2024,19-Jan-2015
+271501000000492080,100082,Ashok,Mahajan,Ashok.Mahajan@techdemocracy.com,"Cyber Risk Security & Governance","Senior Manager - Technology",Resigned,28-Feb-2017,06-May-2013
+271501000000453031,171,Pavani,Madishetty,pavani.madishetty@techdemocracy.com,HR,,Terminated,07-Oct-2016,05-Jan-2015
+271501000000447034,US173,Anant,Kadiyala,anant.kadiyala@techdemocracy.com,,,Terminated,,
+271501000000383005,170,Pankaj,Waghmare,pankaj.waghmare@techdemocracy.com,,,Resigned,10-Nov-2015,01-Dec-2014
+271501000000373017,158,Santosh,Rao,santosh@techdemocracy.com,,,Resigned,30-Sep-2015,07-Jul-2014
+271501000000360001,169,Fernald,Vardhanapu,fernald.vardhan@techdemocracy.com,BD,,Resigned,30-Apr-2017,12-Nov-2014
+271501000000358017,073,Sreenivasulu,Madala,sreenivas.madala@techdemocracy.com,TAG,,Resigned,15-Apr-2015,
+271501000000340042,168,Sheeli,David,sheeli.david@techdemocracy.com,Operations,,Resigned,31-Jul-2019,10-Nov-2014
+271501000000317009,167,Ashik,Aiyanna,ashik.aiyanna@techdemocracy.com,BD,,Resigned,30-Jun-2016,03-Nov-2014
+271501000000317005,166,Deepak,Satyanarayana,deepak.satyanarayana@techdemocracy.com,BD,,Resigned,18-Mar-2016,03-Nov-2014
+271501000000317001,165,"Fredrick Arun",Francis,fredrick.francis@techdemocracy.com,BD,,Resigned,06-Nov-2019,03-Nov-2014
+271501000000297070,164,Swetha,Kandra,swetha.kandra@techdemocracy.com,,,Resigned,29-Feb-2016,15-Oct-2014
+271501000000293046,150,Pooja,Kumari,pooja.kumari@techdemocracy.com,,,Resigned,24-Mar-2017,01-Oct-2014
+271501000000284041,157,Tejaswi,Chebolu,tejaswi.chebolu@techdemocracy.com,,,Resigned,24-Mar-2017,01-Oct-2014
+271501000000284037,154,Sai,Srungaram,sai.srungaram@techdemocracy.com,,,Resigned,09-Jun-2016,01-Oct-2014
+271501000000284033,153,Vishwanath,Kalluri,vishwanath.kalluri@techdemocracy.com,BI,,Resigned,25-Jan-2021,01-Oct-2014
+271501000000284029,152,"Chandra Babu",Kommi,chandrababu.kommi@techdemocracy.com,BI,,Resigned,04-Mar-2016,01-Oct-2014
+271501000000284025,151,"Saketh Babu",Goundagouni,saketh.goundagouni@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,14-Jul-2017,01-Oct-2014
+271501000000284017,149,"Ashok Kumar",Paritala,Ashok.paritala@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,03-Jul-2017,01-Oct-2014
+271501000000284013,148,"Divya Wani",Paritala,divya.paritala@techdemocracy.com,,,Resigned,09-Nov-2016,01-Oct-2014
+271501000000274005,155,Kavya,Datla,Kavya.Datla@techdemocracy.com,,,Resigned,29-Jul-2016,01-Oct-2014
+271501000000268001,163,"Swarna Kiran",Vadlamuru,swarna.vadlamuru@techdemocracy.com,,"Software Engineer",Resigned,04-Nov-2014,08-Oct-2014
+271501000000217001,161,Kala,Murthy,kala.murthy@techdemocracy.com,BD,,Resigned,30-Jan-2017,15-Sep-2014
+271501000000141608,160,Chetan,Vithlani,chetan.vithlani@techdemocracy.com,,,Resigned,31-Aug-2015,11-Aug-2014
+271501000000137057,U004,Harish,Jangada,Harish.Jangada@techdemocracy.com,,,Resigned,,
+271501000000112157,TDC006,Srinivas,Kasula,Srinivas.Kasula@Techdemocracy.com,"Growth Practices","Lead Practice Architect",Resigned,,01-Feb-2018
+271501000000079610,159,Jyoti,Pandey,jyoti.pandey@techdemocracy.com,HR,,Terminated,07-Oct-2016,10-Jul-2014
+271501000000076267,117,Syed,Sirajuddin,Syed.Sirajuddin@techdemocracy.com,TAG,,Resigned,06-May-2015,15-Jul-2013
+271501000000076122,098,"Geethika Navya",Goli,Geethika.NavyaGoli@techdemocracy.com,,"Software Engineer",Resigned,11-Aug-2014,12-Sep-2012
+271501000000076015,U001,Ankur,Vora,Ankur.Vora@techdemocracy.com,BI,"Managing Partner",Resigned,,08-Jul-2014
+271501000000062213,112,Prashant,Mullay,Prashant.Mullay@TechDemocracy.com,,,Resigned,28-Aug-2014,17-Jun-2013
+271501000000062203,100114,Chaitanya,Varma,chaitanya.varma@techdemocracy.com,,,Resigned,08-Nov-2019,13-Apr-2015
+271501000000055528,146,"Siva Prasad",Paliviri ,SivaPrasad.Paliviri@techdemocracy.com,Finance,,Resigned,05-Feb-2015,09-Jun-2014
+271501000000055500,100124,Ketan,Solanki,Ketan.Solanki@techdemocracy.com,"Cyber Risk Security & Governance","Manager - Technology",Resigned,12-Apr-2017,15-Jun-2015
+271501000000055472,142,Rakesh,Kumar,RakeshKumar.Surapaneni@TechDemocracy.com,,,Resigned,30-Jan-2015,01-Apr-2014
+271501000000055458,141,Vinod,Pillai,Vinod.Pillai@techdemocracy.com,"System Admin",,Terminated,22-Jan-2015,22-May-2014
+271501000000055444,140,Ujjwal,Ratan,Ujjwal.Ratan@techdemocracy.com,,,Resigned,29-May-2015,21-May-2014
+271501000000055416,135,Rajesh,Sikchi,Rajesh.Sikchi@TechDemocracy.com,,,Resigned,27-Feb-2015,10-Mar-2014
+271501000000055392,132,Animesh,Anand,Animesh.Anand@techdemocracy.com,,,Resigned,21-Nov-2014,05-Feb-2014
+271501000000055382,131,Dev,Raj,Devraj.Singh@techdemocracy.com,,,Resigned,30-Jan-2015,04-Feb-2014
+271501000000055368,100106,"Venkat Kaushik",Nunna,Kaushik.Nunna@techdemocracy.com,"Cyber Risk Security & Governance","Senior Consultant - Delivery",Resigned,07-Dec-2018,02-Oct-2014
+271501000000055358,127,"Sachin Kumar",Singh,Sachin.Singh@techdemocracy.com,,"Project Manager",Resigned,31-Oct-2016,25-Nov-2013
+271501000000055344,126,Suprith,Lokhande,Suprith.Lokhande@techdemocracy.com,BD,,Resigned,10-Oct-2014,14-Nov-2013
+271501000000055330,125,Habibullah,Mohammad,habib@techdemocracy.com,TAG,,Resigned,30-Nov-2015,06-Nov-2013
+271501000000055320,100132,"Rama Krishna",Salapati,ramakrishna.salapati@techdemocracy.com,"Growth Practices","Senior Software Engineer",Resigned,11-Nov-2022,25-Oct-2013
+271501000000055306,123,Debashis,Das,Debashis.Das@techdemocracy.com,,,Resigned,30-Jul-2014,01-Oct-2013
+271501000000055296,122,Swathi,Arugunta,Swathi.Arugunta@techdemocracy.com,Finance,,Resigned,12-Mar-2019,26-Aug-2013
+271501000000055282,121,"P C Sekhar Reddy",Tadi,Sekhar.Reddy@techdemocracy.com,,,Resigned,03-Apr-2015,09-Aug-2013
+271501000000055268,120,Aravind,Suresh,Aravind.Suresh@techdemocracy.com,"Cyber Risk Security & Governance","Manager - Delivery Level 2",Resigned,30-Apr-2021,29-Jul-2013
+271501000000055258,119,Esesve,Ramasubramanya,esesve.digumarthi@techdemocracy.com,BD,,Resigned,31-Aug-2015,18-Jul-2013
+271501000000055220,100111,Anil,Bansal,anil.bansal@techdemocracy.com,"Cyber Risk Security & Governance","Manager - Delivery",Resigned,23-Feb-2018,02-Feb-2015
+271501000000055200,100107,Arun,Meriyala,Arun.Meriyala@techdemocracy.com,"Cyber Risk Security & Governance","Senior Consultant - Delivery",Resigned,22-Sep-2017,29-Oct-2014
+271501000000055176,110,"Pavan Kumar",Chilukuri,Pavankumar.Chilukuri@techdemocracy.com,BI,,Resigned,18-Jul-2014,22-Apr-2013
+271501000000055162,109,"Ravindra Moorthy",Neriyanuri,Ravindra.Neriyanuri@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,31-May-2021,08-Apr-2013
+271501000000055134,106,Abhishek,Dhiman,Abhishek.Dhiman@techdemocracy.com,,,Resigned,21-Jul-2014,21-Mar-2013
+271501000000055120,102,"Veera Lakshmi","Sravanthi Kancharla",Sravanthi.Kancharla@techdemocracy.com,,"Software Engineer",Resigned,06-May-2016,12-Sep-2012
+271501000000055110,101,"Sai Srujanee",Pagadala,Srujanee.Pagadala@techdemocracy.com,"Cyber Risk Security & Governance","Manager - Technology",Resigned,31-Jan-2023,12-Sep-2012
+271501000000055080,095,"Sunil Kumar",Dani,Sunil.Dani@techdemocracy.com,,"Software Engineer",Resigned,30-Dec-2016,12-Sep-2012
+271501000000055070,094,Swati,Dora,Swati.Dora@techdemocracy.com,"Cyber Risk Security & Governance",,Resigned,24-Mar-2017,12-Sep-2012
+271501000000055060,093,"Ahmed Abdul",Mannan,Abdul.Mannan@techdemocracy.com,BD,,Resigned,30-Jun-2015,30-Jul-2012
+271501000000055046,090,Abraham,Niranjan,Niranjan.Abraham@techdemocracy.com,,,Resigned,08-Apr-2015,02-May-2012
+271501000000055036,087,"Sandeep Kumar",Reddy,Sandeep.Reddy@TechDemocracy.com,"System Admin","System Adminstrator",Resigned,07-Apr-2015,02-Apr-2012
+271501000000055026,082,"Rama Krishna",Kurra,Ram.Kurra@techdemocracy.com,,,Resigned,31-Mar-2015,19-Jan-2012
+271501000000054988,072,Solomon,"Sudhakar P",solomon.sudhakar@techdemocracy.com,BD,,Resigned,30-Sep-2014,17-Oct-2011
+271501000000054974,066,"Sankara Rao",Danda,sankara.danda@techdemocracy.com,,"Software Engineer",Resigned,13-Mar-2015,08-Aug-2011
+271501000000054964,227,Ashish,Durgapal,ashish.durgapal@techdemocracy.com,HR,,Resigned,07-Jun-2018,15-Jun-2017
+271501000000054940,051,"Praveen Kumar",Dendukuri,praveen.kumar@techdemocracy.com,,,Resigned,27-Mar-2015,14-Feb-2011
+271501000000054930,100123,"Siva Sankar",Lankapalli,sivasankar.lankapalli@techdemocracy.com,,,Resigned,17-Nov-2019,12-Dec-2015
+271501000000054920,040,"Feroz Ahamed",Shaik,feroz.ahamed@techdemocracy.com,,,Resigned,26-Mar-2015,10-Jan-2011
+271501000000054896,017,"Sushil Satish",Deshpande,Sushil.Deshpande@techdemocracy.com,,,Resigned,28-Aug-2014,05-Mar-2010
+271501000000054882,014,Addala,Srinivas,Srinivas.Addala@techdemocracy.com,,,Resigned,31-Mar-2016,26-Oct-2009
+271501000000054844,007,Touseef,Ahamed,Touseef.Ahamed@techdemocracy.com,,"Software Engineer",Resigned,10-May-2016,25-Aug-2008
+271501000000054816,004,"Sandeep Kumar",Suggam,sandeep.suggam@techdemocracy.com,TAG,"Team lead - Talent Acquisition Group",Resigned,20-Apr-2015,16-Jul-2007
